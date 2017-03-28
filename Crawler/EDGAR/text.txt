@@ -1,0 +1,1161 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>0001.txt
+<DESCRIPTION>FORM 10-Q
+<TEXT>
+
+
+<PAGE>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+
+
+                                    FORM 10-Q
+
+[X] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANG
+    ACT OF 1934
+
+    For Quarterly Period Ended June 30, 2000
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+    ACT OF 1934
+
+    For The Transition Period From           to
+
+                         Commission file number 1-3672.
+
+                     CENTRAL ILLINOIS PUBLIC SERVICE COMPANY
+             (Exact name of registrant as specified in its charter)
+
+           Illinois                                               37-0211380
+(State or other jurisdiction of                               (I.R.S. Employer
+incorporation or organization)                               Identification No.)
+
+
+               607 East Adams Street, Springfield, Illinois 62739
+              (Address of principal executive offices and Zip Code)
+
+
+                         Registrant's telephone number,
+                       including area code: (217) 523-3600
+
+
+     Indicate  by check mark  whether the  registrant  (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the  Securities  Exchange  Act of
+1934  during  the  preceding  12 months  (or for such  shorter  period  that the
+registrant was required to file such reports),  and (2) has been subject to such
+filing requirements for the past 90 days.
+
+
+                          Yes     X  .      No    .
+                                ------         ----
+
+
+Shares  outstanding of each of  registrant's  classes of common stock as of July
+  31, 2000:  Common  Stock,  no par value,  held by Ameren  Corporation  (parent
+  company of Registrant) - 25,452,373
+
+
+<PAGE>
+
+
+                     Central Illinois Public Service Company
+
+                                      Index
+
+                                                                     Page No.
+
+Part I      Financial Information (Unaudited)
+
+            Management's Discussion and Analysis                         2
+
+            Quantitative and Qualitative Disclosures
+            About Market Risk                                            5
+
+            Balance Sheet
+            - June 30, 2000 and December 31, 1999                        8
+
+            Statement of Income
+            - Three months, six months and 12 months ended
+               June 30, 2000 and 1999                                    9
+
+            Statement of Cash Flows
+            - Six months ended June 30, 2000 and 1999                   10
+
+            Notes to Financial Statements                               11
+
+
+Part II     Other Information                                           14
+
+
+<PAGE>
+
+
+9
+                    PART I. FINANCIAL INFORMATION (UNAUDITED)
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS
+
+OVERVIEW
+
+Central  Illinois  Public Service  Company  (AmerenCIPS or the  Registrant) is a
+subsidiary of Ameren  Corporation  (Ameren),  a holding company registered under
+the Public Utility Holding Company Act of 1935 (PUHCA).  In December 1997, Union
+Electric Company  (AmerenUE) and CIPSCO  Incorporated  (CIPSCO) combined to form
+Ameren,  with  AmerenUE and CIPSCO's  subsidiaries,  the  Registrant  and CIPSCO
+Investment Company (CIC), becoming subsidiaries of Ameren (the Merger).
+
+On May 1,  2000,  following  the  receipt  of all  required  State  and  Federal
+regulatory approvals,  the Registrant transferred its electric generating assets
+and liabilities,  at historical net book value, to a newly created  nonregulated
+company,  AmerenEnergy  Generating Company (Generating Company), a subsidiary of
+AmerenEnergy Resources Company (Resources Company), a wholly-owned subsidiary of
+Ameren (the  Transfer).  Discussion  below under Results of Operations  reflects
+that as a result of the Transfer,  interchange  sales from May 1, 2000 and sales
+under  certain  wholesale   contracts  are  no  longer  being  included  in  the
+Registrant's  operating  revenues  and that  operating  expenses  include  those
+expenses  it  incurs  under  its  traditional   transmission   and  distribution
+operations,  as well as purchased power under an electric power supply agreement
+with  Resources  Company's  newly  created  marketing  subsidiary.  See Electric
+Industry  Restructuring  and Note 1 under  Notes  to  Financial  Statements  for
+further discussion.
+
+The following  discussion and analysis  should be read in  conjunction  with the
+Notes  to  Financial  Statements  beginning  on page  11,  and the  Management's
+Discussion and Analysis of Financial Condition and Results of Operations (MD&A),
+the Audited Financial Statements and the Notes to Financial Statements appearing
+in the Registrant's 1999 Form 10-K.
+
+RESULTS OF OPERATIONS
+
+Earnings
+Second  quarter 2000  earnings of $19 million were  comparable  to 1999's second
+quarter earnings.  Earnings for the six months ended June 30, 2000 increased $11
+million  from the  year-ago  period to $44  million.  Earnings for the 12 months
+ended June 30, 2000 were $61 million, an $18 million decrease from the preceding
+12-month period.
+
+Earnings  fluctuated due to many conditions,  primarily:  sales growth,  weather
+variations,  electric  rate  reductions,  the  Transfer,  a gas  rate  increase,
+competitive  market forces,  fluctuating  operating  costs,  changes in interest
+expense,  changes in income and property  taxes and  nonrecurring  charges for a
+targeted employee separation plan and for coal contract termination payments.
+
+The  significant  items  affecting  revenues,  costs  and  earnings  during  the
+three-month,  six-month  and 12-month  periods  ended June 30, 2000 and 1999 are
+detailed below.
+
+Electric Operations
+
+Electric Operating Revenues      Variations for periods ended June 30, 2000
+                                     from comparable prior-year periods
+--------------------------------------------------------------------------------
+(Millions of Dollars)           Three Months      Six Months      Twelve Months
+                                ------------      ----------      -------------
+--------------------------------------------------------------------------------
+Rate variations                  $    -             $    -          $   (1)
+Effect of abnormal weather            -                 (2)             (4)
+Growth and other                      3                 19              21
+Interchange sales                   (34)                (1)             57
+--------------------------------------------------------------------------------
+                                 $  (31)            $   16          $   73
+-------------------------------------------------------------------------------
+
+Electric  revenues  for the three  months  ended June 30,  2000,  decreased  $31
+million  compared to the prior three- month period primarily due to a 51 percent
+decrease in interchange  sales. As a result of the Transfer,  interchange  sales
+are now being recorded at Resources Company.
+
+                                       -2-
+
+<PAGE>
+
+Electric revenues for the six months ended June 30, 2000,  increased $16 million
+compared to the prior  six-month  period  primarily  due to  increases in native
+sales of 21 percent. The increase in native sales was primarily due to increased
+wholesale,  commercial  and  industrial  sales,  offset  in  part  by  decreased
+interchange sales as a result of the Transfer.
+
+Electric revenues for the 12 months ended June 30, 2000,  increased $73 million,
+compared  to  the  same  prior  year  period,  primarily  due  to  increases  in
+interchange  sales of 12 percent,  due to strong marketing efforts and increases
+in native sales of 11 percent. The increase in native sales was primarily due to
+increased wholesale and industrial sales.
+
+<TABLE>
+<CAPTION>
+
+Fuel and Purchased Power                   Variations for periods ended June 30, 2000
+                                              from comparable prior-year periods
+-----------------------------------------------------------------------------------------
+(Millions of Dollars)                 Three Months    Six Months         Twelve Months
+                                      ------------    ----------         -------------
+-----------------------------------------------------------------------------------------
+Fuel:
+<S>                                     <C>           <C>                  <C>
+    Generation                          $  (30)       $  (19)              $  (10)
+    Price                                   (2)           (6)                 (12)
+    Generation efficiencies and other       (3)           (3)                  (8)
+    Coal contract termination payments       -             -                   52
+Purchased power                             47            66                   90
+-----------------------------------------------------------------------------------------
+                                        $   12        $   38               $  112
+-----------------------------------------------------------------------------------------
+
+</TABLE>
+
+Fuel and purchased  power costs for the three and six months ended June 30, 2000
+increased  $12  million  and $38  million,  respectively,  versus the prior year
+periods,  primarily due to an overall net increase in  generation  and purchased
+power resulting from higher native sales and higher  purchased power costs under
+the  provisions  of the  Power  Supply  Agreement  entered  into  as part of the
+Transfer, partially offset by lower fuel prices.
+
+The $112 million  increase in fuel and  purchased  power costs for the 12 months
+ended June 30, 2000 versus the  prior-year  period was  primarily  the result of
+increased  purchased  power,  resulting  from  higher  sales  volume  and higher
+purchased power costs under the provisions of the Power Supply Agreement entered
+into as part of the Transfer, and coal contract termination payments,  partially
+offset by lower fuel prices.
+
+Gas Operations
+Gas revenues for the  three-month  and  six-month  periods  ended June 30, 2000,
+increased $4 million  compared to the year-ago  periods  primarily due to higher
+gas costs recovered  through the Registrant's  purchased gas adjustment  clause,
+partially  offset  by  decreased  retail  sales  of 7  percent  and  5  percent,
+respectively. Gas revenues for the 12-month period ended June 30, 2000 increased
+$13 million  compared to the same  year-ago  period  primarily due to a gas rate
+increase which became  effective in February 1999 and higher gas costs recovered
+through the Registrant's  purchased gas adjustment clause.  These increases were
+partially offset by an 11 percent decline in retail sales, as well as a decrease
+in off-system sales to others.
+
+Gas  costs  for the  three-month  and  12-month  periods  ended  June 30,  2000,
+increased  $3 million and $9  million,  respectively,  compared to the  year-ago
+periods  primarily  due to higher gas prices,  partially  offset by lower retail
+sales.
+
+Other Operating Expenses
+Other operating expense variations  reflected  recurring factors such as growth,
+inflation,  the Transfer,  labor and benefit decreases,  in addition to a charge
+for the targeted separation plan.
+
+Other  operations  expenses  decreased $17 million and $15 million for the three
+months and six months  ended June 30, 2000,  respectively,  compared to the same
+year-ago  periods  primarily  due to lower  employee  benefit  costs,  a reduced
+workforce and the Transfer, partially offset by increased professional services.
+Other operations  expenses decreased $7 million for the 12 months ended June 30,
+2000, compared to the same year-ago period, primarily due to a reduced workforce
+and the  Transfer,  coupled with the fact that  expenses  for the twelve  months
+ended  June 30,  1999  included  a  nonrecurring  pretax  charge  for a targeted
+separation  plan  of $7  million.  These  decreases  were  partially  offset  by
+increased  injuries and damages expenses based on claims experience and expenses
+associated with deregulation in Illinois.
+
+Maintenance  expenses  for the three  months and six months  ended June 30, 2000
+decreased  $14  million  and $15  million,  respectively,  from  the  comparable
+year-ago periods. These decreases were primarily the result of decreased
+
+                                       -3-
+
+<PAGE>
+
+power plant maintenance and the Transfer. Maintenance expenses for the 12 months
+ended June 30, 2000 increased $9 million from the comparable year-ago period due
+to increased power plant maintenance offset in part by the Transfer.
+
+Taxes
+Income  taxes for the six months  ended June 30,  2000,  increased  $9  million,
+primarily due to higher pretax income. Income taxes for the 12 months ended June
+30, 2000, decreased $8 million, primarily due to lower pretax income.
+
+Other  taxes  for the six  months  ended  June 30,  2000  increased  $3  million
+primarily  due to  increased  property  taxes as a result  of  higher  estimated
+assessment values.  Other taxes for the 12 months ended June 30, 2000, decreased
+$2 million  primarily due to a decrease in gross receipt  taxes,  resulting from
+the restructuring of the Illinois public utility tax whereby gross receipt taxes
+are no longer recorded as electric  revenue and gross receipt tax expense.  This
+decrease was partially offset by increased  property taxes as a result of higher
+estimated assessment values.
+
+Other Income and Deductions
+For  the  three  months,   six  months  and  12  months  ended  June  30,  2000,
+miscellaneous net increased $7 million, $7 million and $9 million, respectively,
+compared to same year-ago  periods,  primarily due to interest  income earned on
+the promissory note receivable from Generating  Company.  See Electric  Industry
+Restructuring  and  Note 1 under  Notes  to  Financial  Statements  for  further
+discussion of the promissory note.
+
+Balance Sheet
+Changes in accounts and wages payable,  taxes accrued,  other accounts and notes
+receivable,  and other  current  assets  resulted  from the  timing  of  various
+payments to taxing authorities and suppliers.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Cash  provided by operating  activities  totaled $102 million for the six months
+ended June 30, 2000, compared to $80 million during the same 1999 period.
+
+Cash flows used in investing  activities totaled $20 million and $62 million for
+the six  months  ended  June  30,  2000  and  1999,  respectively.  Construction
+expenditures  for the six months ended June 30, 2000,  for  constructing  new or
+improving  existing  facilities,  were $20  million.  Construction  expenditures
+decreased from the prior period due to the effects of the Transfer. See Electric
+Industry  Restructuring  and Note 1 under  Notes  to  Financial  Statements  for
+further discussion.
+
+Cash flows used in financing  activities  totaled $81 million for the six months
+ended June 30, 2000,  compared to $10 million  during the same 1999 period.  The
+Registrant's  principal  financing  activities  for  the  quarter  included  the
+redemption of long-term debt, the payment of intercompany  notes payable and the
+payment of dividends, partially offset by the issuance of long-term debt.
+
+The Registrant  plans to continue  utilizing  short-term  debt to support normal
+operations and other temporary requirements. The Registrant is authorized by the
+Securities  and  Exchange  Commission  under PUHCA to have up to $250 million of
+short-term  unsecured debt instruments  outstanding at any one time.  Short-term
+borrowings  consist of bank loans  (maturities  generally on an overnight basis)
+and commercial  paper  (maturities  generally  within 1 to 45 days). At June 30,
+2000, the Registrant had committed bank lines of credit  aggregating $25 million
+(all of which was  unused and  available  at such  date)  which  make  available
+interim  financing  at  various  rates  of  interest  based on  LIBOR,  the bank
+certificate of deposit rate or other options.  The lines of credit are renewable
+annually at various dates  throughout the year. At June 30, 2000, the Registrant
+had no outstanding short-term borrowings.
+
+Also, the Registrant has the ability to borrow up to approximately  $950 million
+from Ameren or AmerenUE through a regulated money pool agreement.  The regulated
+money pool was established to coordinate and provide for certain short-term cash
+and working capital requirements and is administered by Ameren Services Company,
+another  subsidiary  of Ameren.  Interest  is  calculated  at  varying  rates of
+interest  depending on the  composition  of internal  and external  funds in the
+regulated  money pool.  At June 30,  2000,  the  Registrant  had $120 million of
+intercompany  borrowings  outstanding  and $434  million  available  through the
+regulated money pool.
+
+The Registrant,  in the ordinary course of business,  explores  opportunities to
+reduce  its costs in order to remain  competitive  in the  marketplace.  An area
+where the Registrant  focuses its review includes,  but is not limited to, labor
+costs. In the labor area, the Registrant has reached  agreements with all of the
+Registrant's  major  collective  bargaining units which will permit it to manage
+its labor costs and practices effectively in the future. The Registrant
+
+                                       -4-
+
+<PAGE>
+
+also explores  alternatives  to  effectively  manage the size of its  workforce.
+These  alternatives  include utilizing hiring freezes,  outsourcing and offering
+employee separation packages.
+
+Certain of these cost reduction alternatives could require nonrecurring payments
+of employee separation benefits. Management is unable to predict which (if any),
+and to what extent, these alternatives to reduce its overall cost structure will
+be executed.  Management  is unable to determine  the impact of these actions on
+the Registrant's future financial position, results of operations or liquidity.
+
+ELECTRIC INDUSTRY RESTRUCTURING
+
+In December 1997, the Governor of Illinois signed the Electric  Service Customer
+Choice and Rate  Relief Law of 1997 (the Law)  providing  for  electric  utility
+restructuring  in Illinois.  This  legislation  introduces  competition into the
+supply of electric energy at retail in Illinois.
+
+One of the major  provisions of the Law includes the phasing-in  through 2002 of
+retail direct access, which allows customers to choose their electric generation
+supplier.  The phase-in of retail direct  access began on October 1, 1999,  with
+large  commercial and industrial  customers  principally  comprising the initial
+group.  The customers in this group  represent  approximately  24 percent of the
+Registrant's  total  sales.  As of June 30,  2000,  the impact of retail  direct
+access  on  the  Registrant's  financial  condition,  results  of  operation  or
+liquidity was immaterial.  Retail direct access will be offered to the remaining
+commercial  and  industrial  customers on December 31, 2000,  and to residential
+customers on May 1, 2002.
+
+The Transfer
+In conjunction with another provision of the Law, on May 1, 2000,  following the
+receipt of all required State and Federal regulatory  approvals,  the Registrant
+transferred its electric  generating  assets and liabilities,  at historical net
+book value, to a newly created  nonregulated  company,  AmerenEnergy  Generating
+Company (Generating Company), a subsidiary of AmerenEnergy  Resources Company, a
+wholly-owned  subsidiary  of Ameren,  in  exchange  for a  promissory  note from
+Generating  Company  in the  principal  amount of $552  million  and  Generating
+Company  common stock.  The  promissory  note has a term of five years and bears
+interest at 7 percent based on a 10-year  amortization.  The transferred  assets
+represent a generating capacity of approximately 2,900 megawatts.  Approximately
+45 percent of the Registrant's  employees were transferred to Generating Company
+as a part of the transaction.
+
+Also on May 1, 2000, an electric power supply agreement was entered into between
+Generating  Company and a newly  created  nonregulated  affiliate,  AmerenEnergy
+Marketing  Company  (Marketing  Company),  also  a  wholly-owned  subsidiary  of
+Resources Company. On the same date,  Marketing Company entered into an electric
+power supply agreement with the Registrant (Power Supply Agreement) to supply it
+sufficient power to meet native load requirements. A portion of the capacity and
+energy supplied by Generating Company to Marketing Company will be resold to the
+Registrant  for  resale to  native  load  customers  at rates  specified  by the
+Illinois Commerce Commission (which approximate the historical  regulatory rates
+for generation) or to retail  customers  allowed choice of an electric  supplier
+under state law at market based  prices.  This  agreement  expires  December 31,
+2004.  In turn,  the  Registrant  will  bill  these  customers  at  rates  which
+approximate the costs the Registrant incurs for its capacity and energy supplied
+by Generating Company. For the two-month period ended June 30, 2000, $57 million
+of  the  Registrant's  purchased  power  was  derived  under  the  Power  Supply
+Agreement.
+
+As  a  result  of  the  Transfer,  coupled  with  the  Power  Supply  Agreement,
+prospectively  from May 1, 2000  through  December 31,  2004,  the  Registrant's
+operating   revenues  will  include   revenues   derived  from  its  traditional
+transmission and distribution operations,  as well as those revenues it receives
+from its native load customers,  or new customers  allowed choice of an electric
+supplier  under  state  law.  Sales  under  certain   wholesale   contracts  and
+interchange  sales will no longer be  reflected  in  operating  revenues  of the
+Registrant.  Instead,  those revenues will be recorded at Resources Company. The
+Registrant's  operating expenses will include those expenses it incurs under its
+traditional transmission and distribution operations, as well as purchased power
+expenses incurred under the terms of the Power Supply Agreement.
+
+In addition,  as a result of the Transfer,  the  Registrant  incurred a deferred
+intercompany tax gain,  which resulted in an additional  deferred tax liability.
+An intercompany  tax receivable with Generating  Company was established for the
+deferred tax  liability.  This asset and liability will be amortized over twenty
+years.  At  June  30,  2000,  the   Registrant's   deferred  tax  liability  and
+intercompany tax receivable was $219 million.
+
+                                       -5-
+
+<PAGE>
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Market risk  represents the risk of changes in value of a financial  instrument,
+derivative or non-derivative,  caused by fluctuations in market variables (e.g.,
+interest rates, equity prices, commodity prices, etc.). The following discussion
+of  Ameren's,   including  AmerenCIPS',   risk  management  activities  includes
+"forward-looking"  statements  that  involve  risks  and  uncertainties.  Actual
+results could differ  materially from those  projected in the  "forward-looking"
+statements. Ameren handles market risks in accordance with established policies,
+which may include entering into various derivative  transactions.  In the normal
+course of  business,  Ameren also faces risks that are either  non-financial  or
+non-quantifiable.  Such risks principally include business,  legal,  operational
+and credit risk and are not represented in the following analysis.
+
+Interest Rate Risk
+The  Registrant  is exposed to market risk  through  changes in  interest  rates
+through its  issuance  of both  long-term  and  short-term  variable-rate  debt,
+commercial paper and auction rate preferred  stock.  The Registrant  manages its
+interest rate exposure by controlling  the amount of these  instruments it holds
+within its total  capitalization  portfolio  and by  monitoring  the  effects of
+market changes in interest rates.
+
+If interest rates increase one percentage point in 2001 as compared to 2000, the
+Registrant's  interest  expense would  increase and net income would decrease by
+approximately $1 million.  This amount has been determined using the assumptions
+that the  Registrant's  outstanding  variable  rate debt,  commercial  paper and
+auction market preferred stock as of June 30, 2000,  continued to be outstanding
+throughout  2001,  and that the  average  interest  rates for these  instruments
+increased  one  percentage  point over 2000.  The model  does not  consider  the
+effects of the reduced  level of overall  economic  activity that would exist in
+such an  environment.  In the event of a significant  change in interest  rates,
+management  would likely take  actions to further  mitigate its exposure to this
+market risk. However,  due to the uncertainty of the specific actions that would
+be taken and their possible effects,  the sensitivity analysis assumes no change
+in the Registrant's financial structure.
+
+Commodity Price Risk
+The  Registrant  is exposed to changes in market prices for natural gas and fuel
+and  electricity.   With  regard  to  its  natural  gas  utility  business,  the
+Registrant's  exposure to changing  market prices is in large part  mitigated by
+the fact that the  Registrant  has a Purchased  Gas  Adjustment  Clause (PGA) in
+place.  The PGA allows the  Registrant to pass on to its customers its prudently
+incurred costs of natural gas.
+
+While  the  Registrant  does not  have a  provision  similar  to the PGA for its
+electric operations,  purchased power price risk is mitigated in part due to the
+fact that the Registrant  has entered into a long-term  contract with a supplier
+for purchased power (see Electric Industry  Restructuring and Note 1 under Notes
+to Financial Statements for further discussion). With regard to the Registrant's
+exposure to commodity price risk for purchased  power,  Ameren has established a
+subsidiary,  AmerenEnergy,  Inc.  (AmerenEnergy),  whose primary  responsibility
+includes  managing  market risks  associated with the changing market prices for
+electricity purchased on behalf of the Registrant.
+
+ACCOUNTING MATTERS
+
+In June 1998, the Financial  Accounting  Standards Board (FASB) issued Statement
+of  Financial  Accounting  Standards  (SFAS)  133,  "Accounting  for  Derivative
+Instruments  and  Hedging  Activities."  SFAS  133  establishes  accounting  and
+reporting  standards for derivative  instruments,  including certain  derivative
+instruments embedded in other contracts, and for hedging activities and requires
+recognition  of all  derivatives  as either assets or liabilities on the balance
+sheet  measured  at fair  value.  In June 1999,  the FASB  issued  SFAS No. 137,
+"Accounting for Derivative  Instruments and Hedging Activities - Deferral of the
+Effective  Date of FASB  Statement No. 133," which delayed the effective date of
+SFAS 133 to all fiscal  quarters of all fiscal years,  beginning  after June 15,
+2000.  In June 2000,  the FASB  issued  SFAS No.  138,  "Accounting  for Certain
+Derivative  Instruments  and Certain  Hedging  Activities  -an amendment of FASB
+Statement No. 133," which amended certain accounting and reporting  standards of
+SFAS 133. Management believes that adoption of SFAS 133 will not have a material
+impact on the  Registrant's  financial  position or results of  operations  upon
+adoption  based on the  derivative  instruments  that  existed at June 30, 2000.
+However,  changing market conditions and the volume of future transactions which
+fall within the scope of SFAS 133, as amended,  and the interpretations from the
+FASB's  Derivative   Implementation  Group  could  change  management's  current
+assessment.  As a result, SFAS 133, as amended, could increase the volatility of
+the  Registrant's  future  earnings  and could be material  to the  Registrant's
+financial position and results of operations upon adoption.
+
+                                       -6-
+
+<PAGE>
+
+SAFE HARBOR STATEMENT
+
+Statements made in this Form 10-Q which are not based on historical  facts,  are
+"forward-looking"  and, accordingly,  involve risks and uncertainties that could
+cause actual results to differ  materially from those  discussed.  Although such
+"forward-looking"  statements  have  been  made in good  faith  and are based on
+reasonable assumptions,  there is no assurance that the expected results will be
+achieved.  These statements include (without limitation) statements as to future
+expectations,   beliefs,  plans,  strategies,  objectives,  events,  conditions,
+financial  performance  and the Year 2000 Issue.  In  connection  with the "Safe
+Harbor" provisions of the Private Securities  Litigation Reform Act of 1995, the
+Registrant is providing this cautionary  statement to identify important factors
+that could cause actual results to differ materially from those anticipated. The
+following factors,  in addition to those discussed  elsewhere in this report and
+in the Annual  Report on Form 10-K for the fiscal year ended  December 31, 1999,
+and in subsequent  securities filings,  could cause results to differ materially
+from management expectations as suggested by such "forward-looking"  statements:
+the  effects  of  regulatory  actions;  changes  in laws and other  governmental
+actions;  the impact on the  Registrant  of current  regulations  related to the
+phasing-in of the  opportunity for some customers to choose  alternative  energy
+suppliers in Illinois;  the effects of increased  competition  in the future due
+to, among other  things,  deregulation  of certain  aspects of the  Registrant's
+business at both the State and Federal levels; future market prices for fuel and
+purchased power,  electricity,  and natural gas,  including the use of financial
+instruments; average rates for electricity in the Midwest; business and economic
+conditions;  interest rates;  weather conditions;  fuel prices and availability;
+generation plant performance; the impact of current environmental regulations on
+utilities and  generating  companies  and the  expectation  that more  stringent
+requirements  will be  introduced  over time,  which  could  potentially  have a
+negative  financial  effect;  monetary  and fiscal  policies;  future  wages and
+employee benefits costs; and legal and administrative proceedings.
+
+                                       -7-
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+                     CENTRAL ILLINOIS PUBLIC SERVICE COMPANY
+                                  BALANCE SHEET
+                                    UNAUDITED
+                                    ---------
+                      (Thousands of Dollars, Except Shares)
+
+
+                                                                 June 30,    December 31,
+ASSETS                                                             2000         1999
+------                                                          ----------   ----------
+<S>                                                             <C>          <C>
+Property and plant, at original cost:
+   Electric                                                     $1,185,886   $2,422,002
+   Gas                                                             271,062      267,909
+                                                                ----------   ----------
+                                                                 1,456,948    2,689,911
+   Less accumulated depreciation and amortization                  637,627    1,260,582
+                                                                ----------   ----------
+                                                                   819,321    1,429,329
+Construction work in progress                                        6,741       43,435
+                                                                ----------   ----------
+         Total property and plant, net                             826,062    1,472,764
+                                                                ----------   ----------
+
+Investments and other assets:
+   Intercompany notes receivable                                   511,701         --
+   Intercompany tax receivable                                     202,882         --
+   Other                                                            17,684       17,722
+                                                                ----------   ----------
+         Total investments and other assets                        732,267       17,722
+                                                                ----------   ----------
+
+
+Current assets:
+   Cash and cash equivalents                                        12,626       12,536
+   Accounts receivable - trade (less allowance for doubtful
+         accounts of $2,563 and $1,828, respectively)               49,288       48,703
+   Unbilled revenue                                                 76,919       75,884
+   Other accounts and notes receivable                              29,050       20,875
+   Intercompany notes receivable                                    39,925         --
+   Intercompany tax receivable                                      16,114         --
+   Materials and supplies, at average cost -
+      Fossil fuel                                                   14,160       47,291
+      Other                                                          9,746       33,931
+   Other                                                             6,768       10,387
+                                                                ----------   ----------
+         Total current assets                                      254,596      249,607
+                                                                ----------   ----------
+Regulatory assets:
+   Deferred income taxes                                               364       21,520
+   Other                                                             9,401       20,141
+                                                                ----------   ----------
+         Total regulatory assets                                     9,765       41,661
+                                                                ----------   ----------
+Total Assets                                                    $1,822,690   $1,781,754
+                                                                ==========   ==========
+
+CAPITAL AND LIABILITIES
+Capitalization:
+   Common stock, no par value, 45,000,000 shares authorized -
+     25,452,373 shares outstanding                              $  120,033   $  120,033
+   Retained earnings                                               422,385      414,345
+                                                                ----------   ----------
+         Total common stockholder's equity                         542,418      534,378
+   Preferred stock not subject to mandatory redemption              80,000       80,000
+   Long-term debt                                                  468,116      493,625
+                                                                ----------   ----------
+        Total capitalization                                     1,090,534    1,108,003
+                                                                ----------   ----------
+Current liabilities:
+   Current maturity of long-term debt                               30,000       35,000
+   Intercompany notes payable                                      120,350      132,900
+   Accounts and wages payable                                      119,100       82,800
+   Accumulated deferred income taxes                                19,618       22,621
+   Taxes accrued                                                    22,858       32,145
+   Other                                                            34,401       39,619
+                                                                ----------   ----------
+         Total current liabilities                                 346,327      345,085
+                                                                ----------   ----------
+Accumulated deferred income taxes                                  310,741      216,661
+Accumulated deferred investment tax credits                         13,196       32,169
+Regulatory liability                                                36,004       34,004
+Other deferred credits and liabilities                              25,888       45,832
+                                                                ----------   ----------
+Total Capital and Liabilities                                   $1,822,690   $1,781,754
+                                                                ==========   ==========
+
+</TABLE>
+
+See Notes to Financial Statements.
+
+                                       -8-
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+                                               CENTRAL ILLINOIS PUBLIC SERVICE COMPANY
+                                                          STATEMENT OF INCOME
+                                                                       UNAUDITED
+                                                               ---------
+                                                        (Thousands of Dollars)
+
+
+                                                  Three Months Ended        Six Months Ended       Twelve Months Ended
+                                                       June 30,                 June 30,                June 30,
+                                              -----------------------   ---------------------    ------------------------
+                                                 2000         1999         2000        1999         2000         1999
+                                                 ----         ----         ----        ----         ----         ----
+
+ OPERATING REVENUES:
+<S>                                           <C>          <C>          <C>         <C>          <C>          <C>
+    Electric                                  $ 169,331    $ 200,336    $ 371,834   $ 355,576    $ 811,734    $ 739,050
+    Gas                                          25,788       21,593       78,612      74,125      137,133      123,731
+                                              ---------    ---------    ---------   ---------    ---------    ---------
+ Total operating revenues                       195,119      221,929      450,446     429,701      948,867      862,781
+
+ OPERATING EXPENSES:
+    Operations
+       Fuel and purchased power                  82,128       70,542      163,758     126,232      351,734      240,139
+       Gas                                       12,446        9,752       44,160      43,002       74,510       65,497
+       Other                                     28,450       45,581       71,446      85,979      176,089      183,305
+                                              ---------    ---------    ---------   ---------    ---------    ---------
+                                                123,024      125,875      279,364     255,213      602,333      488,941
+    Maintenance                                  11,549       25,161       28,053      42,568       89,067       80,189
+    Depreciation and amortization                15,236       19,449       36,586      40,189       76,954       77,078
+    Income taxes                                 11,958       11,197       26,121      17,176       39,718       47,316
+    Other taxes                                  11,167       10,266       22,403      19,865       42,851       44,684
+                                              ---------    ---------    ---------   ---------    ---------    ---------
+       Total operating expenses                 172,934      191,948      392,527     375,011      850,923      738,208
+
+ OPERATING INCOME                                22,185       29,981       57,919      54,690       97,944      124,573
+
+ OTHER INCOME AND (DEDUCTIONS):
+    Allowance for equity funds used
+       during construction                         --              7         --             1           (9)
+                                                                                                                    (32)
+    Miscellaneous, net                            7,439          725        7,816       1,081        8,765         (163)
+                                              ---------    ---------    ---------   ---------    ---------    ---------
+        Total other income and (deductions)       7,439          732        7,816       1,082        8,756         (195)
+
+ INCOME BEFORE
+    INTEREST CHARGES                             29,624       30,713       65,735      55,772      106,700      124,378
+
+ INTEREST CHARGES:
+    Interest                                      9,788       10,343       19,347      21,158       40,925       41,494
+    Allowance for borrowed funds
+       used during construction                     (68)        (310)         152        (381)         554         (791)
+                                              ---------    ---------    ---------   ---------    ---------    ---------
+    Net interest charges                          9,720       10,033       19,499      20,777       41,479       40,703
+
+NET INCOME                                       19,904       20,680       46,236      34,995       65,221       83,675
+
+PREFERRED STOCK DIVIDENDS                           837          917        1,830       1,885        3,778        3,765
+                                              ---------    ---------    ---------   ---------    ---------    ---------
+
+NET INCOME AFTER PREFERRED
+   STOCK DIVIDENDS                            $  19,067    $  19,763    $  44,406   $  33,110    $  61,443    $  79,910
+                                              =========    =========    =========   =========    =========    =========
+
+</TABLE>
+
+See Notes to Financial Statements.
+
+                                       -9-
+
+<PAGE>
+
+<TABLE>
+
+                     CENTRAL ILLINOIS PUBLIC SERVICE COMPANY
+                             STATEMENT OF CASH FLOWS
+                                    UNAUDITED
+                                    ---------
+                             (Thousands of Dollars)
+
+
+
+
+                                                           Six  Months Ended
+                                                                June 30,
+                                                       -------------------------
+                                                           2000            1999
+                                                           ----            ----
+Cash Flows From Operating:
+<S>                                                    <C>          <C>
+   Net income                                          $  46,236    $  34,995
+   Adjustments to reconcile net income to net cash
+      provided by operating activities:
+        Depreciation and amortization                     36,586       40,189
+        Allowance for funds used during construction         152         (382)
+        Deferred income taxes, net                        14,713       (7,768)
+        Deferred investment tax credits, net                 755       (1,242)
+        Changes in assets and liabilities:
+           Receivables, net                               (9,795)     (13,547)
+           Materials and supplies                          3,510       10,810
+           Accounts and wages payable                     36,453       (4,561)
+           Taxes accrued                                  (9,287)       5,156
+           Other, net                                    (17,655)      16,135
+                                                       ---------    ---------
+Net cash provided by operating activities                101,668       79,785
+
+Cash Flows From Investing:
+   Construction expenditures                             (20,032)     (62,840)
+   Allowance for funds used during construction             (152)         382
+                                                       ---------    ---------
+Net cash used in investing activities                    (20,184)     (62,458)
+
+Cash Flows From Financing:
+   Dividends on common stock                             (36,114)     (34,310)
+   Dividends on preferred stock                           (1,830)      (1,697)
+   Redemptions -
+      Short-term debt                                       --        (46,700)
+      Long-term debt                                     (82,000)     (55,000)
+      Intercompany notes payable                         (12,550)        --
+   Issuances -
+      Long-term debt                                      51,100         --
+      Intercompany notes payable                            --        127,500
+                                                       ---------    ---------
+Net cash used in financing activities                    (81,394)     (10,207)
+                                                       ---------    ---------
+
+Net change in cash and cash equivalents                       90        7,120
+Cash and cash equivalents at beginning of year            12,536       10,180
+                                                       ---------    ---------
+Cash and cash equivalents at end of period             $  12,626    $  17,300
+                                                       =========    =========
+
+Cash paid during the periods:
+   Interest (net of amount capitalized)                $  21,882    $  19,458
+   Income taxes, net                                   $  21,712    $  21,805
+
+</TABLE>
+
+
+SUPPLEMENTAL DISCLOSURE OF NONCASH TRANSACTION:
+In  the  second  quarter  of  2000,  the  Registrant  transferred  its  electric
+generating  assets and  liabilities,  at historical  net book value,  to a newly
+created nonregulated company,  AmerenEnergy  Generating Company, a subsidiary of
+AmerenEnergy   Resources  Company,  in  exchange  for  a  promissory  note  from
+Generating  Company  in the  principal  amount of $552  million  and  Generating
+Company common stock. The transaction  also resulted in a deferred  intercompany
+tax gain  liability  and related tax  receivable  from  AmerenEnergy  Generating
+Company  in the  amount  of $219  million.  See  Note 1 in  Notes  to  Financial
+Statements for further information.
+
+See Notes to Financial Statements.
+
+                                      -10-
+
+<PAGE>
+
+CENTRAL ILLINOIS PUBLIC SERVICE COMPANY
+NOTES TO FINANCIAL STATEMENTS (UNAUDITED)
+June 30, 2000
+
+
+Note 1 - Central Illinois Public Service Company  (AmerenCIPS or the Registrant)
+is a subsidiary of Ameren Corporation  (Ameren),  which is the parent company of
+the following  operating  companies:  the  Registrant,  Union  Electric  Company
+(AmerenUE)  and  AmerenEnergy   Generating  Company  (Generating   Company),   a
+wholly-owned  subsidiary of AmerenEnergy  Resources Company (Resources Company).
+Ameren is a registered  holding company under the Public Utility Holding Company
+Act of  1935  (PUHCA)  formed  in  December  1997  upon  the  merger  of  CIPSCO
+Incorporated  (the Registrant's  former parent) and AmerenUE (the Merger).  Both
+Ameren and its  subsidiaries  are subject to the  regulatory  provisions  of the
+PUHCA.  The  operating  companies  are engaged  principally  in the  generation,
+transmission,  distribution  and  sale of  electric  energy  and  the  purchase,
+distribution,  transportation  and sale of natural gas in the states of Illinois
+and  Missouri.  Contracts  among the  companies--dealing  with  jointly-operated
+generating facilities,  interconnecting  transmission lines, and the exchange of
+electric power--are regulated by the Federal Energy Regulatory Commission (FERC)
+or the Securities and Exchange Commission (SEC). Administrative support services
+are provided to the Registrant by a separate Ameren subsidiary,  Ameren Services
+Company.  The Registrant  serves 400,000 electric and 175,000 gas customers in a
+20,000 square-mile region of central and southern Illinois.
+
+The Registrant also has a 20 percent  interest in Electric  Energy,  Inc. (EEI),
+which is  accounted  for under the  equity  method of  accounting.  EEI owns and
+operates an  electric  generating  and  transmission  facility in Illinois  that
+supplies  electric  power  primarily to a uranium  enrichment  plant  located in
+Paducah, Kentucky.
+
+In  conjunction  with the Illinois  Electric  Service  Customer  Choice and Rate
+Relief Law of 1997, on May 1, 2000,  following the receipt of all required State
+and Federal  regulatory  approvals,  the  Registrant  transferred  its  electric
+generating  assets and  liabilities,  at historical  net book value,  to a newly
+created  nonregulated  company,  Generating Company,  for a promissory note from
+Generating  Company  in the  principal  amount of $552  million  and  Generating
+Company  common stock (the  Transfer).  The  promissory  note has a term of five
+years  and bears  interest  at 7 percent  based on a 10-year  amortization.  The
+transferred  assets  represent  a  generating  capacity of  approximately  2,900
+megawatts.   Approximately  45  percent  of  the  Registrant's   employees  were
+transferred to Generating Company as a part of the transaction.  The significant
+components of the net assets transferred are as follows:
+
+(Thousands of dollars)
+Cash                                                      $       6,387
+Material and supplies                                            53,806
+Other current assets                                              5,522
+Property and plant, net                                         635,031
+Deferred tax assets                                              22,022
+                                                         ---------------
+
+Total assets transferred                                 $      722,768
+                                                         ---------------
+
+
+Accounts payable                                          $       6,541
+Other current liabilities                                         3,351
+Other deferred credits                                            1,804
+Deferred investment tax credits                                  19,728
+Deferred tax liabilities                                        139,718
+                                                         ---------------
+
+Total liabilities transferred                            $      171,142
+                                                         ---------------
+
+Net assets transferred                                   $      551,626
+                                                         ---------------
+
+Also on May 1, 2000, an electric power supply agreement was entered into between
+Generating  Company and a newly  created  nonregulated  affiliate,  AmerenEnergy
+Marketing  Company  (Marketing  Company),  also  a  wholly-owned  subsidiary  of
+Resources Company. On the same date,  Marketing Company entered into an electric
+power supply agreement with the Registrant (Power Supply Agreement) to supply it
+sufficient power to meet native load requirements. A portion of the capacity and
+energy supplied by Generating Company to Marketing Company will be resold to the
+Registrant  for  resale to  native  load  customers  at rates  specified  by the
+Illinois Commerce
+
+                                      -11-
+
+<PAGE>
+
+Commission (which approximate the historical regulatory rates for generation) or
+to retail  customers  allowed choice of an electric  supplier under state law at
+market based prices.  This  agreement  expires  December 31, 2004. In turn,  the
+Registrant  will bill these  customers at rates which  approximate the costs the
+Registrant  incurs for its capacity and energy  supplied by Generating  Company.
+For the two-month  period ended June 30, 2000,  $57 million of the  Registrant's
+purchased power was derived under the Power Supply Agreement.
+
+As a result of the Transfer, coupled with the Power Supply Agreement between the
+Registrant  and  Marketing  Company,  prospectively  from  May 1,  2000  through
+December 31, 2004, the  Registrant's  operating  revenues will include  revenues
+derived from its traditional transmission and distribution  operations,  as well
+as those revenues it receives from its native load  customers,  or new customers
+allowed  choice of an electric  supplier  under state law.  Sales under  certain
+wholesale  contracts  and  interchange  sales  will no  longer be  reflected  in
+operating revenues of the Registrant.  Instead,  those revenues will be recorded
+at Resources  Company.  The Registrant's  operating  expenses will include those
+expenses  it  incurs  under  its  traditional   transmission   and  distribution
+operations,  as well as purchased power expenses incurred under the terms of the
+Power Supply Agreement.
+
+In addition, as a result of the transaction,  the Registrant incurred a deferred
+intercompany tax gain,  which resulted in an additional  deferred tax liability.
+An intercompany  tax receivable with Generating  Company was established for the
+deferred tax  liability.  This asset and liability will be amortized over twenty
+years.  At  June  30,  2000,  the   Registrant's   deferred  tax  liability  and
+intercompany tax receivable was $219 million.
+
+Note 2 - Financial  statement note  disclosures,  normally included in financial
+statements prepared in conformity with generally accepted accounting principles,
+have been omitted in this Form 10-Q pursuant to the Rules and Regulations of the
+SEC.  However,  in the opinion of the Registrant,  the disclosures  contained in
+this Form 10-Q are adequate to make the  information  presented not  misleading.
+See Notes to Financial Statements included in the 1999 Form 10-K for information
+relevant to the  financial  statements  contained  in this Form 10-Q,  including
+information as to the significant accounting policies of the Registrant.
+
+Note 3 - In the  opinion of the  Registrant,  the interim  financial  statements
+filed as part of this Form 10-Q  reflect  all  adjustments,  consisting  only of
+normal recurring adjustments,  necessary for a fair statement of the results for
+the periods presented.  The Registrant's  financial  statements were prepared to
+permit the information  required in the Financial Data Schedule  (FDS),  Exhibit
+27,  to be  directly  extracted  from  the  filed  statements.  The FDS  amounts
+correspond  to or are  calculable  from the amounts  reported  in the  financial
+statements or notes thereto.
+
+Note 4 - Due to the  effect of  weather  on sales and  other  factors  which are
+characteristic of public utility  operations,  financial results for the periods
+ended June 30, 2000 and 1999, are not  necessarily  indicative of trends for any
+three-month, six-month or 12-month period.
+
+Note 5 - The Registrant has  transactions  in the normal course of business with
+other Ameren  subsidiaries.  These transactions are primarily comprised of power
+purchases and sales and services received or rendered.  Intercompany receivables
+included in other accounts and notes receivable were  approximately  $24 million
+and $12  million,  respectively,  as of June 30,  2000 and  December  31,  1999.
+Intercompany   payables   included  in  accounts  and  wages   payable   totaled
+approximately  $82 and  $35  million,  respectively,  as of June  30,  2000  and
+December 31, 1999.
+
+In addition,  the Registrant has the ability to borrow up to approximately  $950
+million from Ameren or AmerenUE or invest funds  through a regulated  money pool
+agreement.  The regulated  money pool was  established to coordinate and provide
+for certain short-term cash and working capital requirements and is administered
+by Ameren Services Company.  Interest is calculated at varying rates of interest
+depending on the  composition  of internal and external  funds in the  regulated
+money pool. At June 30, 2000, the  Registrant  had $120 million of  intercompany
+borrowings  outstanding and $434 million  available  through the regulated money
+pool.
+
+Note 6 - In 1998,  the  Registrant  joined a group of companies that support the
+formation of the Midwest  Independent  System  Operator  (Midwest  ISO).  An ISO
+operates,  but does not own, electric  transmission systems and maintains system
+reliability and security while  alleviating  certain  pricing  issues.  The FERC
+conditionally  approved the  formation of the Midwest  ISO.  The  Registrant  is
+evaluating  certain  issues  which are  outstanding  related to the  start-up of
+operations  of the Midwest ISO,  including  the final  determination  of revenue
+distribution  among  the  Midwest  ISO  members.   Further,  the  Registrant  is
+evaluating  alternatives  to  membership  in the  Midwest  ISO.  At  this  time,
+management  has not  decided its course of action  relative to its  transmission
+business and accordingly is unable to determine the impact that operation of the
+Midwest ISO or other alternatives will have on its financial condition,  results
+of operations or liquidity.
+
+                                      -12-
+
+<PAGE>
+
+Note 7 - Segment information for the three-month, six-month and 12-month periods
+ended June 30, 2000 and 1999 is as follows:
+
+--------------------------------------------------------------------------------
+
+(in thousands)                            Electric        Gas          Total
+--------------------------------------------------------------------------------
+
+Three months ended June 30, 2000:
+
+Revenues                                 $169,331       $25,788       $195,119
+Operating Income (Net)                     20,408         1,777         22,185
+--------------------------------------------------------------------------------
+
+Three months ended June 30, 1999:
+
+Revenues                                 $200,336       $21,593       $221,929
+Operating Income (Net)                     28,603         1,378         29,981
+--------------------------------------------------------------------------------
+
+Six months ended June 30, 2000:
+
+Revenues                                 $371,834        $78,612      $450,446
+Operating Income (Net)                     50,440          7,479        57,919
+--------------------------------------------------------------------------------
+
+Six months ended June 30, 1999:
+
+Revenues                                 $355,576       $74,125       $429,701
+Operating Income (Net)                     48,419         6,271         54,690
+--------------------------------------------------------------------------------
+
+12 months ended June 30, 2000:
+
+Revenues                                 $811,734       $137,133      $948,867
+Operating Income (Net)                     87,708         10,236        97,944
+--------------------------------------------------------------------------------
+
+12 months ended June 30, 1999:
+
+Revenues                                 $739,050       $123,731      $862,781
+Operating Income (Net)                    116,476          8,097       124,573
+--------------------------------------------------------------------------------
+
+
+                                      -13-
+
+<PAGE>
+
+                           PART II. OTHER INFORMATION
+
+
+ITEM 1.  LEGAL PROCEEDINGS
+
+     In  December  1996,  a lawsuit  was filed in the  Circuit  Court of Madison
+County,  Illinois,  alleging  negligence on behalf of the  Registrant  and Dover
+Elevator Company (Dover) for injuries arising out of an elevator  accident which
+occurred at the  Registrant's  Newton Power Plant in November 1996, As currently
+consolidated,  the case includes twenty-three named plaintiffs, all of whom were
+in the employ of an independent  contractor as  boilermakers  at the time of the
+incident. In January 2000, the court allowed plaintiffs to amend their claims to
+include amounts for potential  punitive  damages against both the Registrant and
+Dover. In April,  2000,  plaintiffs'  attorneys made their initial demand,  upon
+both  defendants,  totaling  approximately  $83  million  on behalf of all named
+plaintiffs.  The jury  trial of this  lawsuit is  scheduled  to begin in October
+2000. At this time, the Registrant is unable to determine to what extent,  if at
+all, the Registrant and/or Dover may be responsible for these claims.  While the
+Registrant  cannot  predict  the  ultimate  outcome  of  this  litigation,   the
+Registrant  believes it has adequate insurance to cover the ultimate claims made
+against  the  Company.  At this time,  the  Registrant  believes  that the final
+resolution  of this  lawsuit  will not have a  material  adverse  effect  on its
+financial position, results of operation or liquidity.
+
+     Reference  is  made  to  Note 2 -  Regulatory  Matters  (Illinois  Electric
+Restructuring)  in the Notes to Financial  Statements of the  Registrant's  Form
+10-K for the year  ended  December  31,  1999,  for  information  relating  to a
+transmission  system rate case filed by the  Registrant  with the Federal Energy
+Regulatory  Commission (FERC) in August 1999. This filing was primarily designed
+to implement rates, terms and conditions for electric  transmission  service for
+those retail  customers in Illinois who choose other  suppliers as allowed under
+the Electric  Service  Customer  Choice and Rate Relief Law of 1997.  On May 17,
+2000, the FERC issued a letter order approving a settlement of this case reached
+with the FERC trial staff and other interested parties.
+
+     Reference is made to Note 11 - Commitments and  Contingencies  in the Notes
+to  Financial  Statements  of the  Registrant's  Form  10-K for the  year  ended
+December 31, 1999 for information  regarding unfair labor practice charges filed
+with the National Labor  Relations  Board (NLRB) by the  International  Union of
+Operating  Engineers Local 148 and the  International  Brotherhood of Electrical
+Workers  Local 702  relating  to the  lockout by the  Registrant  of both unions
+during  1993.  On May 9, 2000,  the U.S.  Court of Appeals  for the  District of
+Columbia Circuit issued a ruling upholding the NLRB's August 1998 decision which
+ruled in favor of the  Registrant  and held that the  lockout  was  lawful.  The
+unions are seeking review of the court's decision by the U.S. Supreme Court.
+
+     Reference  is made to  "Regulation"  section  in  Item 1.  Business  of the
+Registrant's  Form 10-K for the year ended  December 31, 1999,  for  information
+relating to litigation  concerning the alleged exposure to carcinogens contained
+in coal tar at the  Registrant's  Taylorville  gas plant site. On June 23, 2000,
+the  Registrant  filed an appeal  with the  Illinois  Supreme  Court to review a
+decision  issued by the  Illinois  Appellate  Court in March 2000 which upheld a
+$3.2 million  verdict in favor of the plaintiffs.  The Registrant  believes that
+final  disposition of this matter will not have a material adverse effect on its
+financial position, results of operation or liquidity.
+
+     Reference  is  made  to  Item  1.  Legal  Proceedings  in  Part  II of  the
+Registrant's  Form 10-Q for the  quarterly  period  ended  March 31,  2000,  for
+information relating to the National Ambient Air Quality Standards for ozone and
+particulate matter litigation.  On May 22, 2000, the United States Supreme Court
+granted  certiorari  and agreed to review the United States Court of Appeals for
+the  District of Columbia  Circuit's  decision to remand the ambient air quality
+standard  regulations to the United States  Environmental  Protection Agency for
+reconsideration.  At this time, the Registrant is unable to predict the ultimate
+impact of those revised air quality standards on its future financial condition,
+results of operation or liquidity.
+
+
+ITEM 5.  OTHER INFORMATION
+
+     Any stockholder  proposal  intended for inclusion in the proxy material for
+the  Registrant's  2001 annual meeting of  stockholders  must be received by the
+Registrant by November 30, 2000.
+
+                                      -14-
+
+<PAGE>
+
+     In addition,  under the  Registrant's  By-Laws,  stockholders who intend to
+submit a proposal  in person at an annual  meeting,  or who intend to nominate a
+director at a meeting,  must  provide  advance  written  notice along with other
+prescribed  information.  In  general,  such  notice  must  be  received  by the
+Secretary of the  Registrant not later than 60 nor earlier than 90 days prior to
+the  first  anniversary  of  the  preceding  year's  annual  meeting.   For  the
+Registrant's  2001  annual  meeting  of  stockholders,  written  notice  of  any
+in-person stockholder proposal or director nomination must be received not later
+than February 24, 2001 or earlier than January 25, 2001.
+
+
+ITEM 6.  EXHIBITS AND REPORTS ON FORM 8-K
+
+          (a)  Exhibits.
+
+               Exhibit 10 - Asset Transfer  Agreement  between Central  Illinois
+               Public Service Company and AmerenEnergy  Generating Company dated
+               as of May 1, 2000.
+
+               Exhibit 12 -  Computation  of Ratio of Earnings to Fixed  Charges
+               and Preferred  Stock Dividend  Requirement,  12 Months Ended June
+               30, 2000.
+
+               Exhibit 27 - Financial Data Schedule.
+
+          (b)  Reports on Form 8-K.  The  Registrant  filed a report on Form 8-K
+               dated  May  5,  2000  reporting  the  transfer  of  its  electric
+               generating   facilities   to  a  new   nonregulated   subsidiary,
+               AmerenEnergy Generating Company.
+
+
+
+                                   SIGNATURES
+
+     Pursuant to the  requirements  of the Securities  Exchange Act of 1934, the
+Registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned thereunto duly authorized.
+
+                                          CENTRAL ILLINOIS PUBLIC
+                                              SERVICE COMPANY
+                                               (Registrant)
+
+
+                                        By   /S/ Warner L. Baxter
+                                           ------------------------
+                                                 Warner L. Baxter
+                                          Vice President and Controller
+                                          (Principal Accounting Officer)
+
+
+Date:  August 14, 2000
+
+                                      -15-
+
+</TEXT>
+</DOCUMENT>

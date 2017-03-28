@@ -1,0 +1,845 @@
+ticker,name,sec_fileno
+ACG,"AllianceBernstein Income Fund, Inc",816754
+ACP,Avenue Income Credit Strategies Fund,.
+ACV,AllianzGI Diversified Income & Convertible Fund,
+ADF,"ACM Managed Dollar Income Fund, Inc.",910524
+ADX,Adams Express Company,2230
+AFB,AllianceBernstein National Municipal Income Fund,1162027
+AFT,Apollo Senior Floating Rate Fund Inc,.
+AGC,Advent/Claymore Global Convertible Securities & Income Fund,1391461
+AGD,Alpine Global Dynamic Dividend Fund,1362481
+AIF,Apollo Tactical Income Fund Inc,
+AINV,Apollo Investment Corp,1278752
+AKP,Alliance California Municipal Income Fund,1162028
+ALD,Allied Capital Corporation,3906
+ALM,Allmerica Securities Trust,.
+AMF,"ACM Managed Income Fund, Inc.",.
+AMO,Alliance All-Market Advantage Fund,.
+AMU,"ACM Municipal Securities Income Fund, Inc.",.
+AOD,Alpine Total Dynamic Dividend Fund,1379400
+AOF,"ACM Government Opportunity Fund, Inc.",.
+APB,"Asia Pacific Fund, Inc.",795618
+APF,Morgan Stanley Asia Pacific Fund,919808
+APX,"Apex Municipal Fund, Inc.",817998
+ARDC,Ares Dynamic Credit Allocation Fund,
+ARK,"BlackRock Senior High Income Portfolio, Inc.",896665
+ARMF,Ares Multi-Strategy Credit Fund,
+ASA,ASA Limited,1230869
+ASG,Liberty All-Star Growth Fund,786035
+ASP,"American Strategic Income Portfolio, Inc.",878930
+AVK,Advent Claymore Convertible Securities and Income Fund,1219120
+AWF,"AllianceBernstein Global High Income Fund, Inc",906013
+AWG,Alliance World Dollar Government Fund,.
+AWP,Alpine Global Premier Properties Fund,1390195
+AYN,Alliance New York Municipal Income Fund,1162030
+BAF,BlackRock Municipal Income Investment Quality Trust,1181026
+BAT,"BlackRock Advantage Term Trust, Inc.",.
+BBDC,Brantley Capital Corp,1021009
+BBF,BlackRock Municipal Income Investment Trust,1137392
+BBK,Blackrock Municipal Bond Trust,1167467
+BBN,BlackRock Build America Bond Trust,.
+BCF,BlackRock Real Asset Equity Trust,1368893
+BCK,BlackRock California Insured Municipal Income Trust,1181027
+BCL,BlackRock California Municipal Income Trust II,1176196
+BCT,"BlackRock Broad Investment Grade 2009 Term Trust, Inc.",892789
+BCV,"Bancroft Convertible Fund, Inc.",9521
+BCX,BlackRock Resources & Commodities Strategy Trust,.
+BDF,1838 Bond-Debenture Trading Fund,30125
+BDT,BlackRock Strategic Dividend Achievers Trust,1277350
+BDV,BlackRock Dividend Achievers Trust,1265316
+BEO,Enhanced S&P 500 Covered Call Fund,1331948
+BEP,S&P 500 Covered Call Fund,1307155
+BFC,BlackRock California Insured 2008 Municipal Term Trust,.
+BFD,BlackRock Global Equity Income Trust,1386369
+BFK,BlackRock Municipal Income Trust,1137393
+BFO,BlackRock Florida Municipal 2020 Term Trust,1181249
+BFY,BlackRock New York Municipal Income Trust II,1176197
+BFZ,BlackRock California Municipal Income Trust,1137391
+BGB,Blackstone / GSO Strategic Credit Fund,
+BGH,Barings Global Short Duration High Yield Fund,
+BGR,BlackRock Global Energy and Resources Trust,1306550
+BGX,Blackstone / GSO Long-Short Credit Income Fund,.
+BGY,BlackRock International Growth and Income Trust,1393299
+BHD,BlackRock Strategic Bond Trust,1165216
+BHK,BlackRock Core Bond Trust,1160864
+BHL,BlackRock Defined Opportunity Credit Trust,1412914
+BHV,BlackRock Virginia Municipal Bond Trust,1169034
+BHY,BlackRock High Yield Trust,1068234
+BIE,BlackRock Municipal Bond Investment Trust,1169028
+BIF,"Boulder Growth & Income Fund, Inc.",102426
+BIT,BlackRock Multi-Sector Income Trust,
+BJZ,BlackRock California Municipal 2018 Term Trust,1159038
+BKK,"BlackRock Municipal 2020 Term Trust, Inc.",1181259
+BKN,"BlackRock Investment Quality Municipal Trust, Inc.",894242
+BKT,"BlackRock Income Trust, Inc.",832327
+BLE,BlackRock Municipal Income Trust II,1176194
+BLH,BlackRock New York 2018 Municipal Term Trust,1159039
+BLJ,BlackRock New Jersey Municipal Bond Trust,1169031
+BLN,BlackRock New York Insured 2008 Municipal Term Trust,.
+BLU,Blue Chip Value Fund,810439
+BLW,BlackRock Limited Duration Income Trust,1233681
+BME,BlackRock Health Sciences Trust,1314966
+BMN,"BlackRock Municipal Target Term, Inc.",.
+BMT,BlackRock Insured Municipal Term Trust,882346
+BNA,BlackRock Income Opportunity Trust,880280
+BNJ,BlackRock New Jersey Municipal Income Trust,1137440
+BNY,BlackRock New York Municipal Income Trust,1137390
+BOE,BlackRock Global Opportunities Equity Trust,1320375
+BOI,Brookfield Mortgage Opportunity Income Fund Inc,
+BPK,BlackRock Municipal 2018 Term Trust,1159040
+BPP,BlackRock Preferred Opportunity Trust,1213169
+BPS,BlackRock Pennsylvania Strategic Municipal Trust,1089821
+BQH,BlackRock New York Municipal Bond Trust,1167470
+BQR,BlackRock EcoSolutions Investment Trust,1403238
+BQT,"BlackRock Investment Quality Term Trust, Inc.",.
+BQY,BlackRock S&P Quality Rankings Global Equity Managed Trust,1280936
+BRF,BlackRock Florida Insured 2008 Municipal Term Trust,.
+BRM,BlackRock Insured Municipal 2008 Term Trust,.
+BSD,BlackRock Strategic Municipal Trust,1089094
+BSE,BlackRock New York Insured Municipal Income Trust,1181024
+BSL,Blackstone / GSO Senior Floating Rate Term Fund,.
+BSP,"American Strategic Income Portfolio, Inc. II",886984
+BTA,BlackRock Long-Term Municipal Advantage Trust,1343793
+BTF,Boulder Total Return Fund,895422
+BTO,John Hancock Bank and Thrift Opportunity Fund,925683
+BTZ,BlackRock Preferred and Equity Advantage Trust,1379384
+BUI,BlackRock Utility & Infrastructure Trust,.
+BWC,BlackRock World Investment Trust,1336777
+BWG,Legg Mason BW Global Income Opportunities Fund,
+BYM,BlackRock Insured Municipal Income Trust,1181187
+BZA,BlackRock California Municipal Bond Trust,1169027
+BZF,"Brazil Fund, Inc.",.
+BZL,"Brazilian Equity Fund, Inc.",.
+BZM,BlackRock Maryland Municipal Bond Trust,1169029
+CAF,Morgan Stanley China A Share Fund,1368493
+CBA,ClearBridge American Energy MLP Fund Inc,
+CCA,MFS California Municipal Fund,1092896
+CCD,Calamos Dynamic Convertible and Income Fund,
+CEE,CENTRAL EUROPE & RUSSIA FUND,860489
+CEF,Central Fund of Canada,784959
+CEM,ClearBridge Energy MLP Fund Inc,.
+CEN,Center Coast MLP & Infrastructure Fund,
+CET,Central Securities Corp.,18748
+CEV,Eaton Vance California Municipal Income Trust,1074692
+CFD,40/86 Strategic Income Fund,1062978
+CFP,"Cornerstone Progressive Return Fund, Inc.",1399186
+CFX,Colonial Insured Municipal Fund,.
+CGO,Calamos Global Total Return Fund,1285650
+CH,"Chile Fund, Inc.",846676
+CHI,Calamos Convertible Opportunities and Income Fund,1171471
+CHN,"The China Fund, Inc.",845379
+CHW,Calamos Global Dynamic Income Fund,1396277
+CHY,Calamos Convertible and High Income Fund,1222719
+CIF,MFS Intermediate High Income Fund,833021
+CII,"BlackRock Enhanced Capital & Income Fund, Inc",1278895
+CIK,"Credit Suisse Asset Management Income Fund, Inc.",810766
+CIM,CIM High Yield Securities,.
+CLM,"Cornerstone Strategic Value Fund, Inc.",814083
+CMK,Colonial Intermarket Income Trust I,853770
+CMU,MFS High Yield Municipal Trust,809844
+CNM,Colonial New York Insured Municipal Fund,.
+CNN,"Prospect Street Income Shares, Inc.",.
+COY,Corporate High Yield Fund,900724
+CRF,Cornerstone Total Return Fund,33934
+CSP,"American Strategic Income Portfolio, Inc. III",896161
+CSQ,Calamos Strategic Total Return Fund,1275214
+CSWC,Capital Southwest Corporation,17313
+CTR,ClearBridge Energy MLP Total Return Fund Inc,
+CUBA,The Herzfeld Caribbean Basin Fund,880406
+CVF,"Castle Convertible Fund, Inc.",.
+CWF,Chartwell Dividend and Income Fund Inc.,1059213
+CXE,Colonial High Income Municipal Trust,845606
+CXH,MFS Investment Grade Municipal Trust,847411
+CYE,Corporate High Yield Fund III,1049549
+DBL,DoubleLine Opportunistic Credit Fund,
+DCA,DCA Total Return Fund,1310445
+DCG,"Dreyfus California Municipal Income, Inc.",.
+DCS,Dreman/Claymore Dividend & Income Fund,1267890
+DCW,DCW Total Return Fund,.
+DDF,Delaware Investments Dividend and Income Fund,896923
+DEX,Delaware Enhanced Global Dividend & Income Fund,1396167
+DGF,Delaware Investments Global Dividend and Income Fund,916713
+DHF,Dreyfus High Yield Strategic Fund,1057861
+DHFT,"Diamond Hill Financial Trends Fund, Inc.",852954
+DHG,DWS Dreman Value Income Edge Fund,1375387
+DHY,Credit Suisse High Yield Bond Fund,1061353
+DIV,John Hancock Patriot Select Dividend Trust,.
+DMB,Dreyfus Municipal Bond Infrastructure Fund,
+DMF,"Dreyfus Municipal Income, Inc.",839122
+DMO,Western Asset Mortgage Defined Opportunity Fund Inc,.
+DNM,"Dreyfus New York Municipal Income, Inc.",.
+DNP,DNP Select Income Fund,806628
+DNY,Denali Fund,1187520
+DPD,Dow 30 Premium & Dividend Income Fund,1314128
+DPG,Duff & Phelps Global Utility Income Fund Inc,.
+DPO,Dow 30 Enhanced Premium & Income Fund,1390840
+DRP,DWS RREEF World Real Estate & Tactical Strategies Fund,1395999
+DSL,DoubleLine Income Solutions Fund,
+DSM,"Dreyfus Strategic Municipal Bond Fund, Inc.",855887
+DSU,Debt Strategies Fund II,1051003
+DTF,"DTF Tax-Free Income, Inc.",879535
+DUC,Duff & Phelps Utility and Corporate Bond Trust,894239
+DVF,BlackRock Diversified Income Strategies Fund,1303649
+DVM,Cohen and Steers Dividend Majors Fund,1302868
+EAD,Evergreen Income Advantage Fund,1210123
+EBI,Evergreen International Balanced Income Fund,1336593
+ECF,Ellsworth Fund Ltd,793040
+EDD,Morgan Stanley Emerging Markets Domestic Debt Fund,1388141
+EDF,Stone Harbor Emerging Markets Income Fund,.
+EDF,Salomon Brothers Emerging Markets Income Fund 2,.
+EDI,Stone Harbor Emerging Markets Total Income Fund,
+EEA,European Equity Fund,791718
+EF,"Europe Fund, Inc.",.
+EFF,Eaton Vance Floating-Rate Income Plus Fund,
+EFL,Salomon Brothers Emerging Markets Floating Rate Fund,918708
+EFR,Eaton Vance Senior Floating Rate Trust,1258623
+EFT,Eaton Vance Floating-Rate Income Trust,1288992
+EGF,BlackRock Enhanced Government Fund,1336050
+EGIF,Eagle Growth & Income Opportunities Fund,
+EGX,"Engex, Inc.",32598
+EHI,Western Asset Global High Income Fund Inc,1228509
+EHT,Eaton Vance High Income 2021 Target Term Trust,
+EIA,Eaton Vance Insured California Municipal Bond Fund II,1196869
+EIF,Eaton Vance Insured Florida Municipal Bond Fund,.
+EIM,Eaton Vance Insured Municipal Bond Fund,1176984
+EIO,Eaton Vance Insured Ohio Municipal Bond Fund,1196876
+EIP,Eaton Vance Insured Pennsylvania Municipal Bond Fund,1196877
+EIV,Eaton Vance Insured Municipal Bond Fund II,1196867
+EMD,Salomon Brothers Emerging Markets Income Fund,890340
+EMF,"Templeton Emerging Markets Fund, Inc.",809708
+EMI,Eaton Vance Michigan Municipal Income Trust,1074688
+EMJ,Eaton Vance Insured New Jersey Municipal Bond Fund,1196874
+EMO,ClearBridge Energy MLP Opportunity Fund Inc,.
+ENX,Eaton Vance Insured New York Municipal Bond Fund,1177162
+EOD,Evergreen Global Dividend Opportunity Fund,1386067
+EOE,Eaton Vance Credit Opportunities Fund,1340735
+EOI,Eaton Vance Enhanced Equity Income Trust,1300391
+EOS,Eaton Vance Enhanced Equity Income Trust II,1308335
+EOT,Eaton Vance National Municipal Opportunities Trust,.
+EQS,"Equus Total Return, Inc",878932
+ERC,Wells Fargo Advantage Multi-Sector Income Fund,1227073
+ERH,Evergreen Utilities and High Income Fund,1279014
+ESD,Western Asset Emerging Markets Debt Fund Inc,1227862
+ETB,Eaton Vance Tax-Managed Buy-Write Income Fund,1308927
+ETG,Eaton Vance Tax-Advantaged Global Dividend Income Fund,1270523
+ETJ,Eaton Vance Risk-Managed Diversified Equity Income Fund,1395325
+ETO,Eaton Vance Tax-Advantaged Global Dividend Opportunities Fund,1281926
+ETV,Eaton Vance Tax-Managed Buy-Write Opportunities Fund,1322436
+ETW,Eaton Vance Tax-Managed Global Buy-Write Opportunities Fund,1322435
+ETX,Eaton Vance Municipal Income 2028 Term Trust,
+ETY,Eaton Vance Tax-Managed Diversified Equity Income Fund,1340736
+EVF,Eaton Vance Senior Income Trust,1070732
+EVG,Eaton Vance Short Duration Diversified Income Fund,1287498
+EVJ,Eaton Vance New Jersey Municipal Income Trust,1074691
+EVM,Eaton Vance Insured California Municipal Bond Fund,1177161
+EVN,Eaton Vance Municipal Income Trust,1074540
+EVO,Eaton Vance Ohio Municipal Income Trust,1074686
+EVP,Eaton Vance Pennsylvania Municipal Income Trust,1074687
+EVT,Eaton Vance Tax-Advantaged Dividend Income Fund,1253327
+EVV,Eaton Vance Limited Duration Income Fund,1222922
+EVY,Eaton Vance New York Municipal Income Trust,1074685
+EWF,The European Warrant Fund,.
+EXD,Eaton Vance Tax-Advantaged Bond and Option Strategies Fund,.
+EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund,1379438
+FAM,First Trust/Aberdeen Global Opportunity Income Fund,1302624
+FAV,First Trust Active Dividend Income Fund,1403275
+FAX,"Aberdeen Asia-Pacific Income Fund, Inc.",790500
+FCM,First Trust/Four Corners Senior Floating Rate Income Fund,1232461
+FCO,"Aberdeen Global Income Fund, Inc.",876717
+FDEU,First Trust Dynamic Europe Equity Income,
+FDI,"Fort Dearborn Income Securities, Inc.",38188
+FEI,First Trust MLP and Energy Income Fund,
+FEN,Energy Income & Growth,1284940
+FEO,First Trust/Aberdeen Emerging Opportunities Fund,1363438
+FEV,Eaton Vance Florida Municipal Income Trust,1074684
+FF,"First Opportunity Fund, Inc.",790202
+FFA,First Trust Enhanced Equity Income Fund,1291334
+FFC,Flaherty &Crumrine/Claymore Preferred Securities Income Fund,1174164
+FFD,Morgan Stanley Frontier Emerging Markets Fund,1434130
+FGB,First Trust Specialty Finance & Financial Opportunities Fund,1392994
+FGF,SunAmerica Focused Alpha Growth Fund,1327129
+FGI,SunAmerica Focused Alpha Large-Cap Fund,1338170
+FHI,First Trust Strategic High Income Fund,1323520
+FHO,First Trust Strategic High Income Fund III,1380534
+FHY,First Trust Strategic High Income Fund II,1329388
+FIF,First Trust Energy Infrastructure Fund,.
+FIV,First Trust Senior Floating Rate 2022 Target Term Fund,
+FLC,Flaherty & Crumrine/Claymore Total Return Fund,1245648
+FMI,Franklin Multi-Income Trust,.
+FMN,Federated Premier Municipal Income Fund,1199004
+FMO,Fiduciary/Claymore MLP Opportunity Fund,1305197
+FMY,First Trust/FIDAC Mortgage Income Fund,1319183
+FOF,Cohen and Steers Closed-End Opportunity Fund,1375340
+FPF,First Trust Intermediate Duration Preferred & Income Fund,
+FPI,First Trust Tax-Advantaged Preferred Income Fund,1356750
+FPT,Federated Premier Intermediate Municipal Income Fund,1202806
+FRA,Floating Rate Income Strategies Fund,1259708
+FRB,"BlackRock Floating Rate Income Strategies Fund II, Inc",1269143
+FRF,"France Growth Fund, Inc.",.
+FSD,First Trust High Income Long/Short Fund,.
+FT,Franklin Universal Trust,833040
+FTD,"Fort Dearborn Income Securities, Inc.",.
+FTF,Franklin Templeton Limited Duration Income Trust,1233087
+FTT,Federated Enhanced Treasury Income Fund,.
+FUND,"Royce Focus Trust, Inc.",825202
+FVD,First Trust Value Line Dividend Fund,.
+FVI,First Trust Value Line & Ibbotson Equity Allocation Fund,.
+FVL,First Trust Value Line 100 Fund,1329377
+FXX,Foxby Corp.,1068897
+GAB,Gabelli Equity Trust Inc.,794685
+GAM,"General American Investors Company, Inc.",40417
+GBAB,Guggenheim Build America Bonds Managed Duration Trust,.
+GCF,Global Income & Currency Fund,1334510
+GCH,"The Greater China Fund, Inc.",887546
+GCS,Scudder Gl Cmmdts Stk,1296115
+GCV,Gabelli Convertible and Income Securities Fund,845611
+GDF,Global Partners Income Fund,911638
+GDL,The Gabelli Global Deal Fund.,1378701
+GDO,Western Asset Global Corporate Defined Opportunity Fund Inc,.
+GDV,Gabelli Dividend and Income Trust,126072
+GEQ,Guggenheim Equal Weight Enhanced Equity Income Fund,.
+GER,"Germany Fund, Inc.",.
+GF,"The New Germany Fund, Inc.",858706
+GFY,Western Asset Variable Rate Strategic Fund,1299393
+GGM,Guggenheim Credit Allocation Fund,
+GGN,"The Gabelli Global Gold, Natural Resources & Income Trust",1313510
+GGT,Gabelli Global Multimedia Trust Inc.,921671
+GHI,"Salomon Brothers Global High Income Dollar Fund, Inc.",897996
+GHY,Prudential Global Short Duration High Yield Fund,
+GIF,Global Income Fund,.
+GIFD,Global Income Fund,1031235
+GIM,"Templeton Global Income Fund, Inc.",828803
+GLAD,Gladstone Capital Corporation,114513
+GLO,Clough Global Opportunities Fund,1350869
+GLQ,Clough Global Equity Fund,1316463
+GLU,Gabelli Global Utility & Income Trust,1282957
+GLV,Clough Global Allocation Fund,1288795
+GMZ,Goldman Sachs MLP Income Opportunities Fund,
+GNT,"Gabelli Natural Resources, Gold & Income Trust",.
+GOF,Claymore/Guggenheim Strategic Opportunities Fund,1380936
+GRE,S&P 500 Geared Fund,1299506
+GRF,Eagle Capital Growth Fund,850027
+GRR,Asia Tigers Fund,912729
+GRX,Gabelli Healthcare & Wellness Trust,1391437
+GUT,Gabelli Utility Trust,1080720
+GVT,Morgan Stanley Government Income Trust,.
+HAT,"Hatteras Income Securities, Inc",.
+HAV,Helios Advantage Income Fund,1302246
+HCD,"Highland Distressed Opportunities, Inc.",1373641
+HCE,Fiduciary/Claymore Dynamic Equity Fund,1311877
+HCF,Highland Credit Strategies Fund,1356115
+HEQ,John Hancock Hedged Equity & Income Fund,.
+HIF,Western Asset High Income Fund Inc,891760
+HIH,Helios High Income Fund,1227122
+HIO,High Income Opportunity Fund,910068
+HIS,Black Rock High Income Shares,830474
+HIX,Salomon Brothers High Income Fund II,1058239
+HMH,Helios Multi-Sector High Income Fund,1343602
+HNW,Pioneer Diversified High Income Trust,1388126
+HPF,John Hancock Preferred Income Fund II,1189740
+HPI,John Hancock Preferred Income Fund,1176199
+HPS,John Hancock Preferred Income Fund III,1215913
+HQH,H&Q Healthcare Investors,805267
+HQL,H&Q Life Sciences Investors,.
+HSA,Helios Strategic Income Fund,1275902
+HSF,Hartford Income Shares,86317
+HSM,"Helios Strategic Mortgage Income Fund, Inc",1173788
+HTD,John Hancock Tax-Advantaged Dividend Income Fund,1260041
+HTO,"Hyperion 2005 Investment Grade Opportunity Term Trust, Inc.",.
+HTR,Helios Total Return Fund,851169
+HTY,John Hancock Tax-Advantaged Global Shareholder Yield Fund,1396502
+HYB,"New America High Income Fund, Inc.",825345
+HYF,MANAGED HIGH YIELD PLUS FUND INC,1060392
+HYI,"High Yield Income Fund, Inc.",820537
+HYI,Western Asset High Yield Defined Opportunity Fund Inc,.
+HYP,"High Yield Plus Fund, Inc.",828990
+HYT,Corporate High Yield Fund VI,1222401
+HYV,Corporate High Yield Fund V,1160469
+IAE,ING Asia Pacific High Dividend Equity Income Fund,1385632
+IAF,"Aberdeen Australia Equity Fund, Inc.",779336
+ICB,"Morgan Stanley Income Securities, Inc.",93284
+ICS,Morgan Stanley Insured California Municipal Securities,913342
+IDE,"ING Infrastructure, Industrials & Materials Fund",.
+IF,"Indonesia Fund, Inc.",859120
+IFN,The India Fund,917100
+IGA,ING Global Advantage & Premium Opportunity Fund,1332943
+IGD,ING Global Equity Dividend & Premium Opportunity Fund,1285890
+IGI,Western Asset Investment Grade Defined Opportunity Trust Inc,.
+IHD,ING Emerging Markets High Dividend Equity Fund,.
+IHIT,Invesco High Income 2023 Target Term Fund,
+IIA,ING Clarion Real Estate Income Fund,1254634
+IIC,Morgan Stanley California Insured Municipal Income Trust,894146
+IID,ING International High Dividend Equity Income Fund,1395627
+IIF,Morgan Stanley India Investment Fund,916618
+IIM,Morgan Stanley Insured Municipal Income Trust,885601
+IIS,CIGNA Investment Securities,.
+IMC,Morgan Stanley Insured Municipal Bond Trust,861185
+IMS,Morgan Stanley Insured Municipal Securities,913345
+IMT,Morgan Stanley Insured Municipal Trust,880161
+INB,Cohen and Steers Global Income Builder Fund,1395057
+INF,Brookfield Global Listed Infrastructure Income Fund Inc,.
+IQC,Morgan Stanley California Quality Municipal Securities,898618
+IQI,Morgan Stanley Quality Municipal Income Trust,885125
+IQM,Morgan Stanley Quality Municipal Securities,898496
+IQN,Morgan Stanley New York Quality Municipal Securities,898659
+IQT,Morgan Stanley Quality Municipal Investment Trust,876982
+IRL,"The New Ireland Fund, Inc.",858707
+IRR,ING Risk Managed Natural Resources Fund,1372117
+ISD,Prudential Short Duration High Yield Fund,
+ISL,"First Israel Fund, Inc.",865277
+IVH,Ivy High Income Opportunities Fund,
+JCE,Nuveen Core Equity Alpha Fund,1385763
+JDD,Nuveen Diversified Dividend & Income Fund,1255821
+JEQ,Japan Equity Fund,866095
+JFC,"Jardine Fleming China Region Fund, Inc.",888137
+JFP,Nuveen Tax-Advantaged Floating Rate Fund,1313259
+JFR,Nuveen Floating Rate Income Fund,1276533
+JGG,Nuveen Global Government Enhanced Income Fund,1359816
+JGT,Nuveen Multi-Currency Short-Term Government Income Fund,1390109
+JGV,Nuveen Global Value Opportunities Fund,1363421
+JHA,Nuveen High Income December 2018 Target Term Fund,
+JHB,Nuveen High Income November 2021 Target Term Fund,
+JHD,Nuveen High Income December 2019 Target Term Fund,
+JHFT,"John Hancock Financial Trends Fund, Inc.",.
+JHI,John Hancock Investors Trust,759828
+JHP,Nuveen Quality Preferred Income Fund 3,1200446
+JHS,John Hancock Income Securities Trust,759866
+JHY,Nuveen High Income 2020 Target Term Fund,
+JLA,Nuveen Equity Premium Advantage Fund,1320492
+JLS,Nuveen Mortgage Opportunity Term Fund,.
+JMF,Nuveen Energy MLP Total Return Fund,.
+JMT,Nuveen Mortgage Opportunity Term Fund 2,.
+JOF,"Japan Smaller Capitalization Fund, Inc.",859796
+JPC,Nuveen Multi-Strategy Income and Growth Fund,1216583
+JPG,Nuveen Equity Premium & Growth Fund,1338561
+JPI,Nuveen Preferred and Income Term Fund,
+JPS,Nuveen Quality Preferred Income Fund 2,1176433
+JPW,Nuveen Flexible Investment Income Fund,
+JPZ,Nuveen Equity Premium Income Fund,1298699
+JQC,Nuveen Multi-Strategy Income & Growth Fund 2,1227476
+JRI,Nuveen Real Asset Income and Growth Fund,
+JRO,Nuveen Floating Rate Income Opportunity Fund,1289213
+JRS,Nuveen Real Estate Fund,1158289
+JSD,Nuveen Short Duration Credit Opportunities Fund,.
+JSN,Nuveen Equity Premium Opportunity Fund,1308658
+JTA,Nuveen Tax-Advantaged Total Return Strategy Fund,1265708
+JTD,Nuveen Tax-Advantaged Dividend Growth Fund,1397173
+JTP,Nuveen Quality Preferred Income Fund,1172168
+KED,Kayne Anderson Energy Development Company,1363890
+KEF,Korean Equity Fund Inc.,912023
+KF,"The Korea Fund, Inc.",748691
+KGT,Scudder Intermediate Government Trust,.
+KHI,DWS High Income Trust,830160
+KIO,KKR Income Opportunities Fund,
+KMF,"Kayne Anderson Midstream/Energy Fund, Inc",.
+KMM,DWS Multi-Market Income Trust,842905
+KSM,DWS Strategic Municipal Income Trust,846596
+KST,DWS Strategic Income Trust,919708
+KTF,DWS Municipal Income Trust,839533
+KYE,Kayne Anderson Energy Total Return Fund,1322652
+KYN,Kayne Anderson MLP Investment Company,1293613
+LBF,"DWS Global High Income Fund, Inc",887590
+LCM,Advent/Claymore Enhanced Growth & Income Fund,1278460
+LDF,"Latin American Discovery Fund, Inc.",884461
+LDP,Cohen & Steers Limited Duration Preferred and Income Fund,
+LEO,"Dreyfus Strategic Municipals, Inc.",818972
+LGI,"Lazard Global Total Return and Income Fund, Inc.",1278211
+LND,"Lincoln National Income Fund, Inc.",.
+LNV,"Lincoln National Convertible Securities Fund, Inc.",.
+LOR,"Lazard World Dividend & Income Fund, Inc.",1323206
+MAB,Eaton Vance Insured Massachusetts Municipal Bond Fund,1196871
+MAF,Municipal Advantage Fund,897951
+MAV,Pioneer Municipal High Income Advantage Trust,1258943
+MAY,"The Malaysia Fund, Inc.",811797
+MCA,"MuniYield California Insured Fund II, Inc.",888410
+MCI,MassMutual Corporate Investors,275694
+MCN,Madison/Claymore Covered Call & Equity Strategy Fund,1289868
+MCR,MFS Charter Income Trust,851170
+MEN,"MuniEnhanced Fund, Inc.",844172
+MF,"The Malaysia Fund, Inc.",.
+MFL,BlackRock MuniHoldings Investment Quality Fund,1045126
+MFM,MFS Municipal Income Trust,801961
+MFT,BlackRock MuniYield Investment Quality Fund,891188
+MFV,MFS Special Value Trust,856128
+MGB,Morgan Stanley Global Opportunity Bond Fund,921187
+MGC,"Investors First Fund, Inc.",.
+MGF,MFS Government Markets Income Trust,811922
+MGU,Macquarie Global Infrastructure Total Return Fund,1326390
+MHD,"MuniHoldings Fund, Inc.",1034665
+MHE,Massachusetts Health & Education Tax-Exempt Trust,901824
+MHF,"Municipal High Income Fund, Inc.",830487
+MHI,Pioneer Municipal High Income Trust,1223026
+MHN,MuniHoldings New York Insured Fund,1038186
+MHY,Western Asset Managed High Income Portfolio,895523
+MIE,Cohen & Steers MLP Income and Energy Opportunity Fund,
+MIF,"MuniInsured Fund, Inc.",.
+MIN,MFS Intermediate Income Trust,826735
+MIW,Eaton Vance Insured Michigan Municipal Bond Fund,1196872
+MIY,MuniYield Michigan Insured Fund,890393
+MJI,MuniYield New Jersey Insured Fund,891037
+MMD,MainStay DefinedTerm Muncipal Opportunities Fund,
+MMT,MFS Multimarket Income Trust,809173
+MMU,Managed Municipals Portfolio,886043
+MMV,Eaton Vance Massachusetts Municipal Income Trust,1074690
+MNE,BlackRock Muni New York Intermediate Duration Fund,1232863
+MNP,Western Asset Municipal Partners Fund Inc,894351
+MPA,MuniYield Pennsylvania Insured Fund,891038
+MPT,Salomon Brothers Municipal Partners Fund II,.
+MPV,MassMutual Participation Investors,831655
+MQT,MuniYield Quality Fund II,887394
+MQY,MuniYield Quality Fund,890196
+MRF,"American Income Fund, Inc.",838131
+MSD,Morgan Stanley Emerging Markets Debt Fund,904112
+MSF,Morgan Stanley Emerging Markets Fund,878929
+MSP,Madison Strategic Sector Premium Fund,1317080
+MSY,"Invesco High Yield Investments Fund, Inc",912734
+MTP,MLP & Strategic Equity Fund,1389611
+MTS,"Montgomery Street Income Securities, Inc.",67813
+MTT,Western Asset Municipal Defined Opportunity Trust Inc,.
+MUA,MuniAssets Fund,901243
+MUC,MuniHoldings California Insured Fund,1051004
+MUE,MuniHoldings Insured Fund II,1071899
+MUH,"MuniHoldings Fund II, Inc.",1038190
+MUI,BlackRock Muni Intermediate Duration Fund,1232860
+MUJ,MuniHolding New Jersey Insured Fund,1053988
+MUO,Pioneer Interest Shares,.
+MUS,MuniHoldings Insured Fund,1058234
+MVC,MVC Capital,1099941
+MVF,"MuniVest Fund, Inc.",835948
+MVT,"BlackRock MuniVest Fund II, Inc.",897269
+MXA,Minnesota Municipal Income Portfolio Inc.,902748
+MXE,"The Mexico Equity & Income Fund, Inc.",863900
+MXF,"The Mexico Fund, Inc",65433
+MXN,"First American Minnesota Municipal Income Fund II, Inc",1183829
+MYC,"MuniYield California Fund, Inc.",882152
+MYD,"MuniYield Fund, Inc.",879361
+MYF,"MuniYield Florida Fund, Inc.",882153
+MYI,"MuniYield Insured Fund, Inc.",883412
+MYJ,"MuniYield New Jersey Fund, Inc.",884216
+MYM,"MuniYield Michigan Insured Fund II, Inc.",882151
+MYN,"MuniYield New York Insured Fund, Inc.",882150
+MZA,MuniYield Arizona Fund,911308
+MZF,MBIA Capital/Claymore Managed Duration Investment Grade Municipal Fu,1235511
+NAC,Nuveen California Dividend Advantage Municipal Fund,1074952
+NAD,Nuveen Dividend Advantage Municipal Fund,1083839
+NAI,AGIC International & Premium Strategy Fund,1319332
+NAN,Nuveen New York Dividend Advantage Municipal Fund,1074769
+NAZ,"Nuveen Arizona Premium Income Municipal Fund, Inc.",892992
+NBB,Nuveen Build America Bond Fund,.
+NBD,Nuveen Build America Bond Opportunity Fund,.
+NBH,Neuberger Berman Intermediate Municipal Fund,1178839
+NBJ,Nuveen Ohio Dividend Advantage Municipal Fund 2,1145728
+NBM,Nations Balanced Target Maturity Fund,.
+NBO,Neuberger Berman New York Intermediate Municipal Fund,1178841
+NBW,Neuberger Berman California Intermediate Municipal Fund,1178840
+NCA,"Nuveen California Municipal Value Fund, Inc.",818851
+NCB,Nuveen California Municipal Value Fund 2,.
+NCL,"Nuveen Insured California Premium Income Municipal Fund 2, Inc.",897422
+NCO,"Nuveen California Municipal Market Opportunity Fund, Inc.",862313
+NCP,"Nuveen California Performance Plus Municipal Fund, Inc.",856227
+NCU,Nuveen California Premium Income Municipal Fund,905000
+NCV,Nicholas Applegate Convertible & Income Fund,1214935
+NCZ,Nicholas Applegate Convertible & Income Fund II,1227857
+NDD,"Neuberger Berman Dividend Advantage Fund, Inc.",1276893
+NDP,Tortoise Energy Independence Fund,
+NEA,Nuveen Insured Tax-Free Advantage Municipal Fund,1195737
+NEV,Nuveen Enhanced Municipal Value Fund,.
+NFC,Nuveen Connecticut Dividend Advantage Municipal Fund,1090118
+NFL,Nuveen Insured Florida Premium Income Municipal Fund,890893
+NFM,Nuveen Maryland Dividend Advantage Municipal Fund,1090119
+NFZ,Nuveen Arizona Dividend Advantage Municipal Fund,1087783
+NGB,Nuveen Virginia Dividend Advantage Municipal Fund,1090122
+NGF,Nations Government Income Term Trust 2004,.
+NGK,Nuveen Connecticut Dividend Advantage Municipal Fund 2,1166572
+NGO,Nuveen Connecticut Dividend Advantage Municipal Fund 3,1177218
+NGX,Nuveen Insured Massachusetts Tax-Free Advantage Municipal Fund,1196366
+NGZ,Nicholas Applegate Global Equity & Convertible Income Fund,1398481
+NHA,Nuveen Municipal 2021 Target Term Fund,
+NHS,Lehman Brothers First Trust Income Opportunity Fund,1228361
+NID,Nuveen Intermediate Duration Municipal Term Fund,
+NIE,Nicholas Applegate Equity & Convertible Income Fund,1383441
+NIF,"Nuveen Premier Insured Municipal Income Fund, Inc.",880843
+NII,Nuveen North Carolina Dividend Advantage Municipal Fund 3,1177216
+NIM,Nuveen Select Maturities Municipal Fund,890119
+NIO,"Nuveen Insured Municipal Opportunity Fund, Inc.",878242
+NIQ,Nuveen Intermediate Duration Quality Municipal Term Fund,
+NJV,Nuveen New Jersey Municipal Value Fund,.
+NKG,Nuveen Georgia Dividend Advantage Municipal Fund 2,1177219
+NKL,Nuveen Insured California Dividend Advantage Municipal Fund,1090117
+NKO,Nuveen Insured New York Dividend Advantage Municipal Fund,1090123
+NKR,Nuveen Arizona Dividend Advantage Municipal Fund 2,1161069
+NKX,Nuveen Insured California Tax-Free Advantage Municipal Fund,1195738
+NMA,Nuveen Municipal Advantage Fund,857361
+NMB,Nuveen Massachusetts Dividend Advantage Municipal Fund,1090120
+NMD,Nuveen Municipal High Income Opportunity Fund 2,1412495
+NMI,"Nuveen Municipal Income Fund, Inc.",830271
+NML,Neuberger Berman MLP Income Fund Inc,
+NMO,Nuveen Municipal Market Opportunity Fund,860188
+NMP,"Nuveen Michigan Premium Income Municipal Fund, Inc.",890897
+NMT,Nuveen Massachusetts Premium Income Municipal Fund,897419
+NMY,Nuveen Maryland Premium Income Municipal Fund,897424
+NMZ,Nuveen Municipal High Income Opportunity Fund,1266585
+NNB,Nuveen Virginia Dividend Advantage Municipal Fund 2,1158728
+NNC,Nuveen North Carolina Premium Income Municipal Fund,899761
+NNF,"Nuveen Insured New York Premium Income Municipal Fund, Inc.",885712
+NNJ,Nuveen New Jersey Premium Income Municipal Fund,890898
+NNO,Nuveen North Carolina Dividend Advantage Municipal Fund 2,1158730
+NNP,"Nuveen New York Performance Plus Municipal Fund, Inc.",856226
+NNY,"Nuveen New York Municipal Value Fund, Inc.",818850
+NOM,Nuveen Missouri Premium Income Municipal Fund,899782
+NOX,Neuberger Berman Income Opportunity Fund,1227699
+NPC,"Nuveen Insured California Premium Income Municipal Fund, Inc.",885711
+NPF,"Nuveen Premier Municipal Income Fund, Inc.",880845
+NPG,Nuveen Georgia Premium Income Municipal Fund,899758
+NPI,"Nuveen Premium Income Municipal Fund, Inc.",833251
+NPM,Nuveen Premium Income Municipal Fund 2,885734
+NPN,Nuveen Pennsylvania Municipal Value Fund,.
+NPP,"Nuveen Performance Plus Municipal Fund, Inc.",849998
+NPT,Nuveen Premium Income Municipal Fund 4,896061
+NPV,Nuveen Virginia Premium Income Municipal Fund,897421
+NPX,Nuveen Insured Premium Income Municipal Fund 2,906959
+NPY,"Nuveen Pennsylvania Premium Income Municipal Fund 2, Inc.",897427
+NQC,"Nuveen California Investment Quality Municipal Fund, Inc.",868440
+NQF,"Nuveen Florida Investment Quality Municipal Fund, Inc.",870779
+NQI,"Nuveen Insured Quality Municipal Fund, Inc.",869405
+NQJ,"Nuveen New Jersey Investment Quality Municipal Fund, Inc.",870778
+NQM,"Nuveen Investment Quality Municipal Fund, Inc.",862716
+NQN,"Nuveen New York Investment Quality Municipal Fund, Inc.",868449
+NQP,Nuveen Pennsylvania Investment Quality Municipal Fund,870780
+NQS,"Nuveen Select Quality Municipal Fund, Inc.",872064
+NQU,"Nuveen Quality Income Municipal Fund, Inc.",874506
+NRB,Nuveen North Carolina Dividend Advantage Municipal Fund,1090121
+NRI,Neuberger Berman Realty Income Fund,.
+NRK,Nuveen Insured New York Tax-Free Advantage Municipal Fund,1195739
+NRL,Neuberger Berman Real Estate Income Fund,.
+NRO,"Neuberger Berman Real Estate Securities Income Fund, Inc",1261166
+NSL,Nuveen Senior Income Fund,1093428
+NTC,Nuveen Connecticut Premium Income Municipal Fund,899752
+NTG,"Tortoise MLP Fund, Inc",.
+NTX,"Nuveen Texas Quality Income Municipal Fund, Inc.",878201
+NUC,"Nuveen California Quality Income Municipal Fund, Inc.",879826
+NUF,"Nuveen Florida Quality Income Municipal Fund, Inc.",878180
+NUJ,Nuveen New Jersey Dividend Advantage Municipal Fund 2,1161070
+NUM,"Nuveen Michigan Quality Income Municipal Fund, Inc.",878198
+NUN,"Nuveen New York Quality Income Municipal Fund, Inc.",879819
+NUO,"Nuveen Ohio Quality Income Municipal Fund, Inc.",878200
+NUV,"Nuveen Municipal Value Fund, Inc.",812801
+NUW,Nuveen Municipal Value Fund 2,.
+NVC,"Nuveen California Select Quality Income Municipal Fund, Inc.",874142
+NVG,Nuveen Insured Dividend Advantage Municipal Fund,1090116
+NVJ,Nuveen Ohio Dividend Advantage Municipal Fund 3,1165383
+NVN,"Nuveen New York Select Quality Municipal Fund, Inc.",874143
+NVX,Nuveen California Dividend Advantage Municipal Fund 2,1127706
+NVY,Nuveen Pennsylvania Dividend Advantage Fund 2,1158729
+NWF,Nuveen Insured Florida Tax-Free Advantage Municipal Fund,1196362
+NWI,Nuveen Maryland Dividend Advantage Municipal Fund 3,1177214
+NXC,Nuveen California Select Tax Free Income Portfolio,855732
+NXE,Nuveen Arizona Dividend Advantage Municipal Fund 3,1177212
+NXI,Nuveen Ohio Dividend Advantage Municipal Fund,1087788
+NXJ,Nuveen New Jersey Dividend Advantage Municipal Fund,1087786
+NXK,Nuveen New York Dividend Advantage Municipal Fund 2,1131063
+NXM,Nuveen Pennsylvania Dividend Advantage Fund,1087787
+NXN,Nuveen New York Select Tax-Free Income Portfolio,885731
+NXP,Nuveen Select Tax-Free Income Portfolio,883618
+NXQ,Nuveen Select Tax-Free Income Portfolio 2,885733
+NXR,Nuveen Select Tax-Free Income Portfolio 3,888411
+NXZ,Nuveen Dividend Advantage Municipal Fund 2,1131062
+NYH,Eaton Vance Insured New York Municipal Bond Fund II,1196875
+NYV,Nuveen New York Municipal Value Fund 2,.
+NZF,Nuveen Dividend Advantage Municipal Fund 3,1137887
+NZH,Nuveen California Dividend Advantage Municipal Fund 3,1137888
+NZR,Nuveen Maryland Dividend Advantage Municipal Fund 2,1137885
+NZW,Nuveen Michigan Dividend Advantage Municipal Fund,1087785
+NZX,Nuveen Georgia Dividend Advantage Municipal Fund,1097668
+OIA,Morgan Stanley Municipal Income Opportunities Trust,835333
+OIB,Morgan Stanley Municipal Income Opportunities Trust II,847593
+OIC,Morgan Stanley Municipal Income Opportunities Trust III,861069
+OLA,Old Mutual/Claymore Long-Short Fund,1310709
+OMS,Oppenheimer Multi-Sector Income Trust,.
+OPP,RiverNorth/DoubleLine Strategic Opportunity Fund,
+PAI,Western Asset Income Fund,75398
+PBF,Pioneer Tax Advantaged Balanced Trust,.
+PCA,Putnam California Investment Grade Municipal Trust,.
+PCF,Putnam High Income Bond Fund,810943
+PCI,PIMCO Dynamic Credit and Mortgage Income Fund,
+PCK,PIMCO California Municipal Income Fund II,1170300
+PCM,"PCM Fund, Inc",908187
+PCN,PIMCO Corporate Income Fund,1160990
+PCQ,PIMCO California Municipal Income Fund,1140411
+PCV,Putnam High Income Opportunities Trust,.
+PDF,John Hancock Patriot Premium Dividend Fund I,.
+PDI,PIMCO Dynamic Income Fund,
+PDT,John Hancock Patriot Premium Dividend Fund II,855886
+PEO,Petroleum & Resources Corporation,216851
+PFD,Flaherty & Crumrine Preferred Income Fund Incorporated,868578
+PFD,Flaherty & Crumrine Preferred Income Fund,
+PFL,PIMCO Floating Rate Income Fund,1244183
+PFN,PIMCO Floating Rate Strategy Fund,1296250
+PFO,Flaherty & Crumrine Preferred Income Opportunity Fund Incorporated,.
+PGD,John Hancock Patriot Global Dividend Fund,.
+PGF,"Progressive Return Fund, Inc.",.
+PGM,Putnam Investment Grade Municipal Trust,.
+PGP,PIMCO Global StockPLUS & Income Fund,1318025
+PGZ,Principal Real Estate Income Fund,
+PHD,Pioneer Floating Rate Trust,1305767
+PHF,"Pacholder High Yield Fund, Inc.",837951
+PHH,Pioneer High Income Trust,.
+PHK,PIMCO High Income Fund,1219360
+PHY,Prospect Street High Income Portfolio Inc.,.
+PIA,Morgan Stanley Municipal Premium Income Trust,842891
+PIF,Insured Municipal Income Fund,897802
+PIM,Putnam Master Intermediate Income Trust,830622
+PKO,PIMCO Income Opportunity Fund,1412350
+PMF,PIMCO Municipal Income Fund,1140392
+PMG,Putnam Municipal Bond Fund,.
+PMH,Putnam Tax-Free Health Care Fund,.
+PML,PIMCO Municipal Income Fund II,1170299
+PMM,Putnam Managed Municipal Income Trust,844790
+PMN,Putnam New York Investment Grade Municipal,.
+PMO,Putnam Municipal Opportunities Trust,900422
+PMT,Putnam Master Income Trust,.
+PMX,PIMCO Municipal Income Fund III,1181506
+PNF,PIMCO New York Municipal Income Fund,1140410
+PNI,PIMCO New York Municipal Income Fund II,1170311
+PPF,John Hancock Patriot Preferred Dividend Fund,.
+PPM,Investment Grade Municipal Income Fund,890516
+PPR,ING Prime Rate Trust,826020
+PPT,Putnam Premier Income Trust,827773
+PSF,"Cohen & Steers Select Preferred and Income, Inc",.
+PSW,BlackRock Preferred & Corporate Income Strategies Fund,1229876
+PSY,"BlackRock Credit Allocation Income Trust II, Inc",1215664
+PTM,Putnam Managed High Yield Trust,.
+PTY,PIMCO Corporate Opportunity Fund,1190935
+PYM,Putnam High Yield Municipal Trust,.
+PYN,PIMCO New York Municipal Income Fund III,1181505
+PZC,PIMCO California Municipal Income Fund III,1181504
+QQQX,NASDAQ Premium Income & Growth Fund,1381186
+RAA,BlackRock California Investment Quality Municipal Trust,902722
+RAF,RMR Asia Real Estate Fund,1385617
+RAP,RMR Asia Pacific Real Estate Fund,1353374
+RCC,Small Cap Premium & Dividend Income Fund,1322979
+RCG,Renaissance Capital Growth & Income III,919567
+RCR,RMR Dividend Capture Fund,1403301
+RCS,"PIMCO Strategic Global Government Fund, Inc.",916183
+RDR,RMR Preferred Dividend Fund,1308438
+RENN,Renaissance Capital Growth & Income III ,.
+RFA,BlackRock Florida Investment Quality Municipal Trust,902719
+RFI,Cohen and Steers Total Return Realty Fund,891290
+RFR,RMR F.I.R.E. Fund,1299993
+RHR,RMR Hospitality and Real Estate Fund,1278038
+RIF,AEW Real Estate Income Fund,.
+RIT,Real Estate Income Fund,1173557
+RIV,RiverNorth Opportunities Fund,
+RLF,Cohen and Steers Advantage Income Realty Fund,1116937
+RMH,RMK High Income Fund,.
+RMR,RMR Real Estate Fund,1177131
+RMT,"Royce MicroCap Trust, Inc.",912147
+RNE,Morgan Stanley Eastern Europe Fund,918686
+RNJ,BlackRock New Jersey Investment Quality Municipal Trust,902731
+RNP,Cohen and Steers REIT & Preferred Income Fund,1224450
+RNY,BlackRock New York Investment Quality Municipal Trust,902717
+RPF,Cohen and Steers Premium Income Realty Fund,1170895
+RQI,"Cohen & Steers Quality Income Realty Fund, Inc",1157842
+RRE,AIM Select Real Estate Income Fund,.
+RSF,RMK Strategic Income Fund,.
+RTU,Cohen and Steers REIT & Utility Fund,1265419
+RVT,Royce Value Trust,804116
+RWF,Cohen and Steers Worldwide Realty Income Fund,1294178
+SAF,"Scudder New Asia Fund, Inc.",.
+SBF,SALOMON BROTHERS FUND,.
+SBG,Salomon Brothers 2008 Worldwide Dollar Government Term Trust,.
+SBI,Intermediate Municipal Fund,882300
+SBW,Salomon Brothers Worldwide Income Fund,914035
+SCD,LMP Capital & Income Fund Inc,1270131
+SEL,"Seligman Select Municipal Fund, Inc.",.
+SGF,"The Singapore Fund, Inc",864415
+SGL,"Strategic Global Income Fund, Inc",880943
+SLA,American Select Portfolio,908785
+SLS,Seligman LaSalle International Real Estate Fund,1392577
+SMF,Salient MLP & Energy Infrastructure Fund,.
+SMM,Salient Midstream & MLP Fund,
+SNF,"Spain Fund, Inc.",818105
+SOA,Southern Africa Fund,.
+SOR,Source Capital Inc.,91847
+SQF,"Seligman Quality Municipal Fund, Inc.",.
+SRF,The Cushing Royalty & Income Fund,
+SRO,Scudder RREEF Real Estate Fund II,1231160
+SRQ,Scudder RREEF Real Estate Fund,1179126
+SRV,"Cushing MLP Total Return Fund, Inc.",1400897
+STK,"Columbia Seligman Premium Technology Growth, Inc",.
+SWZ,"Swiss Helvetia Fund, Inc.",813623
+TAI,"Transamerica Income Shares, Inc.",99197
+TDF,Templeton Dragon Fund,919893
+TEI,Templeton Emerging Markets Income Fund,909112
+TF,"The Thai Capital Fund, Inc.",861865
+TFC,Taiwan Greater China Fund,836267
+THW,Tekla World Healthcare Fund,
+TICC,Technology Investment Capital Corp,.
+TKF,"The Turkish Investment Fund, Inc.",856218
+TLI,LMP Corporate Loan Fund Inc,1068963
+TPZ,"Tortoise Power & Energy Infrastructure Fund, Inc",.
+TRF,Templeton Russia and East European Fund,930828
+TSI,"TCW Convertible Securities Fund, Inc.",809559
+TSLF,THL Credit Senior Loan Fund,
+TTF,"The Thai Fund, Inc.",822794
+TTO,Tortoise Capital Resources Corporation,1347652
+TTP,"Tortoise Pipeline & Energy Fund, Inc",.
+TUX,Tuxis Corporation,.
+TWN,"The Taiwan Fund, Inc.",804123
+TY,Tri-Continental Corporation,.
+TYG,Tortoise Energy Infrastructure Corp,1268533
+TYN,Tortoise North American Energy Corp.,1314104
+TYY,Tortoise Energy Capital Corporation,1319869
+USA,Liberty All-Star Equity Fund,799195
+UTF,Cohen and Steers Select Utility Fund,1275617
+UTG,Reaves Utility Income Fund,1263994
+VAP,Van Kampen Advantage Pennsylvania Municipal Income Trust,.
+VAZ,Delaware Investments Arizona Municipal Income Fund,895577
+VBF,"Van Kampen Bond Fund, Inc.",5094
+VCF,Delaware Investments Colorado Insured Municipal Income Fund,907573
+VCV,Van Kampen California Value Municipal Income Trust,895531
+VES,"Vestaur Securities, Inc.",.
+VFL,Delaware Investments Florida Insured Municipal Income Fund,895574
+VFM,Van Kampen Florida Quality Municipal Trust,.
+VGI,Virtus Global Multi-Sector Income Fund ,
+VGM,Van Kampen Trust For Investment Grade Municipals,880892
+VIC,Van Kampen Trust For Investment Grade California Municipals,.
+VIG,Van Kampen Investment Grade Municipal Trust,.
+VIM,Van Kampen Trust For Insured Municipals,880893
+VIN,Van Kampen Income Trust,.
+VIT,Van Kampen High Income Trust,.
+VKA,Van Kampen Advantage Municipal Income Trust,.
+VKC,Van Kampen California Municipal Trust,.
+VKI,VAN KAMPEN ADVANTAGE MUN II,908993
+VKL,VAN KAMPEN SELECT SECTOR MUN,912022
+VKQ,Van Kampen Municipal Trust,877463
+VKS,Van Kampen Strategic Sector Municipal Trust,.
+VKV,Van Kampen Value Municipal Income Trust,.
+VLT,Van Kampen High Income Trust II,846671
+VMM,Delaware Investments Minnesota Municipal Income Fund II,895658
+VMN,Delaware Investments Minnesota Municipal Income Fund,.
+VMO,Van Kampen Municipal Opportunity Trust,884152
+VMT,Van Kampen Municipal Income Trust,.
+VMV,Van Kampen Massachusetts Value Municipal Income Trust,890515
+VNM,Van Kampen New York Quality Municipal Trust,.
+VNV,Van Kampen New York Value Municipal Income Trust,.
+VOQ,Van Kampen Ohio Quality Municipal Trust,877649
+VOT,Van Kampen Municipal Opportunity Trust II,.
+VOV,Van Kampen Ohio Value Municipal Income Trust,.
+VPQ,Van Kampen Pennsylvania Quality Municipal Trust,.
+VPV,Van Kampen Pennsylvania Value Municipal Income Trust,895528
+VQC,Van Kampen California Quality Municipal Trust,.
+VTA,Van Kampen Dynamic Credit Opportunities Fund,1393662
+VTF,Van Kampen Trust For Investment Grade Florida Municipals,.
+VTJ,Van Kampen Trust For Investment Grade New Jersey Municipals,883269
+VTN,Van Kampen Trust For Investment Grade New York Municipals,883265
+VTP,Van Kampen Trust For Investment Grade Pennsylvania Municipals,.
+VVR,Van Kampen Senior Income Trust,1059386
+VYM,Delaware Investments Minnesota Municipal Income Fund III,.
+WEA,Western Asset Premier Bond Fund,1163792
+WIA,Western Asset/Claymore U.S. Treasury Inflation Protected Securities,1254370
+WIW,Western Asset/Claymore U.S. Treasury Inflation Protected Securities,1254370
+XAA,"American Municipal Income Portfolio, Inc.",902750
+ZF,"Zweig Fund, Inc.",812090
+ZIF,"Zenix Income Fund, Inc.",.
+ZTR,Zweig Total Return Fund,836412

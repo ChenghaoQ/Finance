@@ -8,7 +8,7 @@ def main():
 	print("Which one would you prefer to calculate?:\n\n(1) EPS\n(2) DPS\n(3) BVPS\n(4) MVPS\n(5) Quit")
 	select = int(input('Please make a selection: '))
 
-	while select in [1,2,3,4,5]:
+	for  select in range(1,5):
 #select !=1 or select != 2 or select !=3 or select !=4 or select != 5:
 
 		if select ==  1:
@@ -80,7 +80,7 @@ def EPS():
 			print('please try again',choice is yes)
 	else:
 		return	
-		
+’‘’		
 				
 		
 def DPS():

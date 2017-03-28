@@ -1,0 +1,21 @@
+1. ['FR-B*',
+  'First Industrial Realty Trust,',
+  '8.75%',
+  'Yes',
+  'No',
+  'No',
+  'No',
+  'Dep Shares Cumul Preferred Stock B',
+  '5/14/02',
+  '5/14/02']
+
+   ['CCP-A*',
+  'Chevy Chase Preferred Capital Corp.,',
+  '10 3/8%',
+  'No',
+  'No',
+  'No',
+  'No',
+  'Non-cumul Exch Preferred Stock',
+  '1/15/09',
+  '3/30/09']

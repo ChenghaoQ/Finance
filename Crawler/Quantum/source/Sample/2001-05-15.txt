@@ -1,0 +1,2136 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>a2048815z10-q.txt
+<DESCRIPTION>10-Q
+<TEXT>
+
+<PAGE>
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                            ------------------------
+
+                                   FORM 10-Q
+
+(MARK ONE)
+
+/X/ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+                                  ACT OF 1934
+
+                FOR THE QUARTERLY PERIOD ENDED MARCH 31, 2001 OR
+
+/ / TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+                                  ACT OF 1934
+
+        FOR THE TRANSITION PERIOD FROM ______________ TO ______________
+
+               (Amended by Exch Act Rel No. 312905. eff 4/26/93.)
+                       Commission File Number: 001-13251
+
+                            ------------------------
+
+                              USA EDUCATION, INC.
+                       (FORMERLY SLM HOLDING CORPORATION)
+             (Exact name of registrant as specified in its charter)
+
+<TABLE>
+<S>                                             <C>
+                DELAWARE                            52-2013874
+    (State or other jurisdiction of              (I.R.S. Employer
+     incorporation or organization)             Identification No.)
+
+11600 SALLIE MAE DRIVE, RESTON, VIRGINIA               20193
+(Address of principal executive offices)            (Zip Code)
+</TABLE>
+
+              Registrant's telephone number, including area code:
+                                 (703) 810-3000
+
+                            ------------------------
+
+    Indicate by check mark whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes /X/ No / /
+
+    Indicate the number of shares outstanding of each of the issuer's classes of
+common stock, as of the latest practicable date:
+
+<TABLE>
+<CAPTION>
+           CLASS                    OUTSTANDING AT MARCH 31, 2001
+----------------------------        -----------------------------
+<S>                                 <C>
+Common Stock, $.20 par value             162,968,769 shares
+</TABLE>
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+<PAGE>
+                              USA EDUCATION, INC.
+                                   FORM 10-Q
+                                     INDEX
+                                 MARCH 31, 2001
+
+<TABLE>
+<S>        <C>                                                           <C>
+PART I. FINANCIAL INFORMATION
+  Item 1.  Financial Statements........................................    3
+  Item 2.  Management's Discussion and Analysis of Financial Condition
+             and Results of Operations.................................   14
+PART II. OTHER INFORMATION
+  Item 1.  Legal Proceedings...........................................   31
+  Item 2.  Changes in Securities.......................................   31
+  Item 3.  Defaults Upon Senior Securities.............................   31
+  Item 4.  Submission of Matters to a Vote of Security Holders.........   31
+  Item 5.  Other Information...........................................   31
+  Item 6.  Exhibits and Reports on Form 8-K............................   31
+Signatures.............................................................   32
+</TABLE>
+<PAGE>
+                         PART I. FINANCIAL INFORMATION
+
+ITEM 1. FINANCIAL STATEMENTS
+
+                              USA EDUCATION, INC.
+                          CONSOLIDATED BALANCE SHEETS
+           (DOLLARS IN THOUSANDS, EXCEPT SHARE AND PER SHARE AMOUNTS)
+
+<TABLE>
+<CAPTION>
+                                                               MARCH 31,    DECEMBER 31,
+                                                                 2001           2000
+                                                              -----------   ------------
+                                                              (UNAUDITED)
+<S>                                                           <C>           <C>
+ASSETS
+Student loans...............................................  $38,524,502   $37,647,297
+Warehousing advances........................................    1,013,768       987,352
+Academic facilities financings
+  Bonds--available-for-sale.................................      493,190       498,775
+  Loans.....................................................      343,960       352,393
+                                                              -----------   -----------
+    Total academic facilities financings....................      837,150       851,168
+Investments
+  Trading...................................................        1,957            --
+  Available-for-sale........................................    4,700,342     4,244,762
+  Held-to-maturity..........................................    1,015,438       961,260
+                                                              -----------   -----------
+    Total investments.......................................    5,717,737     5,206,022
+Cash and cash equivalents...................................    1,055,928       734,468
+Other assets, principally accrued interest receivable.......    3,719,544     3,365,481
+                                                              -----------   -----------
+    Total assets............................................  $50,868,629   $48,791,788
+                                                              ===========   ===========
+
+LIABILITIES
+Short-term borrowings.......................................  $37,473,211   $30,463,988
+Long-term notes.............................................    9,849,246    14,910,939
+Other liabilities...........................................    1,912,111     1,787,642
+                                                              -----------   -----------
+    Total liabilities.......................................   49,234,568    47,162,569
+                                                              -----------   -----------
+
+COMMITMENTS AND CONTINGENCIES
+
+MINORITY INTEREST IN SUBSIDIARY.............................      213,883       213,883
+
+STOCKHOLDERS' EQUITY
+Preferred stock, Series A, par value $.20 per share,
+  20,000,000 shares authorized: 3,300,000 shares issued at
+  stated value of $50 per share.............................      165,000       165,000
+Common stock, par value $.20 per share, 250,000,000 shares
+  authorized: 195,699,344 and 190,851,936 shares issued,
+  respectively..............................................       39,140        38,170
+Additional paid-in capital..................................      424,543       225,211
+Unrealized gains on investments (net of tax of $237,046 and
+  $167,624, respectively)...................................      440,228       311,301
+Retained earnings...........................................    1,809,316     1,810,902
+                                                              -----------   -----------
+Stockholders' equity before treasury stock..................    2,878,227     2,550,584
+Common stock held in treasury at cost:
+  32,730,575 and 26,707,091 shares, respectively............    1,458,049     1,135,248
+                                                              -----------   -----------
+    Total stockholders' equity..............................    1,420,178     1,415,336
+                                                              -----------   -----------
+    Total liabilities and stockholders' equity..............  $50,868,629   $48,791,788
+                                                              ===========   ===========
+</TABLE>
+
+          See accompanying notes to consolidated financial statements.
+
+                                       3
+<PAGE>
+                              USA EDUCATION, INC.
+                       CONSOLIDATED STATEMENTS OF INCOME
+          (DOLLARS AND SHARES IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+<TABLE>
+<CAPTION>
+                                                               THREE MONTHS ENDED MARCH 31,
+                                                              -------------------------------
+                                                                 2001                2000
+                                                              -----------         -----------
+                                                              (UNAUDITED)         (UNAUDITED)
+<S>                                                           <C>                 <C>
+INTEREST INCOME:
+  Student loans.............................................   $713,033            $667,657
+  Warehousing advances......................................     14,585              16,699
+  Academic facilities financings:
+    Taxable.................................................      8,035               8,894
+    Tax-exempt..............................................      6,167               8,275
+                                                               --------            --------
+  Total academic facilities financings......................     14,202              17,169
+  Investments...............................................    132,853             118,191
+                                                               --------            --------
+Total interest income.......................................    874,673             819,716
+INTEREST EXPENSE:
+  Short-term debt...........................................    510,670             573,056
+  Long-term debt............................................    184,195              84,791
+                                                               --------            --------
+Total interest expense......................................    694,865             657,847
+                                                               --------            --------
+Net interest income.........................................    179,808             161,869
+Less: provision for losses..................................     13,599               9,438
+                                                               --------            --------
+Net interest income after provision for losses..............    166,209             152,431
+                                                               --------            --------
+OTHER INCOME:
+  Gains on student loan securitizations.....................      9,478              42,330
+  Servicing and securitization revenue......................    120,011              62,119
+  Gains (losses) on sales of securities.....................    (23,590)             43,002
+  Guarantor servicing fees..................................     55,183                  --
+  Derivative market value adjustment........................   (137,276)                 --
+  Other.....................................................     30,672              28,140
+                                                               --------            --------
+Total other income..........................................     54,478             175,591
+                                                               --------            --------
+OPERATING EXPENSES:
+  Salaries and benefits.....................................     92,567              53,871
+  Other.....................................................     74,806              42,367
+                                                               --------            --------
+Total operating expenses....................................    167,373              96,238
+                                                               --------            --------
+Income before income taxes and minority interest in net
+  earnings of subsidiary....................................     53,314             231,784
+                                                               --------            --------
+INCOME TAXES:
+  Current...................................................     39,137             141,361
+  Deferred..................................................    (18,298)            (65,900)
+                                                               --------            --------
+Total income taxes..........................................     20,839              75,461
+Minority interest in net earnings of subsidiary.............      2,674               2,674
+                                                               --------            --------
+NET INCOME..................................................     29,801             153,649
+Preferred stock dividends...................................      2,875               2,907
+                                                               --------            --------
+Net income attributable to common stock.....................   $ 26,926            $150,742
+                                                               ========            ========
+Basic earnings per share....................................   $   0.17            $   0.96
+                                                               ========            ========
+Average common shares outstanding...........................    163,051             157,197
+                                                               ========            ========
+Diluted earnings per share..................................   $   0.16            $   0.93
+                                                               ========            ========
+Average common and common equivalent shares outstanding.....    169,939             162,256
+                                                               ========            ========
+</TABLE>
+
+          See accompanying notes to consolidated financial statements.
+
+                                       4
+<PAGE>
+                              USA EDUCATION, INC.
+           CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY
+           (DOLLARS IN THOUSANDS, EXCEPT SHARE AND PER SHARE AMOUNTS)
+                                  (UNAUDITED)
+<TABLE>
+<CAPTION>
+
+                                     PREFERRED             COMMON STOCK SHARES                                    ADDITIONAL
+                                       STOCK     ---------------------------------------   PREFERRED    COMMON     PAID-IN
+                                      SHARES       ISSUED       TREASURY     OUTSTANDING     STOCK      STOCK      CAPITAL
+                                     ---------   -----------   -----------   -----------   ---------   --------   ----------
+<S>                                  <C>         <C>           <C>           <C>           <C>         <C>        <C>
+BALANCE AT DECEMBER 31, 1999.......  3,300,000   186,069,619   (28,493,072)  157,576,547   $165,000    $37,214     $ 62,827
+Comprehensive income:
+  Net Income.......................
+  Other comprehensive income, net
+    of tax:
+    Change in unrealized gains
+      (losses) on investments, net
+      of tax.......................
+  Comprehensive income.............
+  Cash dividends:
+    Common stock ($.16 per
+      share).......................
+    Preferred stock ($.88 per
+      share).......................
+Issuance of common shares..........                  167,476                     167,476                    33        7,647
+Premiums on equity forward purchase
+  contracts........................                                                                                  (9,734)
+Repurchase of common shares........                             (1,139,837)   (1,139,837)
+                                     ---------   -----------   -----------   -----------   --------    -------     --------
+BALANCE AT MARCH 31, 2000..........  3,300,000   186,237,095   (29,632,909)  156,604,186   $165,000    $37,247     $ 60,740
+                                     =========   ===========   ===========   ===========   ========    =======     ========
+
+BALANCE AT DECEMBER 31, 2000.......  3,300,000   190,851,936   (26,707,091)  164,144,845   $165,000    $38,170     $225,211
+Comprehensive income:
+  Net income.......................
+  Other comprehensive income, net
+    of tax:
+    Change in unrealized gains
+      (losses) on investments, net
+      of tax.......................
+  Comprehensive income.............
+  Cash dividends:
+    Common stock ($.18 per
+      share).......................
+    Preferred stock ($.87 per
+      share).......................
+Issuance of common shares..........                4,847,408                   4,847,408                   970      207,386
+Premiums on equity forward purchase
+  contracts........................                                                                                  (8,054)
+Repurchase of common shares........                             (6,023,484)   (6,023,484)
+                                     ---------   -----------   -----------   -----------   --------    -------     --------
+BALANCE AT MARCH 31, 2001..........  3,300,000   195,699,344   (32,730,575)  162,968,769   $165,000    $39,140     $424,543
+                                     =========   ===========   ===========   ===========   ========    =======     ========
+
+<CAPTION>
+                                     UNREALIZED
+                                        GAINS                                      TOTAL
+                                     (LOSSES) ON    RETAINED      TREASURY     STOCKHOLDERS'
+                                     INVESTMENTS    EARNINGS       STOCK          EQUITY
+                                     -----------   ----------   ------------   -------------
+<S>                                  <C>           <C>          <C>            <C>
+BALANCE AT DECEMBER 31, 1999.......   $297,735     $1,462,034   $ (1,183,896)    $  840,914
+Comprehensive income:
+  Net Income.......................                   153,649                       153,649
+  Other comprehensive income, net
+    of tax:
+    Change in unrealized gains
+      (losses) on investments, net
+      of tax.......................     (2,364)                                      (2,364)
+                                                                                 ----------
+  Comprehensive income.............                                                 151,285
+  Cash dividends:
+    Common stock ($.16 per
+      share).......................                   (25,139)                      (25,139)
+    Preferred stock ($.88 per
+      share).......................                    (2,907)                       (2,907)
+Issuance of common shares..........                                                   7,680
+Premiums on equity forward purchase
+  contracts........................                                                  (9,734)
+Repurchase of common shares........                                  (49,573)       (49,573)
+                                      --------     ----------   ------------     ----------
+BALANCE AT MARCH 31, 2000..........   $295,371     $1,587,637   $ (1,233,469)    $  912,526
+                                      ========     ==========   ============     ==========
+BALANCE AT DECEMBER 31, 2000.......   $311,301     $1,810,902   $ (1,135,248)    $1,415,336
+Comprehensive income:
+  Net income.......................                    29,801                        29,801
+  Other comprehensive income, net
+    of tax:
+    Change in unrealized gains
+      (losses) on investments, net
+      of tax.......................    128,927                                      128,927
+                                                                                 ----------
+  Comprehensive income.............                                                 158,728
+  Cash dividends:
+    Common stock ($.18 per
+      share).......................                   (28,512)                      (28,512)
+    Preferred stock ($.87 per
+      share).......................                    (2,875)                       (2,875)
+Issuance of common shares..........                                                 208,356
+Premiums on equity forward purchase
+  contracts........................                                                  (8,054)
+Repurchase of common shares........                                 (322,801)      (322,801)
+                                      --------     ----------   ------------     ----------
+BALANCE AT MARCH 31, 2001..........   $440,228     $1,809,316   $ (1,458,049)    $1,420,178
+                                      ========     ==========   ============     ==========
+</TABLE>
+
+          See accompanying notes to consolidated financial statements.
+
+                                       5
+<PAGE>
+                              USA EDUCATION, INC.
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+                             (DOLLARS IN THOUSANDS)
+
+<TABLE>
+<CAPTION>
+                                                              THREE MONTHS ENDED MARCH 31,
+                                                              -----------------------------
+                                                                  2001            2000
+                                                              -------------   -------------
+                                                               (UNAUDITED)     (UNAUDITED)
+<S>                                                           <C>             <C>
+OPERATING ACTIVITIES
+Net income..................................................  $      29,801   $     153,649
+  Adjustments to reconcile net income to net cash provided
+    by operating activities:
+    (Gains) on student loan securitizations.................         (9,478)        (42,330)
+    Losses (gains) on sales of securities...................         23,590         (43,002)
+    Provision for losses....................................         13,599           9,438
+    (Increase) decrease in accrued interest receivable......       (114,030)         44,390
+    (Decrease) in accrued interest payable..................        (73,952)         (4,289)
+    (Increase) in other assets..............................       (130,816)         (2,900)
+    Increase in other liabilities...........................        167,408          42,704
+                                                              -------------   -------------
+      Total adjustments.....................................       (123,679)          4,011
+                                                              -------------   -------------
+Net cash (used in) provided by operating activities.........        (93,878)        157,660
+                                                              -------------   -------------
+  INVESTING ACTIVITIES
+  Student loans purchased...................................     (3,627,527)     (2,850,410)
+  Reduction of student loans purchased:
+    Installment payments....................................        782,694         564,247
+    Claims and resales......................................        139,332         128,185
+    Proceeds from securitization of student loans...........      1,815,320       4,079,650
+    Proceeds from sales of student loans....................            703          37,110
+    Warehousing advances made...............................       (341,873)       (262,116)
+    Warehousing advance repayments..........................        315,457         431,975
+    Academic facilities financings made.....................           (480)         (9,000)
+    Academic facilities financings repayments...............         19,445          12,398
+    Investments purchased...................................    (25,113,784)     (9,995,711)
+    Proceeds from sale or maturity of investments...........     24,617,108      11,200,348
+                                                              -------------   -------------
+Net cash (used in) provided by investing activities.........     (1,393,605)      3,336,676
+                                                              -------------   -------------
+FINANCING ACTIVITIES
+  Short-term borrowings issued..............................    330,815,625     173,032,184
+  Short-term borrowings repaid..............................   (327,999,666)   (174,416,718)
+  Long-term notes issued....................................      2,158,470       3,419,520
+  Long-term notes repaid....................................     (3,011,600)     (5,933,627)
+  Equity forward contracts and stock issued.................        200,302          (2,054)
+  Common stock repurchased..................................       (322,801)        (49,573)
+  Common dividends paid.....................................        (28,512)        (25,139)
+  Preferred dividends paid..................................         (2,875)         (2,907)
+                                                              -------------   -------------
+Net cash provided by (used in) financing activities.........      1,808,943      (3,978,314)
+                                                              -------------   -------------
+Net increase (decrease) in cash and cash equivalents........        321,460        (483,978)
+Cash and cash equivalents at beginning of year..............        734,468         589,750
+                                                              -------------   -------------
+CASH AND CASH EQUIVALENTS AT END OF PERIOD..................  $   1,055,928   $     105,772
+                                                              =============   =============
+Cash disbursements made for:
+  Interest..................................................  $     673,393   $     629,991
+                                                              =============   =============
+  Income taxes..............................................  $      84,400   $          --
+                                                              =============   =============
+</TABLE>
+
+          See accompanying notes to consolidated financial statements.
+
+                                       6
+<PAGE>
+                              USA EDUCATION, INC.
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+         (INFORMATION AT MARCH 31, 2001 AND FOR THE THREE MONTHS ENDED
+                     MARCH 31, 2001 AND 2000 IS UNAUDITED)
+                (DOLLARS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+1. SIGNIFICANT ACCOUNTING POLICIES
+
+BASIS OF PRESENTATION
+
+    The accompanying unaudited consolidated financial statements of USA
+Education, Inc. (the "Company"), formerly SLM Holding Corporation, have been
+prepared in accordance with generally accepted accounting principles ("GAAP")
+for interim financial information. Accordingly, they do not include all of the
+information and footnotes required by GAAP for complete consolidated financial
+statements. In the opinion of management, all adjustments (consisting of normal
+recurring accruals) considered necessary for a fair presentation have been
+included. The preparation of financial statements in conformity with GAAP
+requires management to make estimates and assumptions that affect the amounts
+reported in the financial statements and accompanying notes. Actual results
+could differ from those estimates. Operating results for the three months ended
+March 31, 2001 are not necessarily indicative of the results for the year ending
+December 31, 2001.
+
+2. NEW ACCOUNTING PRONOUNCEMENTS
+
+    In June 1998, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards No. 133 ("SFAS 133"), "Accounting for Derivative
+Instruments and Hedging Activities," which requires that every derivative
+instrument, including certain derivative instruments embedded in other
+contracts, be recorded on the balance sheet as either an asset or liability
+measured at its fair value. SFAS 133, as amended by Statement of Financial
+Accounting Standards No. 137, "Accounting for Derivative Instruments and Hedging
+Activities--Deferral of Effective Date of FASB Statement No. 133," and Statement
+of Financial Accounting Standards No. 138, "Accounting for Certain Derivative
+Instruments and Certain Hedging Activities," was effective for the Company's
+financial statements beginning January 1, 2001. SFAS 133, as amended, requires
+that changes in the derivative instrument's fair value be recognized currently
+in earnings unless specific hedge accounting criteria are met. Special
+accounting for derivative financial instruments that qualify as fair value
+hedges allows a derivative instrument's gains and losses to offset related fair
+value changes on the hedged item in the income statement. Derivative financial
+instruments that qualify as cash flow hedges are reported as adjustments to
+stockholders' equity as a component of other comprehensive income. Hedge
+accounting for derivative instruments requires that a company formally document,
+designate and assess the effectiveness of transactions that receive hedge
+accounting treatment. SFAS 133 could result in increased period to period
+volatility in reported net income. The Company implemented the new standard on
+January 1, 2001 (see Note 6). In conjunction with the implementation of SFAS
+133, the Company reclassed $2 million of held-to-maturity securities to trading
+securities as permitted under the transition provisions of SFAS 133.
+
+    In October 2000, the Financial Accounting Standards Board issued Statement
+of Financial Accounting Standards No. 140 ("SFAS 140"), "Accounting for
+Transfers and Servicing of Financial Assets and Extinguishments of
+Liabilities--a Replacement of FASB Statement No. 125." SFAS 140 requires new
+disclosures about securitizations and retained interests in securitized
+financial assets and revises the criteria involving qualifying special purpose
+entities. Under SFAS 140, entities are required to disclose information about
+securitizations regarding accounting policies, securitization characteristics,
+key assumptions used and cash flows between the securitization special purpose
+entities and the transferor. Additionally, entities are required to disclose
+information related to retained interests in
+
+                                       7
+<PAGE>
+                              USA EDUCATION, INC.
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+         (INFORMATION AT MARCH 31, 2001 AND FOR THE THREE MONTHS ENDED
+                     MARCH 31, 2001 AND 2000 IS UNAUDITED)
+                (DOLLARS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+2. NEW ACCOUNTING PRONOUNCEMENTS (CONTINUED)
+securitized financial assets, information regarding accounting policies for
+subsequent measuring of retained interests, key assumptions used in subsequent
+fair value measurements, sensitivity analysis showing hypothetical effects on
+fair values based on unfavorable variations from key assumptions and general
+characteristics of the securitized assets such as principal balances,
+delinquencies and credit losses. These new disclosure requirements are to be
+provided for fiscal years ending after December 15, 2000. Additionally,
+SFAS 140 revised the criteria involving qualifying special purpose entities.
+These revisions related to special purpose entities are to be applied
+prospectively to transfers of financial assets and extinguishments of
+liabilities occurring after March 31, 2001 (see Note 4).
+
+3. ALLOWANCE FOR LOSSES
+
+    The following table summarizes changes in the allowance for losses for the
+three months ended March 31, 2001, and 2000, respectively.
+
+<TABLE>
+<CAPTION>
+                                                              THREE MONTHS ENDED
+                                                                   MARCH 31,
+                                                              -------------------
+                                                                2001       2000
+                                                              --------   --------
+<S>                                                           <C>        <C>
+BALANCE AT BEGINNING OF YEAR................................  $322,056   $303,743
+Additions
+  Provisions for losses.....................................    13,599      9,438
+  Recoveries................................................     1,215      2,755
+Deductions
+  Reductions for student loan sales and securitizations.....    (3,671)    (8,009)
+  Write-offs................................................   (26,887)    (7,873)
+                                                              --------   --------
+BALANCE AT END OF PERIOD....................................  $306,312   $300,054
+                                                              ========   ========
+</TABLE>
+
+4. STUDENT LOAN SECURITIZATION
+
+    When the Company sells student loans in securitizations, it retains
+interest-only strips and servicing rights, all of which are retained interests
+in the securitized receivables. Gain or loss on sale of the receivables depends
+in part on the previous carrying amount of the financial assets involved in the
+transfer, allocated between the assets sold and the retained interests based on
+their relative fair values at the date of transfer. To obtain fair values,
+quoted market prices are used if available. However, quotes are generally not
+available for retained interests, so the Company estimates fair value, both
+initially and on a quarterly basis going forward, based on the present value of
+future expected cash flows estimated using management's best estimates of the
+key assumptions - credit losses, prepayment speeds and discount rates.
+
+    During the first quarter of 2001, the Company sold $1.5 billion of student
+loans in one securitization transaction and securitized $288 million through the
+recycling provisions of the USA Group securitizations. The Company recorded a
+pre-tax securitization gain of $9 million or .53 percent of the portfolios
+securitized in the first quarter of 2001. In the first quarter of 2000, the
+Company sold $4.0 billion of student loans in two securitization transactions
+and recorded a pre-tax securitization gain
+
+                                       8
+<PAGE>
+                              USA EDUCATION, INC.
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+         (INFORMATION AT MARCH 31, 2001 AND FOR THE THREE MONTHS ENDED
+                     MARCH 31, 2001 AND 2000 IS UNAUDITED)
+                (DOLLARS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+4. STUDENT LOAN SECURITIZATION (CONTINUED)
+of $42 million or 1.05 percent of the portfolios securitized. At March 31, 2001
+and December 31, 2000, securitized student loans outstanding totaled
+$30.5 billion and $29.9 billion, respectively.
+
+    In those securitizations, the Company retained servicing responsibilities
+and received annual servicing fees of 0.9 percent per annum of the outstanding
+balance of student loans other than consolidation loans and 0.5 percent per
+annum of the outstanding balance of consolidation loans. The Company also
+receives rights to future cash flows arising after the investors in the trust
+have received the return for which they have contracted. Trust investors and the
+securitization trusts have no recourse to the Company's other assets. The
+Company's retained interests are subordinate to investors' interests. Their
+value is subject to credit, prepayment, and interest rate risks.
+
+    Key economic assumptions used in measuring the fair value of retained
+interests at the date of securitization resulting from the student loan
+securitization transaction completed during the first quarter of 2001 were as
+follows:
+
+<TABLE>
+<S>                                                          <C>
+Prepayment speed...........................................  7% per annum
+Weighted-average life......................................  4.4 years
+Expected credit losses.....................................  0.5%
+Residual cash flows discounted at..........................  12%
+</TABLE>
+
+    Expected credit losses resulting from loans securitized in 2001 are
+dependent on the portfolio's expected rate of defaulted loans, the level of
+insurance guarantee which ranges from 98 percent to 100 percent of the unpaid
+principal and interest of the defaulted loan, and the expected level of
+defaulted loans not eligible for insurance guarantee due to servicing
+deficiencies (approximately one percent of defaulted loans). The expected dollar
+amount of credit losses is divided by the portfolio's principal balance to
+arrive at the expected credit loss percentage. Except for net proceeds, there
+were no cash flows between the Company and the securitization trust that closed
+during the first quarter of 2001.
+
+5. COMMON STOCK
+
+    Basic earnings per common share ("Basic EPS") are calculated using the
+weighted average number of shares of common stock outstanding during each
+period. Diluted earnings per common share ("Diluted EPS") reflect the potential
+dilutive effect of additional common shares that are issuable upon
+
+                                       9
+<PAGE>
+                              USA EDUCATION, INC.
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+         (INFORMATION AT MARCH 31, 2001 AND FOR THE THREE MONTHS ENDED
+                     MARCH 31, 2001 AND 2000 IS UNAUDITED)
+                (DOLLARS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+5. COMMON STOCK (CONTINUED)
+exercise of outstanding stock options and warrants, determined by the treasury
+stock method, and equity forwards, determined by the reverse treasury stock
+method, as follows:
+
+<TABLE>
+<CAPTION>
+                                                               NET INCOME
+                                                              ATTRIBUTABLE
+                                                               TO COMMON       AVERAGE     EARNINGS
+                                                                 STOCK         SHARES      PER SHARE
+                                                              ------------   -----------   ---------
+                                                              (THOUSANDS)    (THOUSANDS)
+<S>                                                           <C>            <C>           <C>
+THREE MONTHS ENDED MARCH 31, 2001
+Basic EPS...................................................    $ 26,926       163,051       $ .17
+Dilutive effect of stock options, warrants, equity forwards
+  and deferred compensation.................................          --         6,888        (.01)
+                                                                --------       -------       -----
+Diluted EPS.................................................    $ 26,926       169,939       $ .16
+                                                                ========       =======       =====
+
+THREE MONTHS ENDED MARCH 31, 2000
+Basic EPS...................................................    $150,742       157,197       $ .96
+Dilutive effect of stock options, warrants and equity
+  forwards..................................................          --         5,059        (.03)
+                                                                --------       -------       -----
+Diluted EPS.................................................    $150,742       162,256       $ .93
+                                                                ========       =======       =====
+</TABLE>
+
+6. DERIVATIVE FINANCIAL INSTRUMENTS
+
+DERIVATIVE INSTRUMENTS AND HEDGING ACTIVITIES
+
+    The Company maintains an overall interest rate risk management strategy that
+incorporates the use of derivative instruments to minimize significant unplanned
+fluctuations in earnings that are caused by interest rate volatility. The
+Company's goal is to manage interest rate sensitivity by modifying the repricing
+or maturity characteristics of certain balance sheet assets and liabilities so
+that the net interest margin is not, on a material basis, adversely affected by
+movements in interest rates. As a result of interest rate fluctuations, hedged
+assets and liabilities will appreciate or depreciate in market value. Income or
+loss on the derivative instruments that are linked to the hedged assets and
+liabilities will generally offset the effect of this unrealized appreciation or
+depreciation. The Company views this strategy as a prudent management of
+interest rate sensitivity, such that earnings are not exposed to undue risk
+presented by changes in interest rates.
+
+    Derivative instruments that are used as part of the Company's interest rate
+risk management strategy include interest rate swaps, futures contracts, and
+interest rate floor and cap contracts with indices that relate to the pricing of
+specific balance sheet assets and liabilities. As a matter of policy, the
+Company does not use highly leveraged derivative instruments for interest rate
+risk management. Interest rate swaps generally involve the exchange of fixed and
+variable rate interest payments between two parties, based on a common notional
+principal amount and maturity date. Interest rate futures generally involve
+exchange-traded contracts to buy or sell Treasury or Agency securities in the
+future at specified prices or exchange-traded Eurodollar/LIBOR contracts whose
+value is derived from changes in LIBOR loan rates. Interest rate floor and cap
+contracts generally involve the paying or receiving of interest above or below a
+stated strike rate in exchange for an upfront premium payment.
+
+                                       10
+<PAGE>
+                              USA EDUCATION, INC.
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+         (INFORMATION AT MARCH 31, 2001 AND FOR THE THREE MONTHS ENDED
+                     MARCH 31, 2001 AND 2000 IS UNAUDITED)
+                (DOLLARS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+6. DERIVATIVE FINANCIAL INSTRUMENTS (CONTINUED)
+    The Company also enters into various interest rate contracts for trading and
+macro risk management purposes. Trading activities (which include derivative
+transactions entered into for risk management purposes and which do not
+otherwise qualify for hedge accounting) primarily involve providing various
+derivative products to counterparties and managing overall enterprise risk and
+risks in other trading portfolios.
+
+    By using derivative instruments, the Company is exposed to credit and market
+risk. If the counterparty fails to perform, credit risk is equal to the extent
+of the fair value gain in a derivative. When the fair value of a derivative
+contract is positive, this generally indicates that the counterparty owes the
+Company. When the fair value of a derivative contract is negative, the Company
+owes the counterparty and, therefore, it has no repayment risk. The Company
+minimizes the credit (or repayment) risk in derivative instruments by entering
+into transactions with high-quality counterparties that are reviewed
+periodically by the Company's credit committee. The Company also maintains a
+policy of requiring that all derivative contracts be governed by an
+International Swaps and Derivative Association Master Agreement; depending on
+the nature of the derivative transaction, bilateral collateral arrangements may
+be required as well. When the Company has more than one outstanding derivative
+transaction with a counterparty, and there exists a legally enforceable master
+netting agreement with the counterparty (i.e. a legal right of a setoff of
+receivable and payable derivative contracts), the "net" mark-to-market exposure
+represents the netting of the positive and negative exposures with the same
+counterparty. When there is a net negative exposure, the Company considers its
+exposure to the counterparty to be zero. The Company's policy is to use master
+netting agreements with all counterparties.
+
+    Market risk is the adverse effect that a change in interest rates, or
+implied volatility rates, has on the value of a financial instrument. The
+Company manages the market risk associated with interest rates by establishing
+and monitoring limits as to the types and degree of risk that may be undertaken.
+
+    The Company's Audit/Finance Committee of the Board of Directors, as part of
+its oversight of the Company's asset/liability and treasury functions, monitors
+the Company's derivative activities. The Company is responsible for implementing
+various hedging strategies. The resulting hedging strategies are then
+incorporated into the Company's overall interest rate risk management and
+trading strategies.
+
+FAIR VALUE HEDGES
+
+    The Company enters into interest rate swaps to convert fixed rate assets
+into variable rate assets and fixed rate debt into variable rate debt. The
+Company's risk management policy is to match the interest rate sensitivity of
+its assets and liabilities based on the Company's overall match funding
+strategy.
+
+    At March 31, 2001, the Company held fair value hedges with a net fair value
+loss position of $67 million on a notional amount of $1.8 billion. For the
+quarter ended March 31, 2001, the Company recognized a net loss of $9 million
+(reported as "Derivative market value adjustment" in the income statement),
+which represented the ineffective portion of all fair value hedges. All
+components of each derivative's gain or loss are included in the assessment of
+hedge effectiveness, unless otherwise noted.
+
+                                       11
+<PAGE>
+                              USA EDUCATION, INC.
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+         (INFORMATION AT MARCH 31, 2001 AND FOR THE THREE MONTHS ENDED
+                     MARCH 31, 2001 AND 2000 IS UNAUDITED)
+                (DOLLARS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+6. DERIVATIVE FINANCIAL INSTRUMENTS (CONTINUED)
+CASH FLOW HEDGES
+
+    The Company uses futures contracts to hedge its interest rate risk on its
+assets and liabilities. The Company uses this strategy primarily to minimize its
+exposure to volatility in interest rates.
+
+    At March 31, 2001, the Company held cash flow hedges with a net fair value
+loss position of $44 million on a notional amount of $27.4 billion. For the
+quarter ended March 31, 2001, the Company included $39 million of after-tax
+unrealized losses in other comprehensive income. Of the total other
+comprehensive income, the Company recognized $1 million of after-tax net losses
+related to the amortization of closed futures contracts, and $15 million of
+after-tax net losses on derivatives (reported as gains and losses on sales of
+securities) as a result of the discontinuance of cash flow hedges related to
+certain forecasted transactions. The Company expects to amortize $8 million of
+after-tax net losses over the next 12 months related to futures contracts closed
+as of March 31, 2001. All components of each derivative's gain or loss are
+included in the assessment of hedge effectiveness, unless otherwise noted.
+
+    Gains and losses on derivative contracts that are reclassified from
+accumulated other comprehensive income to current period earnings are included
+in other operating income. Portions of the deferred net losses on derivative
+instruments accumulated in the other comprehensive income are expected to be
+reclassified as earnings during the next twelve months. This expectation is
+based on the anticipated issuance of debt, at which time the Company will begin
+recognizing the deferred net gains as an adjustment to interest cost. The
+maximum term over which the Company is hedging its exposure to the variability
+of future cash flows (for all forecasted transactions, excluding interest
+payments on variable rate debt) is one year.
+
+TRADING ACTIVITIES
+
+RISK MANAGEMENT
+
+    The Company purchases interest rate caps and futures contracts and sells
+interest rate floors and futures contracts to lock in reset rates on floating
+rate debt and interest rate swaps, and to partially offset the embedded floor
+options in student loan assets. These relationships do not satisfy hedging
+qualifications under SFAS 133, but are considered economic hedges for risk
+management purposes. The Company uses this strategy to minimize its exposure to
+floating rate volatility.
+
+    The Company also uses basis swaps to "lock-in" a desired spread between the
+Company's interest-earning assets and interest-bearing liabilities. These swaps
+usually possess a term of one to seven years, with a pay rate indexed to
+Treasury bill rates. The specific terms and notional amounts of the swaps are
+determined based on management's review of its asset/liability structure, its
+assessment of future interest rate relationships, as well as on other factors
+such as short-term strategic initiatives.
+
+    The Company also uses various purchased option-based products for overall
+asset/liability management purposes, including options on interest rate swaps,
+floor contracts, and cap contracts. These purchased products are not linked to
+specific assets and liabilities on the balance sheet and, therefore, do not
+qualify for hedge accounting treatment.
+
+                                       12
+<PAGE>
+                              USA EDUCATION, INC.
+             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+         (INFORMATION AT MARCH 31, 2001 AND FOR THE THREE MONTHS ENDED
+                     MARCH 31, 2001 AND 2000 IS UNAUDITED)
+                (DOLLARS IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+6. DERIVATIVE FINANCIAL INSTRUMENTS (CONTINUED)
+OTHER
+
+    Interest rate derivative instruments utilized by the Company in its trading
+operations include interest rate and basis swaps, interest rate caps and floors,
+and Eurodollar, LIBOR and Agency futures contracts.
+
+    At March 31, 2001, the Company held trading derivatives with a net fair
+value loss position of $442 million on a notional amount of $57.7 billion. For
+the quarter ended March 31, 2001, the Company recognized a net loss of
+$129 million (reported as "Derivative market value adjustment" in the income
+statement), which represented the total change in fair value for the derivatives
+designated as "trading." Also, $9 million of net derivative after-tax gains at
+transition were reclassified from other comprehensive income to other operating
+income. As of March 31, 2001, $32 million of transition adjustment net after-tax
+gains on derivative instruments accumulated in other comprehensive income are
+expected to be reclassified as earnings during the next twelve months.
+
+                                       13
+<PAGE>
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+  OF OPERATIONS
+
+                    MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+                 FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+                   THREE MONTHS ENDED MARCH 31, 2001 AND 2000
+                (DOLLARS IN MILLIONS, EXCEPT PER SHARE AMOUNTS)
+
+OVERVIEW
+
+    SLM HOLDING CORPORATION ("SLM HOLDING") WAS FORMED ON FEBRUARY 3, 1997 AS A
+WHOLLY OWNED SUBSIDIARY OF THE STUDENT LOAN MARKETING ASSOCIATION (THE "GSE").
+ON AUGUST 7, 1997, IN ACCORDANCE WITH THE STUDENT LOAN MARKETING ASSOCIATION
+REORGANIZATION ACT OF 1996 (THE "PRIVATIZATION ACT") AND APPROVAL BY
+SHAREHOLDERS OF AN AGREEMENT AND PLAN OF REORGANIZATION, THE GSE WAS REORGANIZED
+INTO A SUBSIDIARY OF SLM HOLDING (THE "REORGANIZATION"). EFFECTIVE AS OF
+JULY 31, 2000, SLM HOLDING CORPORATION WAS RENAMED USA EDUCATION, INC. UPON THE
+COMPLETION OF THE ACQUISITION OF THE GUARANTEE SERVICING, STUDENT LOAN SERVICING
+AND SECONDARY MARKET OPERATIONS OF USA GROUP, INC. ("USA GROUP"). USA
+EDUCATION, INC. IS A HOLDING COMPANY THAT OPERATES THROUGH A NUMBER OF
+SUBSIDIARIES INCLUDING THE GSE. REFERENCES HEREIN TO THE "COMPANY" REFER TO THE
+GSE AND ITS SUBSIDIARIES FOR PERIODS PRIOR TO THE REORGANIZATION AND TO USA
+EDUCATION, INC. AND ITS SUBSIDIARIES FOR PERIODS AFTER THE REORGANIZATION.
+
+    The Company is the nation's largest private source of financing and
+servicing for education loans in the United States, primarily through its
+participation in the Federal Family Education Loan Program ("FFELP"), formerly
+the Guaranteed Student Loan Program. The Company's products and services include
+student loan purchases and commitments to purchase student loans, as well as
+operational support to originators of student loans and to post-secondary
+education institutions, guarantor servicing and other education-related
+financial services. The Company also originates, purchases, holds and services
+unguaranteed private loans.
+
+    The following Management's Discussion and Analysis contains forward-looking
+statements and information that are based on management's current expectations
+as of the date of this document. Discussions that utilize the words "intend,"
+"anticipate," "believe," "estimate" and "expect" and similar expressions, as
+they relate to the Company's management, are intended to identify
+forward-looking statements. Such forward-looking statements are subject to
+risks, uncertainties, assumptions and other factors that may cause the actual
+results of the Company to be materially different from those reflected in such
+forward-looking statements. Such factors include, among others, changes in the
+terms of student loans and the educational credit marketplace arising from the
+implementation of applicable laws and regulations and from changes in such laws
+and regulations; which may reduce the volume, average term and costs of yields
+on student loans under the FFELP or result in loans being originated or
+refinanced under non-FFELP programs or may affect the terms upon which banks and
+others agree to sell FFELP loans to the Company. The Company could also be
+affected by changes in the demand for educational financing and consumer lending
+or in financing preferences of lenders, educational institutions, students and
+their families; and changes in the general interest rate environment and in the
+securitization markets for education loans, which may increase the costs or
+limit the availability of financings necessary to initiate, purchase or carry
+education loans.
+
+                                       14
+<PAGE>
+SELECTED FINANCIAL DATA
+
+CONDENSED STATEMENTS OF INCOME
+
+<TABLE>
+<CAPTION>
+                                                                 THREE MONTHS
+                                                                     ENDED               INCREASE
+                                                                   MARCH 31,            (DECREASE)
+                                                              -------------------   -------------------
+                                                                2001       2000        $          %
+                                                              --------   --------   --------   --------
+<S>                                                           <C>        <C>        <C>        <C>
+Net interest income.........................................    $180       $162      $  18         11%
+Less: provision for losses..................................      14          9          5         44
+                                                                ----       ----      -----       ----
+Net interest income after provision for losses..............     166        153         13          9
+Gains on student loan securitizations.......................       9         42        (33)       (78)
+Servicing and securitization revenue........................     120         62         58         93
+Gains (losses) on sales of securities.......................     (23)        43        (66)       155
+Guarantor servicing fees....................................      55         --         55        100
+Derivative market value adjustment..........................    (137)        --       (137)      (100)
+Other income................................................      31         28          3          9
+Operating expenses..........................................     167         96         71         74
+Income taxes................................................      21         75        (54)       (72)
+Minority interest in net earnings of subsidiary.............       3          3         --         --
+                                                                ----       ----      -----       ----
+NET INCOME..................................................      30        154       (124)       (81)
+Preferred stock dividends...................................       3          3         --         --
+                                                                ----       ----      -----       ----
+Net income attributable to common stock.....................    $ 27       $151      $(124)       (82)%
+                                                                ====       ====      =====       ====
+BASIC EARNINGS PER SHARE....................................    $.17       $.96      $(.79)       (83)%
+                                                                ====       ====      =====       ====
+DILUTED EARNINGS PER SHARE..................................    $.16       $.93      $(.77)       (83)%
+                                                                ====       ====      =====       ====
+Dividends per common share..................................    $.18       $.16      $ .02          9%
+                                                                ====       ====      =====       ====
+</TABLE>
+
+CONDENSED BALANCE SHEETS
+
+<TABLE>
+<CAPTION>
+                                                                                           INCREASE
+                                                                                          (DECREASE)
+                                                           MARCH 31,   DECEMBER 31,   -------------------
+                                                             2001          2000          $          %
+                                                           ---------   ------------   --------   --------
+<S>                                                        <C>         <C>            <C>        <C>
+ASSETS
+Student loans............................................   $38,525       $37,647      $  878        2%
+Warehousing advances.....................................     1,014           987          27        3
+Academic facilities financings...........................       837           851         (14)      (2)
+Cash and investments.....................................     6,774         5,941         833       14
+Other assets.............................................     3,719         3,366         353       11
+                                                            -------       -------      ------      ---
+    Total assets.........................................   $50,869       $48,792      $2,077        4%
+                                                            =======       =======      ======      ===
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Short-term borrowings....................................   $37,473       $30,464      $7,009       23%
+Long-term notes..........................................     9,850        14,911      (5,061)     (34)
+Other liabilities........................................     1,912         1,788         124        7
+                                                            -------       -------      ------      ---
+    Total liabilities....................................    49,235        47,163       2,072        4
+                                                            -------       -------      ------      ---
+
+Minority interest in subsidiary..........................       214           214          --       --
+Stockholders' equity before treasury stock...............     2,878         2,550         328       13
+Common stock held in treasury at cost....................     1,458         1,135         323       28
+                                                            -------       -------      ------      ---
+    Total stockholders' equity...........................     1,420         1,415           5       --
+                                                            -------       -------      ------      ---
+    Total liabilities and stockholders' equity...........   $50,869       $48,792      $2,077        4%
+                                                            =======       =======      ======      ===
+</TABLE>
+
+                                       15
+<PAGE>
+RESULTS OF OPERATIONS
+
+EARNINGS SUMMARY
+
+    The Company's "core cash basis" net income was $145 million ($.84 diluted
+earnings per share) for the three months ended March 31, 2001 versus
+$109 million ($.66 diluted earnings per share) for the three months ended
+March 31, 2000. "Core cash basis" results measure only the recurring earnings of
+the Company. Accordingly, securitization transactions are treated as financings,
+not sales, and thereby gains on such sales are eliminated. In addition, the
+effect of floor revenue, certain one-time gains and losses on sales of
+investment securities and student loans, certain integration charges, and the
+amortization of goodwill are also excluded from net income calculated in
+accordance with generally accepted accounting principles ("GAAP"). Similarly, in
+order to preserve consistency in "core cash basis" reporting, the non-cash,
+mark-to-market effects of Statement of Financial Standards No. 133
+("SFAS 133"), "Accounting for Derivative Instruments and Hedging Activities,"
+which became effective as of January 1, 2001, also are excluded. (See "Pro-forma
+Statements of Income" for a detailed discussion of "core cash basis" net
+income.)
+
+    The increase in "core cash basis" net income in the first quarter of 2001
+versus the first quarter of 2000 is mainly due to the $14.6 billion increase in
+the average balance of the Company's managed portfolio of student loans,
+partially offset by higher funding costs, and to the net increase in fee income
+as a result of the acquisition of the operations of USA Group in July 2000.
+
+    For the three months ended March 31, 2001, the Company's net income
+calculated in accordance with GAAP was $30 million ($.16 diluted earnings per
+share), versus net income of $154 million ($.93 diluted earnings per share) in
+the first quarter of 2000. The decrease in GAAP net income in the first quarter
+of 2001 versus the year-ago quarter is mainly due to the net impact of SFAS 133
+resulting in net after-tax losses of $114 million. The after-tax, mark-to-market
+losses due to the implementation of SFAS 133 include $75 million losses on Floor
+Revenue Contracts (defined below under "Student Loan Floor Revenue Contracts"),
+$23 million losses on interest rate swaps, $8 million losses on Eurodollar
+futures contracts, and $8 million losses due to the amortization of the Floor
+Revenue Contracts that were de-designated as hedges on December 31, 2000. The
+decrease in GAAP net income in the first quarter 2001 versus the year-ago
+quarter is also due to an increase in after-tax losses on sales of securities of
+$35 million, a decrease in after-tax securitization gains of $21 million, and an
+increase in after-tax operating expenses of $46 million, principally due to the
+acquisition of the operations of USA Group and Student Loan Funding Resources
+("SLFR") in July 2000. These decreases in net income were partially offset by an
+increase in after-tax floor revenues of $23 million, an increase in after-tax
+servicing and securitization revenues of $38 million, an increase in after-tax
+fee income of $19 million, and an after-tax mark-to-market gain of $17 million
+on Floor Revenue Contracts indexed to LIBOR that were considered trading
+positions.
+
+    During the first quarter of 2001, the Company securitized $1.5 billion of
+student loans in one transaction and securitized $288 million through the
+recycling provisions of the USA Group securitizations. The Company recorded
+after-tax securitization gains of $6 million in the first quarter of 2001. The
+Company securitized $4.0 billion of student loans in two transactions during the
+first quarter of 2000 and recorded after-tax securitization gains of
+$28 million.
+
+    During the first quarter of 2001, the Company repurchased 5.5 million common
+shares through its open market purchases and equity forward settlements and
+issued a net 4.3 million shares as a result of benefit plans. Common shares
+outstanding at March 31, 2001 totaled 163 million.
+
+NET INTEREST INCOME
+
+    Net interest income is derived largely from the Company's portfolio of
+student loans that remain on-balance sheet. The "Taxable Equivalent Net Interest
+Income" analysis set forth below is designed to facilitate a comparison of
+non-taxable asset yields to taxable yields on a similar basis. Additional
+
+                                       16
+<PAGE>
+information regarding the return on the Company's student loan portfolio is set
+forth under "Student Loans--Student Loan Spread Analysis."
+
+    Taxable equivalent net interest income for the three months ended March 31,
+2001 versus the three months ended March 31, 2000 increased by $9 million while
+the net interest margin decreased by 12 basis points. The increase in taxable
+equivalent net interest income for the three months ended March 31, 2001 was
+principally due to the $4.9 billion increase in the average balance of student
+loans over the year-ago quarter. The decrease in the net interest margin for the
+first quarter of 2001 versus the first quarter of 2000 was due to a lower return
+on the investment portfolio and the impact of SFAS 133 on cost of funds,
+partially offset by an increase in floor revenue.
+
+TAXABLE EQUIVALENT NET INTEREST INCOME
+
+    The amounts in this table and the following table are adjusted for the
+impact of certain tax-exempt and tax-advantaged investments based on the
+marginal federal corporate tax rate of 35 percent.
+
+<TABLE>
+<CAPTION>
+                                                                 THREE MONTHS
+                                                                     ENDED               INCREASE
+                                                                   MARCH 31,            (DECREASE)
+                                                              -------------------   -------------------
+                                                                2001       2000        $          %
+                                                              --------   --------   --------   --------
+<S>                                                           <C>        <C>        <C>        <C>
+Interest income
+  Student loans.............................................    $713       $668       $45           7%
+  Warehousing advances......................................      15         17        (2)        (13)
+  Academic facilities financings............................      14         17        (3)        (17)
+  Investments...............................................     133        118        15          12
+  Taxable equivalent adjustment.............................      --          9        (9)       (100)
+                                                                ----       ----       ---        ----
+    Total taxable equivalent interest income................     875        829        46           5
+Interest expense............................................     695        658        37           6
+                                                                ----       ----       ---        ----
+Taxable equivalent net interest income......................    $180       $171       $ 9           5%
+                                                                ====       ====       ===        ====
+</TABLE>
+
+AVERAGE BALANCE SHEETS
+
+    The following table reflects the rates earned on earning assets and paid on
+liabilities for the three months ended March 31, 2001 and 2000.
+
+<TABLE>
+<CAPTION>
+                                                                      THREE MONTHS ENDED MARCH 31,
+                                                              --------------------------------------------
+                                                                     2001                     2000
+                                                              -------------------      -------------------
+                                                              BALANCE      RATE        BALANCE      RATE
+                                                              --------   --------      --------   --------
+<S>                                                           <C>        <C>           <C>        <C>
+AVERAGE ASSETS
+Student loans...............................................  $38,709      7.47%       $33,766      7.95%
+Warehousing advances........................................      984      6.01          1,006      6.68
+Academic facilities financings..............................      852      8.34          1,049      8.29
+Investments.................................................    8,625      6.09          7,342      6.75
+                                                              -------      ----        -------      ----
+Total interest earning assets...............................   49,170      7.21%        43,163      7.73%
+                                                                           ====                     ====
+Non-interest earning assets.................................    4,238                    2,371
+                                                              -------                  -------
+  Total assets..............................................  $53,408                  $45,534
+                                                              =======                  =======
+
+AVERAGE LIABILITIES AND STOCKHOLDERS' EQUITY
+Six month floating rate notes...............................  $ 4,797      5.54%       $ 4,914      6.31%
+Other short-term borrowings.................................   32,158      5.61         33,056      6.03
+Long-term notes.............................................   13,008      5.74          5,270      6.47
+                                                              -------      ----        -------      ----
+Total interest bearing liabilities..........................   49,963      5.64%        43,240      6.12%
+                                                                           ====                     ====
+Non-interest bearing liabilities............................    2,136                    1,419
+Stockholders' equity........................................    1,309                      875
+                                                              -------                  -------
+  Total liabilities and stockholders' equity................  $53,408                  $45,534
+                                                              =======                  =======
+Net interest margin.........................................               1.48%                    1.60%
+                                                                           ====                     ====
+</TABLE>
+
+                                       17
+<PAGE>
+RATE/VOLUME ANALYSIS
+
+    The Rate/Volume Analysis below shows the relative contribution of changes in
+interest rates and asset volumes.
+
+<TABLE>
+<CAPTION>
+                                                                                INCREASE
+                                                                               (DECREASE)
+                                                               TAXABLE       ATTRIBUTABLE TO
+                                                              EQUIVALENT        CHANGE IN
+                                                               INCREASE    -------------------
+                                                              (DECREASE)     RATE      VOLUME
+                                                              ----------   --------   --------
+<S>                                                           <C>          <C>        <C>
+THREE MONTHS ENDED MARCH 31, 2001 VS. THREE MONTHS ENDED
+  MARCH 31, 2000
+Taxable equivalent interest income..........................      $46        $(53)      $99
+Interest expense............................................       37         (53)       90
+                                                                  ---        ----       ---
+Taxable equivalent net interest income......................      $ 9        $ --       $ 9
+                                                                  ===        ====       ===
+</TABLE>
+
+STUDENT LOANS
+
+STUDENT LOAN SPREAD ANALYSIS
+
+    The following table analyzes the reported earnings from student loans both
+on-balance sheet and those off-balance sheet in securitization trusts. For
+student loans off-balance sheet, the Company will continue to earn servicing fee
+revenues over the life of the securitized student loan portfolios. The
+off-balance sheet information presented in "Securitization Program--Servicing
+and Securitization Revenue" analyzes the on-going servicing revenue and residual
+interest earned on the securitized portfolios of student loans. For an analysis
+of the Company's student loan spread for the entire portfolio of managed student
+loans on a similar basis to the on-balance sheet analysis, see "'Core Cash
+Basis' Student Loan Spread and Net Interest Income."
+
+<TABLE>
+<CAPTION>
+                                                                THREE MONTHS ENDED
+                                                                    MARCH 31,
+                                                              ----------------------
+                                                                2001          2000
+                                                              --------      --------
+<S>                                                           <C>           <C>
+ON-BALANCE SHEET
+Adjusted student loan yields................................     8.18%         8.62%
+Consolidated loan rebate fees...............................     (.28)         (.25)
+Offset fees.................................................     (.14)         (.14)
+Borrower benefits...........................................     (.07)         (.08)
+Premium amortization........................................     (.22)         (.20)
+                                                              -------       -------
+Student loan income.........................................     7.47          7.95
+Cost of funds...............................................    (5.81)        (6.11)
+                                                              -------       -------
+Student loan spread.........................................     1.66%         1.84%
+                                                              =======       =======
+
+OFF-BALANCE SHEET
+Servicing and securitization revenue........................     1.62%         1.23%
+                                                              =======       =======
+
+AVERAGE BALANCES
+Student loans...............................................  $38,709       $33,766
+Securitized loans...........................................   30,028        20,328
+                                                              -------       -------
+Managed student loans.......................................  $68,737       $54,094
+                                                              =======       =======
+</TABLE>
+
+    The Company's portfolio of student loans originated under the FFELP has a
+variety of unique interest rate characteristics. The Company earns interest at
+the greater of the borrower's rate or a floating rate determined by reference to
+the average of the applicable floating rates (91-day Treasury
+
+                                       18
+<PAGE>
+bill, commercial paper or 52-week Treasury bill) in a calendar quarter, plus a
+fixed spread which is dependent upon when the loan was originated. If the
+floating rate exceeds the borrower rate, the Department of Education makes a
+payment directly to the Company based upon the special allowance payment ("SAP")
+formula established under the Higher Education Act. If the floating rate is less
+than the rate the borrower is obligated to pay, the Company simply earns
+interest at the borrower rate. In all cases, the rate a borrower is obligated to
+pay is the lowest interest rate or the floor that the Company can earn on a
+student loan. The borrowers' interest rates are either fixed to term or are
+reset annually on July 1 of each year depending on when the loan was originated.
+
+    The Company generally finances its student loan portfolio with floating rate
+debt tied to the average of the 91-day Treasury bill auctions, commercial paper
+or 52-week Treasury bill, either directly or through the use of derivative
+financial instruments intended to mimic the interest rate characteristics of the
+student loans. Such borrowings generally float over all interest rate ranges. As
+a result, in periods of declining interest rates, the portfolio of managed
+student loans may be earning at the borrower rate while the Company's funding
+costs (exclusive of fluctuations in funding spreads) generally continue to
+decline along with short-term interest rates. When this happens, the difference
+between the interest earned from the rate paid by the borrower and the interest
+that would be earned as derived from the SAP formula is referred to as "Floor
+Revenue." For loans where the borrower's interest rate is fixed to term,
+declining interest rates may benefit the spread earned on student loans for
+extended periods of time. For loans where the borrower's interest rate is reset
+annually, any benefit of a declining interest rate environment will only enhance
+student loan spreads through the next annual reset of the borrower's interest
+rates, which occurs on July 1 of each year.
+
+    Due to the decline in Treasury bill and commercial paper rates during the
+first quarter of 2001, the Company realized $12 million in Floor Revenue from
+student loans earning at the minimum borrower rate in the first quarter of 2001
+versus $2 million of such earnings in the year-ago quarter.
+
+    The on-balance sheet cost of funds did not decrease in tandem with the
+student loan yield due to the impact from SFAS 133 treatment of Eurodollar
+futures which increased first quarter 2001 cost of funds by 24 basis points as
+compared to the year-ago quarter. This was partially offset by the impact of the
+decline in Treasury bill and commercial paper rates on student loans earning at
+the minimum borrower rate which increased the on-balance sheet student loan
+spread by 11 basis points versus the year-ago quarter.
+
+    The following table analyzes the ability of the FFELP student loans in the
+Company's managed student loan portfolio to earn at the minimum borrower
+interest rate at March 31, 2001 and 2000, based on the last Treasury bill
+auctions of 4.31 percent and 5.88 percent, respectively, which were applicable
+to those periods (dollars in billions).
+
+<TABLE>
+<CAPTION>
+                                                            MARCH 31, 2001                   MARCH 31, 2000
+                                                    ------------------------------   ------------------------------
+                                                               ANNUALLY                         ANNUALLY
+                                                     FIXED      RESET                 FIXED      RESET
+                                                    BORROWER   BORROWER              BORROWER   BORROWER
+                                                      RATE       RATE      TOTAL       RATE       RATE      TOTAL
+                                                    --------   --------   --------   --------   --------   --------
+<S>                                                 <C>        <C>        <C>        <C>        <C>        <C>
+Student loans eligible to earn at the minimum
+  borrower rate...................................   $16.2      $39.4      $55.6      $13.1      $29.5      $42.6
+Less notional amount of floor interest
+  contracts.......................................    (7.6)        --       (7.6)      (5.3)      (3.1)      (8.4)
+                                                     -----      -----      -----      -----      -----      -----
+Net student loans eligible to earn at the minimum
+  borrower rate...................................   $ 8.6      $39.4      $48.0      $ 7.8      $26.4      $34.2
+                                                     =====      =====      =====      =====      =====      =====
+Net student loans earning at the minimum
+  borrower rate...................................   $ 7.7      $39.3      $47.0      $ 2.1      $  --      $ 2.1
+                                                     =====      =====      =====      =====      =====      =====
+</TABLE>
+
+                                       19
+<PAGE>
+STUDENT LOAN FLOOR REVENUE CONTRACTS
+
+    Periodically, the Company has entered into contracts with third parties to
+monetize the value of the minimum borrower interest rate feature of its
+portfolio of FFELP student loans. Under these contracts, referred to as "Floor
+Revenue Contracts," the Company receives an upfront payment and agrees to pay
+the difference between (1) the minimum borrower interest rate less the
+applicable SAP rate ("the strike rate") and (2) the average of the 91-day
+Treasury bill rates over the period of the contract. If the strike rate is less
+than the average of the Treasury bill rates, then no payment is required. Prior
+to the implementation of SFAS 133, these upfront payments were amortized over
+the average life of the contracts.
+
+    Effective December 31, 2000, in anticipation of the adoption of SFAS 133,
+the Floor Revenue Contracts were de-designated as effective hedges and
+marked-to-market. The net effect of the fair market value of these contracts and
+the unamortized upfront payments totaled $104 million and was reclassified to
+student loan premium and will be amortized over the average life of the student
+loan portfolio ("SFAS 133 transition adjustment"). At March 31, 2001, the
+unamortized SFAS 133 transition adjustment in student loan premium totaled
+$96 million. First quarter 2001 amortization totaled $4 million and the premium
+write-off due to securitization totaled $4 million.
+
+    In the first quarter of 2001, the Company recognized $115 million in
+pre-tax, mark-to-market losses attributable to Floor Revenue Contracts with
+$14.3 billion notional amount due to the implementation of SFAS 133. In the
+first quarter of 2000, the amortization of the upfront payments received from
+the sale of Floor Revenue Contracts on the Company's on-balance sheet student
+loans was $6 million.
+
+ON-BALANCE SHEET FUNDING COSTS
+
+    The Company's borrowings are generally variable-rate indexed principally to
+the 91-day Treasury bill rate. The following table summarizes the average
+balance of on-balance sheet debt (by index, after giving effect to the impact of
+interest rate swaps) for the three months ended March 31, 2001 and 2000 (dollars
+in millions).
+
+<TABLE>
+<CAPTION>
+                                                                   THREE MONTHS ENDED MARCH 31,
+                                                           --------------------------------------------
+                                                                  2001                     2000
+                                                           -------------------      -------------------
+                                                           AVERAGE    AVERAGE       AVERAGE    AVERAGE
+INDEX                                                      BALANCE      RATE        BALANCE      RATE
+-----                                                      --------   --------      --------   --------
+<S>                                                        <C>        <C>           <C>        <C>
+Treasury bill, principally 91-day........................  $32,922      5.56%       $33,639      6.15%
+LIBOR....................................................    1,850      6.16          1,768      6.02
+Discount notes...........................................   10,554      5.62          4,647      5.70
+Fixed....................................................    2,261      6.16          1,422      5.98
+Zero coupon..............................................      183     11.14            164     11.17
+Commercial paper.........................................      921      5.76            947      6.25
+Auction rate securities..................................    1,101      4.85             --        --
+Other....................................................      171      5.74            653      5.50
+                                                           -------     -----        -------     -----
+Total....................................................  $49,963      5.64%       $43,240      6.12%
+                                                           =======     =====        =======     =====
+</TABLE>
+
+                                       20
+<PAGE>
+    The following table details the spreads for the Company's Treasury bill
+indexed borrowings and London Interbank Offered Rate ("LIBOR") indexed
+borrowings:
+
+<TABLE>
+<CAPTION>
+                                                              THREE MONTHS ENDED
+                                                                   MARCH 31,
+                                                              -------------------
+INDEXED BORROWINGS                                              2001       2000
+------------------                                            --------   --------
+<S>                                                           <C>        <C>
+TREASURY BILL
+Weighted average Treasury bill..............................    5.03%      5.61%
+Borrowing spread............................................     .53        .54
+                                                                ----       ----
+Weighted average borrowing rate.............................    5.56%      6.15%
+                                                                ====       ====
+
+LIBOR
+Weighted average LIBOR......................................    6.17%      6.24%
+Borrowing spread............................................    (.01)      (.22)
+                                                                ----       ----
+Weighted average borrowing rate.............................    6.16%      6.02%
+                                                                ====       ====
+</TABLE>
+
+SECURITIZATION PROGRAM
+
+    During the first quarter of 2001, the Company completed a securitization
+transaction in which a total of $1.5 billion of student loans were sold to a
+special purpose finance subsidiary and by that subsidiary to a trust that issued
+asset-backed securities to fund the student loans to term. Also in the first
+quarter 2001, the Company securitized $288 million through the recycling
+provisions of the USA Group securitizations. During the first quarter of 2000,
+the Company securitized $4.0 billion through two transactions.
+
+GAINS ON STUDENT LOAN SECURITIZATIONS
+
+    For the three months ended March 31, 2001, the Company recorded pre-tax
+securitization gains of $9 million, which was .53 percent of the portfolio
+securitized, versus $42 million gains in the first quarter of 2000 or
+1.05 percent of the portfolio securitized. The decrease in the first quarter
+2001 securitization gain as a percentage of the portfolio securitized versus the
+year-ago quarter is mainly due to the increase in the premium balance of loans
+securitized due to the SFAS 133 transition adjustment (see "Student Loan Floor
+Revenue Contracts"). Gains on future securitizations will continue to vary
+depending on the size and the loan characteristics of the loan portfolios
+securitized and the funding costs prevailing in the securitization debt markets.
+
+SERVICING AND SECURITIZATION REVENUE
+
+    The following table summarizes the components of servicing and
+securitization revenue:
+
+<TABLE>
+<CAPTION>
+                                                              THREE MONTHS ENDED
+                                                                   MARCH 31,
+                                                              -------------------
+                                                                2001       2000
+                                                              --------   --------
+<S>                                                           <C>        <C>
+Servicing revenue less amortization of servicing asset......    $ 64       $45
+Securitization revenue......................................      56        17
+                                                                ----       ---
+Total servicing and securitization revenue..................    $120       $62
+                                                                ====       ===
+</TABLE>
+
+    In the first quarter of 2001, servicing and securitization revenue was
+1.62 percent of average securitized loans versus 1.23 percent in the year-ago
+quarter. The increase in servicing and securitization revenue as a percentage of
+the average balance of securitized student loans in the first quarter of 2001
+versus the first quarter of 2000 is principally due to the impact of the decline
+in
+
+                                       21
+<PAGE>
+Treasury bill and commercial paper rates during the first quarter of 2001, which
+increased the earnings from those student loans in the trusts that were earning
+the minimum borrower rate in a manner similar to on-balance sheet student loans.
+
+OTHER INCOME
+
+    Other income, exclusive of gains on student loan securitizations, servicing
+and securitization revenue, the "Derivative market value adjustment", gains on
+sales of student loans, and certain one-time gains and losses on sales of
+investment securities totaled $86 million for the three months ended March 31,
+2001 versus $28 million for the three months ended March 31, 2000. Other income
+mainly includes guarantor servicing fees, late fees earned on student loans,
+revenue received from servicing third party portfolios of student loans, and
+commitment fees for letters of credit. Guarantor servicing fees arise primarily
+from four categories of services that correspond to the student loan life cycle.
+They include fees from loan originations, the maintenance of loan guarantees,
+default prevention, and collections. Included in other operating income for the
+first quarter of 2001 was $74 million of income attributable to the guarantor
+servicing, loan servicing and other income from the USA Group transaction which
+closed in July 2000.
+
+OPERATING EXPENSES
+
+    The following table summarizes the components of operating expenses:
+
+<TABLE>
+<CAPTION>
+                                                              THREE MONTHS ENDED
+                                                                   MARCH 31,
+                                                              -------------------
+                                                                2001       2000
+                                                              --------   --------
+<S>                                                           <C>        <C>
+Servicing and acquisition expenses..........................    $ 94       $60
+General and administrative expenses.........................      73        36
+                                                                ----       ---
+Total operating expenses....................................    $167       $96
+                                                                ====       ===
+</TABLE>
+
+    Operating expenses include costs to service the Company's managed student
+loan portfolio, operational costs incurred in the process of acquiring student
+loan portfolios, general and administrative expenses and, beginning in
+August 2000, operational costs associated with its guarantor servicing
+operations. Operating expenses for the three months ended March 31, 2001 and
+2000 were $167 million and $96 million, respectively. The increase in general
+and administrative expenses of $37 million and the increase in servicing and
+acquisition expenses of $34 million over the year-ago quarter was mainly due to
+the addition of operating expenses connected with the acquisitions of SLFR and
+USA Group which closed in July 2000.
+
+STUDENT LOAN PURCHASES
+
+    The following table summarizes the components of the Company's student loan
+purchase activity:
+
+<TABLE>
+<CAPTION>
+                                                                 THREE MONTHS ENDED
+                                                                      MARCH 31,
+                                                              -------------------------
+                                                                2001             2000
+                                                              --------         --------
+<S>                                                           <C>              <C>
+Control channels............................................   $2,827           $1,908
+Other commitment clients....................................      209              283
+Spot purchases..............................................      127              154
+Consolidations..............................................      169              208
+Other.......................................................      296              297
+                                                               ------           ------
+Subtotal....................................................    3,628            2,850
+Managed loans acquired......................................       14               --
+                                                               ------           ------
+Total managed loans acquired................................   $3,642           $2,850
+                                                               ======           ======
+</TABLE>
+
+                                       22
+<PAGE>
+    The Company purchased $3.6 billion of student loans in the first quarter of
+2001 compared with $2.9 billion in the year-ago quarter.
+
+    In the first quarter of 2001, the Company's control channels of loan
+originations totaled $3.1 billion versus $2.1 billion in the year-ago quarter.
+The pipeline of loans currently serviced and committed for purchase by the
+Company was $5.3 billion at March 31, 2001 versus $3.5 billion at March 31,
+2000.
+
+    The following table summarizes the activity in the Company's managed
+portfolio of student loans for the three months ended March 31, 2001 and 2000.
+
+<TABLE>
+<CAPTION>
+                                                                 THREE MONTHS ENDED
+                                                                      MARCH 31,
+                                                              -------------------------
+                                                                2001             2000
+                                                              --------         --------
+<S>                                                           <C>              <C>
+Beginning balance...........................................  $67,515          $53,276
+Purchases...................................................    3,642            2,850
+Capitalized interest on securitized loans...................      183              138
+Repayments, claims, other...................................   (1,840)          (1,303)
+Loan sales..................................................       (1)             (38)
+SFAS 133 student loan premium...............................     (104)              --
+Loans consolidated from USA Education, Inc..................     (343)            (187)
+                                                              -------          -------
+Ending balance..............................................  $69,052          $54,736
+                                                              =======          =======
+</TABLE>
+
+PRO-FORMA STATEMENTS OF INCOME
+
+    Under GAAP, the Company's securitization transactions have been treated as
+sales. At the time of sale, in accordance with SFAS 140, the Company records an
+asset equal to the present value of the estimated future net cash flows from the
+portfolio of loans sold and a gain equal to the difference between that asset
+and the allocated cost basis of the loans sold. Interest earned on the interest
+residual and fees earned for servicing the loan portfolios are recognized over
+the life of the securitization transaction as servicing and securitization
+revenue. Under SFAS 140, income recognition is effectively accelerated through
+the recognition of a gain at the time of sale while the ultimate realization of
+such income remains dependent on the actual performance, over time, of the loans
+that were securitized.
+
+    Effective for the fiscal year beginning January 1, 2001, the Company adopted
+SFAS 133 which requires that every derivative instrument be recorded in the
+balance sheet as either an asset or liability measured at its fair value (see
+Notes 2 and 6 to "Consolidated Financial Statements"). Most of the derivative
+contracts into which the Company enters are effective economic hedges for its
+interest rate management strategy but are not effective hedges under SFAS 133.
+The majority of these hedges are treated as "trading" for GAAP purposes and,
+therefore, the resulting mark-to-market is taken into GAAP earnings. For
+example, SFAS 133 requires that the Company mark-to-market its written options
+but not its embedded options in its student loan assets. Effectively, in this
+case, SFAS 133 recognizes the liability, but not the corresponding asset.
+
+    Management believes that, in addition to results of operations as reported
+in accordance with GAAP, another important performance measure is pro-forma
+results of operations under the assumption that the securitization transactions
+are financings and that the securitized student loans were not sold. As such, no
+gain on sale or subsequent servicing and securitization revenue is recognized.
+Instead, the earnings of the student loans in the trusts and the related
+financing costs are reflected over the life of the underlying pool of loans. The
+pro-forma results of operations also exclude the effect of floor income, certain
+one-time gains and losses on sales of investment securities and student loans,
+certain integration charges, the non-cash, mark-to-market effects of SFAS 133,
+and the
+
+                                       23
+<PAGE>
+amortization of goodwill. Management refers to these pro-forma results as "core
+cash basis" statements of income. Management monitors and reports the periodic
+"core cash basis" earnings of the Company's managed student loan portfolio and
+believes that they assist in a better understanding of the Company's student
+loan business.
+
+    The following table presents the "core cash basis" statements of income and
+reconciliations to GAAP net income as reflected in the Company's consolidated
+statements of income.
+
+<TABLE>
+<CAPTION>
+                                                                 THREE MONTHS ENDED
+                                                                      MARCH 31,
+                                                              -------------------------
+                                                                2001             2000
+                                                              --------         --------
+<S>                                                           <C>              <C>
+"CORE CASH BASIS" STATEMENTS OF INCOME:
+Insured student loans.......................................   $1,271           $1,077
+Advances/Facilities/Investments.............................      168              153
+                                                               ------           ------
+Total interest income.......................................    1,439            1,230
+Interest expense............................................   (1,143)            (986)
+                                                               ------           ------
+Net interest income.........................................      296              244
+Less: provision for losses..................................       19               14
+                                                               ------           ------
+Net interest income after provision for losses..............      277              230
+                                                               ------           ------
+Other income:
+  Guarantor servicing fees..................................       55               --
+  Other.....................................................       57               28
+                                                               ------           ------
+Total other income..........................................      112               28
+Total operating expenses....................................      159               95
+                                                               ------           ------
+Income before taxes and minority interest in net earnings of
+  subsidiary................................................      230              163
+Income taxes................................................       82               51
+Minority interest in net earnings of subsidiary.............        3                3
+                                                               ------           ------
+"Core cash basis" net income................................      145              109
+Preferred stock dividends...................................        3                3
+                                                               ------           ------
+"Core cash basis" net income attributable to common stock...   $  142           $  106
+                                                               ======           ======
+"Core cash basis" diluted earnings per share................   $  .84           $  .66
+                                                               ======           ======
+</TABLE>
+
+                                       24
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                              THREE MONTHS ENDED
+                                                                   MARCH 31,
+                                                              -------------------
+                                                                2001       2000
+                                                              --------   --------
+<S>                                                           <C>        <C>
+RECONCILIATION OF GAAP NET INCOME TO "CORE CASH BASIS" NET
+  INCOME:
+GAAP net income.............................................  $    30    $   154
+"Core cash basis" adjustments:
+  Net interest income, excluding floor income...............      155         84
+  Floor income..............................................      (38)        (2)
+  Provision for losses......................................       (6)        (5)
+  Gains on student loan securitizations.....................       (9)       (42)
+  Servicing and securitization revenue......................     (120)       (62)
+  (Gains)/losses on sales of securities.....................       12        (43)
+  Goodwill amortization.....................................        8          2
+  Net impact of SFAS 133....................................      175         --
+                                                              -------    -------
+Total "core cash basis" adjustments.........................      177        (68)
+Net tax effect (A)..........................................      (62)        23
+                                                              -------    -------
+"Core cash basis" net income................................  $   145    $   109
+                                                              =======    =======
+</TABLE>
+
+------------------------
+
+(A) Such tax effect is based upon the Company's marginal tax rate for the
+    respective period.
+
+"CORE CASH BASIS" STUDENT LOAN SPREAD AND NET INTEREST INCOME
+
+    The following table analyzes the reported earnings from the Company's
+portfolio of managed student loans, which includes those on-balance sheet and
+those off-balance sheet in securitization trusts. The line captioned "Adjusted
+student loan yields" reflects contractual student loan yields.
+
+<TABLE>
+<CAPTION>
+                                                              THREE MONTHS ENDED
+                                                                   MARCH 31,
+                                                              -------------------
+                                                                2001       2000
+                                                              --------   --------
+<S>                                                           <C>        <C>
+"Core cash basis" student loan yields.......................     8.13%      8.61%
+Consolidated loan rebate fees...............................     (.19)      (.17)
+Offset fees.................................................     (.08)      (.08)
+Borrower benefits...........................................     (.10)      (.09)
+Premium amortization........................................     (.26)      (.26)
+                                                              -------    -------
+Student loan income.........................................     7.50       8.01
+Cost of funds...............................................    (5.77)     (6.24)
+                                                              -------    -------
+"Core cash basis" student loan spread.......................     1.73%      1.77%
+                                                              =======    =======
+
+AVERAGE BALANCES
+Student loans...............................................  $68,737    $54,094
+                                                              =======    =======
+</TABLE>
+
+    The Company generally earns interest at the greater of the borrower's rate
+or a floating rate determined by reference to the applicable floating rates
+(91-day Treasury bill, commercial paper or 52-week Treasury bill) in a calendar
+quarter, plus a fixed spread which is dependent upon when the loan was
+originated. In all cases, the rate the borrower pays sets a minimum rate for
+determining the yield the Company earns on the loan. The Company generally
+finances its student loan portfolio with floating rate debt tied to the average
+of the 91-day Treasury bill auctions, the commercial paper index or the 52-week
+Treasury bill, either directly or through the use of derivative financial
+instruments, to mimic the interest rate characteristics of the student loans.
+Such borrowings, however, generally do not have minimum rates. As a result, in
+certain declining interest rate environments, the portfolio of
+
+                                       25
+<PAGE>
+managed student loans may be earning at the minimum borrower rate while the
+Company's funding costs (exclusive of fluctuations in funding spreads) will
+generally decline along with short term interest rates. For loans where the
+borrower's interest rate is fixed to term, lower interest rates may benefit the
+spread earned on student loans for extended periods of time. For loans where the
+borrower's interest rate is reset annually, any benefit of a low interest rate
+environment will only enhance student loan spreads through the next annual reset
+of the borrower's interest rate, which occurs on July 1 of each year. Due to the
+decline in Treasury bill and commercial paper rates in the first quarter of
+2001, the Company realized $38 million in Floor Revenue from student loans
+earning at the minimum borrower rate in the first quarter of 2001 versus
+$2 million of such earnings in the year-ago quarter. These earnings have been
+excluded from student loan income to calculate the "core cash basis" student
+loan spread.
+
+    While Floor Revenue is excluded from "core cash basis" results, the
+amortization of the upfront payments received from the Floor Revenue Contracts
+is included as an addition to student loan income in the "core cash basis"
+results. For the three months ended March 31, 2001 and 2000, the amortization of
+the upfront payments received from the Floor Revenue Contracts with fixed
+borrower rates was $8 million and $5 million, respectively, and for Floor
+Revenue Contracts with annually reset borrower rates was $5 million and
+$1 million, respectively. In addition, during the three months ended March 31,
+2001, a loss of $12 million of unamortized upfront payments was recognized in
+premium income due to the extinguishment of $1.2 billion of Floor Revenue
+Contracts on annual reset loans. At March 31, 2001, unamortized payments
+received from the sale of Floor Revenue Contracts totaled $133 million,
+$114 million of which related to contracts on fixed rate loans and $19 million
+of which related to contracts on annual reset loans. The $13.2 billion of
+outstanding fixed borrower rate Floor Revenue Contracts at March 31, 2001 have
+expiration dates through the year 2008, while the $1.1 billion of annually reset
+borrower rate contracts outstanding at March 31, 2001 have expiration dates
+through the year 2003.
+
+    The decrease in the first quarter of 2001 "core cash basis" student loan
+spread versus the year-ago quarter is primarily attributable to the increase in
+the average balance of consolidation loans as a percentage of total managed
+loans which decreased the "core cash basis" student loan spread by 2 basis
+points.
+
+    The "core cash basis" net interest margin for the first quarters of 2001 and
+2000 was 1.52 percent and 1.60 percent, respectively. The decrease in the first
+quarter of 2001 "core cash basis" net interest margin versus the first quarter
+of 2000 is mainly due to the decrease in the student loan spread discussed
+above, the increased percentage of long-term debt as a percentage of total
+liabilities, and an increase in short-term investments which earn income at a
+lower spread.
+
+FEDERAL AND STATE TAXES
+
+    The Company is subject to federal and state taxes, however, the GSE is
+exempt from all state, local, and District of Columbia income, franchise, sales
+and use, personal property and other taxes, except for real property taxes. This
+tax exemption applies only to the GSE and does not apply to USA Education, Inc.
+or its other operating subsidiaries that are subject to taxation at the state
+and local level. As business activity increasingly occurs outside of the GSE,
+the impact of state and local taxes will increase accordingly. This was the
+primary reason for the Company's effective tax rate to increase from the
+statutory rate of 35 percent to 39 percent for the first quarter of 2001.
+
+    The Company maintains a portfolio of tax-advantaged assets principally to
+support education-related financing activities. That portfolio was primarily
+responsible for the decrease in the effective federal income tax rate from the
+statutory rate of 35 percent to 33 percent in the first quarter of 2000. State
+taxes were immaterial in the three months ended March 31, 2000 as the majority
+of the Company's business activities were conducted in the GSE.
+
+                                       26
+<PAGE>
+LIQUIDITY AND CAPITAL RESOURCES
+
+    The Company's primary requirements for capital are to fund the Company's
+operations, to purchase student loans and to repay its debt obligations while
+continuing to meet the GSE's statutory capital adequacy ratio test. The
+Company's primary sources of liquidity are through debt issuances by its GSE
+subsidiary, off-balance sheet financings through securitizations, borrowings
+under its commercial paper and senior notes programs, and cash generated by its
+subsidiaries' operations and distributed through dividends to the Company.
+
+    The Company's unsecured financing requirements are driven by three principal
+factors: refinancing of existing liabilities as they mature; financing of
+student loan portfolio growth; and the Company's level of securitization
+activity.
+
+    In the first quarter of 2001, the Company completed one securitization
+transaction totaling $1.5 billion in student loans and an additional
+$300 million through the recycling provisions of the securitizations acquired
+from USA Group. The Company manages the resulting off-balance sheet basis risk
+with on-balance sheet financing and derivative instruments, which principally
+consists of basis swaps and Eurodollar futures.
+
+    During the first quarter of 2001, the Company used the net proceeds from
+student loan securitizations of $1.8 billion, net proceeds from the issuance of
+debt of $2.0 billion, and repayments and claim payments on student loans of
+$922 million to purchase student loans of $3.6 billion, to increase investments
+by $497 million, and to repurchase $323 million of the Company's common stock.
+
+    Operating activities used net cash of $94 million in the first quarter of
+2001, a decrease of $252 million from the net cash inflows of $158 million in
+the year-ago quarter.
+
+    During the first quarter of 2001, the Company issued $2.2 billion of
+long-term notes to refund maturing and repurchased obligations. At March 31,
+2001, the Company had $9.8 billion of outstanding long-term debt issues of which
+$486 million had stated maturities that could be accelerated through call
+provisions. The Company uses interest rate and foreign currency swaps
+(collateralized where appropriate), purchases of U.S. Treasury securities, and
+other hedging techniques to reduce its exposure to interest rate and currency
+fluctuations that arise from its financing activities and to match the variable
+interest rate characteristics of its earning assets. (See "Interest Rate Risk
+Management.")
+
+    On January 1, 2000, the GSE's statutory capital adequacy ratio was increased
+from 2.00 percent to 2.25 percent. At March 31, 2001, the GSE's statutory
+capital adequacy ratio, after the effect of the dividends to be paid in the
+second quarter of 2001, was 2.32 percent.
+
+INTEREST RATE RISK MANAGEMENT
+
+INTEREST RATE GAP ANALYSIS
+
+    The Company's principal objective in financing its operations is to minimize
+its sensitivity to changing interest rates by matching the interest rate
+characteristics of its borrowings to specific assets in order to lock in
+spreads. The Company funds its floating rate managed loan assets (most of which
+have weekly rate resets) with variable rate debt and fixed rate debt converted
+to variable rates with interest rate swaps. The Company also uses interest rate
+cap agreements, foreign currency swaps, options on securities, and financial
+futures contracts to further reduce interest rate risk and foreign currency
+exposure on certain of its borrowings. Investments are funded on a "pooled"
+approach, i.e., the pool of liabilities that funds the investment portfolio has
+an average rate and maturity or reset date that corresponds to the average rate
+and maturity or reset date of the investments which they fund.
+
+    In addition to term match funding, $14.7 billion of the Company's
+asset-backed securities match the interest rate characteristics of the majority
+of the student loans in the trusts by being indexed to the 91-day Treasury bill.
+At March 31, 2001, there were approximately $3.4 billion of PLUS student loans
+
+                                       27
+<PAGE>
+outstanding in the trusts, which have interest rates that reset annually based
+on the final auction of 52-week Treasury bills before each July 1. In addition,
+at March 31, 2001, approximately $16.3 billion of asset-backed securities had
+been indexed to LIBOR. In its securitization transactions, the Company retains
+this basis risk and manages it through its on-balance sheet financing
+activities. The effect of this basis risk management is included in the
+following table as the impact of securitized student loans.
+
+    In the table below the Company's variable rate assets and liabilities are
+categorized by reset date of the underlying index. Fixed rate assets and
+liabilities are categorized based on their maturity dates. The notional amount
+of interest rate swap contracts is included in the "Off-balance Sheet Financial
+Instruments" section of the table below. An interest rate gap is the difference
+between volumes of assets and volumes of liabilities maturing or repricing
+during specific future time intervals. The following gap analysis reflects
+rate-sensitive positions at March 31, 2001 and is not necessarily reflective of
+positions that existed throughout the period.
+
+<TABLE>
+<CAPTION>
+                                                                         INTEREST RATE SENSITIVITY PERIOD
+                                                    ---------------------------------------------------------------------------
+                                                    3 MONTHS     3 MONTHS TO    6 MONTHS TO     1 TO 2      2 TO 5      OVER 5
+                                                     OR LESS      6 MONTHS        1 YEAR        YEARS       YEARS       YEARS
+                                                    ---------    -----------    -----------    --------    --------    --------
+<S>                                                 <C>          <C>            <C>            <C>         <C>         <C>
+ASSETS
+Student loans.....................................   $35,253       $2,731         $   541       $  --       $   --      $   --
+Warehousing advances..............................       988           13              --          --            2          11
+Academic facilities financings....................        36           24              16         120          257         384
+Cash and investments..............................     3,597        1,103              20           7          151       1,896
+Other assets......................................        29           34              67         139          428       3,022
+                                                     -------       ------         -------       -----       ------      ------
+  Total assets....................................    39,903        3,905             644         266          838       5,313
+                                                     -------       ------         -------       -----       ------      ------
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Short-term borrowings.............................    35,806        1,114             553          --           --          --
+Long-term notes...................................     7,544           12              --         414        1,340         540
+Other liabilities.................................        --           --              --          --           --       1,912
+Minority interest in subsidiary...................        --           --              --          --           --         214
+Stockholders' equity..............................        --           --              --          --           --       1,420
+                                                     -------       ------         -------       -----       ------      ------
+  Total liabilities and stockholders' equity......    43,350        1,126             553         414        1,340       4,086
+                                                     -------       ------         -------       -----       ------      ------
+OFF-BALANCE SHEET FINANCIAL INSTRUMENTS
+Interest rate swaps...............................     3,943       (1,423)         (1,805)        250           38      (1,003)
+Impact of securitized student loans...............    (3,391)       3,391              --          --           --          --
+                                                     -------       ------         -------       -----       ------      ------
+  Total off-balance sheet financial instruments...       552        1,968          (1,805)        250           38      (1,003)
+                                                     -------       ------         -------       -----       ------      ------
+Period gap........................................   $(2,895)      $4,747         $(1,714)      $ 102       $ (464)     $  224
+                                                     =======       ======         =======       =====       ======      ======
+Cumulative gap....................................   $(2,895)      $1,852         $   138       $ 240       $ (224)     $   --
+                                                     =======       ======         =======       =====       ======      ======
+Ratio of interest-sensitive assets to
+  interest-sensitive liabilities..................      92.0%       343.8%          104.3%       30.7%        30.6%      424.3%
+                                                     =======       ======         =======       =====       ======      ======
+Ratio of cumulative gap to total assets...........       5.7%        (3.6)%          (0.3)%      (0.5)%         .4%         --%
+                                                     =======       ======         =======       =====       ======      ======
+</TABLE>
+
+INTEREST RATE SENSITIVITY ANALYSIS
+
+    The effect of short-term movements in interest rates on the Company's
+results of operations and financial position has been limited through the
+Company's risk management activities. The Company performed a sensitivity
+analysis to determine the effect of a hypothetical increase in market interest
+rates of 10 percent on the Company's variable rate assets and liabilities and a
+hypothetical 10 percent increase in spreads to their underlying index. Based on
+this analysis, there has not been a material change in market risk from
+December 31, 2000 as reported in the Company's Form 10-K.
+
+                                       28
+<PAGE>
+AVERAGE TERMS TO MATURITY
+
+    The following table reflects the average terms to maturity for the Company's
+managed earning assets and liabilities at March 31, 2001 (in years):
+
+<TABLE>
+<CAPTION>
+                                                                ON-        OFF-
+                                                              BALANCE    BALANCE
+                                                               SHEET      SHEET     MANAGED
+                                                              --------   --------   --------
+<S>                                                           <C>        <C>        <C>
+EARNING ASSETS
+Student loans...............................................    7.3        4.2        5.9
+Warehousing advances........................................    5.5         --        5.5
+Academic facilities financings..............................    6.6         --        6.6
+Cash and investments........................................    4.2         --        4.2
+                                                                ---        ---        ---
+Total earning assets........................................    6.8        4.2        5.8
+                                                                ---        ---        ---
+BORROWINGS
+Short-term borrowings.......................................     .4         --         .4
+Long-term borrowings........................................    4.1        4.2        4.2
+                                                                ---        ---        ---
+Total borrowings............................................    1.2        4.2        2.4
+                                                                ===        ===        ===
+</TABLE>
+
+    In the above table, Treasury receipts and variable rate asset-backed
+securities, although generally liquid in nature, extend the weighted average
+remaining term to maturity of cash and investments to 4.2 years. As student
+loans are securitized, the need for long-term on-balance sheet financing will
+decrease.
+
+COMMON STOCK
+
+    The Company repurchased 5.5 million shares during the first quarter of 2001
+through open market purchases and equity forward settlements and issued a net
+4.3 million shares as a result of benefit plans. At March 31, 2001, the total
+common shares that could potentially be acquired over the next four years under
+outstanding equity forward contracts was 16.5 million, and the Company had a
+remaining authority to enter into additional share repurchases and equity
+forward contracts for 10.9 million shares.
+
+                                       29
+<PAGE>
+    The following table summarizes the Company's common share repurchase and
+equity forward activity for the three months ended March 31, 2001 and 2000. (All
+amounts in the tables are common shares in millions.)
+
+<TABLE>
+<CAPTION>
+                                                              THREE MONTHS ENDED
+                                                                   MARCH 31,
+                                                              -------------------
+                                                                2001       2000
+                                                              --------   --------
+<S>                                                           <C>        <C>
+COMMON SHARES REPURCHASED:
+  Open market...............................................      2.7         --
+  Equity forwards...........................................      2.8        1.1
+                                                               ------     ------
+Total shares repurchased....................................      5.5        1.1
+                                                               ======     ======
+
+Average purchase price per share............................   $54.51     $43.78
+                                                               ======     ======
+
+EQUITY FORWARD CONTRACTS:
+Outstanding at beginning of year............................     18.2       21.4
+New contracts...............................................      1.1        1.7
+Exercises...................................................     (2.8)      (1.1)
+                                                               ------     ------
+Outstanding at end of period................................     16.5       22.0
+                                                               ======     ======
+Remaining Board of Director authority at end of period......     10.9        1.9
+                                                               ======     ======
+</TABLE>
+
+    As of March 31, 2001, the expiration dates and range of purchase prices for
+outstanding equity forward contracts are as follows:
+
+<TABLE>
+<CAPTION>
+                                                              OUTSTANDING       RANGE OF MARKET
+YEAR OF MATURITY                                               CONTRACTS            PRICES
+----------------                                              -----------   -----------------------
+<S>                                                           <C>           <C>
+2001........................................................       1.5          $32.11 - $43.06
+2002........................................................       5.0          41.01 -  45.55
+2003........................................................       7.1          33.93 -  63.00
+2004........................................................       1.7          39.82 -  45.62
+2005........................................................       1.2          30.00 -  36.04
+                                                                  ----
+                                                                  16.5
+                                                                  ====
+</TABLE>
+
+OTHER RELATED EVENTS AND INFORMATION
+
+OTHER DEVELOPMENTS
+
+    Effective as of March 27, 2001, J. Paul Carey resigned as Executive Vice
+President of the Company. Mr. Carey continued to serve as President and a
+director of the Student Loan Marketing Association until May 8, 2001. Effective
+as of May 8, 2001, Marianne M. Keler, Esquire, was appointed as the President of
+the Student Loan Marketing Association. Ms. Keler continues to serve as an
+Executive Vice President and the General Counsel of the Company.
+
+                                       30
+<PAGE>
+                           PART II. OTHER INFORMATION
+
+ITEM 1. LEGAL PROCEEDINGS.
+
+    Nothing to report.
+
+ITEM 2. CHANGES IN SECURITIES.
+
+    Nothing to report.
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES.
+
+    Nothing to report.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+    Nothing to report.
+
+ITEM 5. OTHER INFORMATION.
+
+    Effective as of March 27, 2001, J. Paul Carey resigned as Executive Vice
+President of the Company. Mr. Carey continued to serve as President and a
+director of the Student Loan Marketing Association until May 8, 2001. Effective
+as of May 8, 2001, Marianne M. Keler, Esquire, was appointed as the President of
+the Student Loan Marketing Association. Ms. Keler continues to serve as an
+Executive Vice President and the General Counsel of the Company.
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K.
+
+    (a) Exhibits
+
+    None.
+
+    (b) Reports on Form 8-K
+
+    We filed four Current Reports on Form 8-K with the Commission during the
+quarter ended March 31, 2001 or thereafter. They were filed on:
+
+    - February 22, 2001 in connection with our press release announcing our
+      earnings for the fourth quarter ended December 31, 2000 and our
+      supplemental financial information for the same period
+
+    - February 27, 2001 in connection with the issuance of $500,000,000 of our
+      Senior Notes due February 18, 2003
+
+    - March 7, 2001 in connection with the sale of 7,241,513 shares of our
+      common stock by the Lumina Foundation for Education, Inc.
+
+    - April 17, 2001 in connection with the issuance of $115,000,000 of our
+      Senior Notes due February 18, 2003, increasing the aggregate principal
+      amount of the outstanding notes of this series to $615,000,000
+
+                                       31
+<PAGE>
+                                   SIGNATURES
+
+    Pursuant to the requirements of the Securities Exchange Act of 1934, as
+amended, the Registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+
+<TABLE>
+<S>                             <C>  <C>
+                                USA EDUCATION, INC.
+                                (Registrant)
+
+                                By:                      /s/ JOHN F. REMONDI
+                                              -----------------------------------------
+                                                           John F. Remondi
+                                                     EXECUTIVE VICE PRESIDENT AND
+                                                       CHIEF FINANCIAL OFFICER
+                                             (Principal Financial and Accounting Officer
+                                                     and Duly Authorized Officer)
+</TABLE>
+
+Date: May 15, 2001
+
+                                       32
+</TEXT>
+</DOCUMENT>
