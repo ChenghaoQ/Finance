@@ -37,7 +37,7 @@ def check_if_in(parsed):
 
 
 
-def date_filter(doclist,start,end='2032-05-22'):
+def date_filter(doclist,start='2013-04-30',end='2032-05-22'):
 	start = dt.strptime(start, "%Y-%m-%d")
 
 	end = dt.strptime(end, "%Y-%m-%d")
@@ -80,7 +80,7 @@ def get_doc(doclink):
 	return homepage+doc
 
 def get_data(doclink,doctype):
-
+	doclink = homepage 
 	r = request_(doclink)
 	data={}
 	if doctype == 'N-CSR':
@@ -160,10 +160,33 @@ def raw_parser(string,sign):
 	return re.findall(rep,string)[0]
 
 
-def worker(companylist):
-	ticker = companylist
+def worker(q,missed):
 	
+	homepage = 'http://www.sec.gov'
+	searchpage =homepage+'/cgi-bin/browse-edgar'	
 
+	while True:
+		try:
+			companylist = q.get(timeout=2)
+			
+		except Empty:
+			break
+		ticker = companylist[0]
+		cik = companylist[2]
+		name = companylist[1]
+		
+		params={'CIK': cik, 'count': '100', 'type': 'N-CSR'}
+		r =request_(searchpage,params)
+		#search_result = contentdivparser(r.text)
+		search_result = r.text
+		if not check_if_in(search_result):
+			missed.append(company)
+			continue
+		print('Getting doc links')
+		ncsr,ncsrs = get_doc_list(search_result)
+		ncsr = date_filter(ncsr)
+		ncsrs = date_filter(ncsrs)
+		print(ncsr)
 
 
 
