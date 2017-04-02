@@ -1,12 +1,10 @@
 import requests as req
 import re
 import pandas as pd
-import lxml
-import html5lib
-from queue import Queue,Empty
+#import lxml
+#import html5lib
 import os
-from threading import Thread
-from bs4 import BeautifulSoup
+#from bs4 import BeautifulSoup
 import IProxypool
 import time
 from multiprocessing import Process,Queue
@@ -20,12 +18,12 @@ homepage = 'http://www.sec.gov'
 #encoding =ISO-8859-1
 enco = 'ISO-8859-1'
 searchpage =homepage+'/cgi-bin/browse-edgar'
-
+#finish
 def contentdivparser(content):
 	repattern = re.compile(r'<div id="contentDiv">(.+?)<div id="footer">',re.S)
 	parsed = re.findall(repattern,content)[0]
 	return parsed if parsed else None
-
+#finish
 def check_if_in(parsed):
  
 	if 'Companies with names matching' in parsed:
@@ -36,7 +34,7 @@ def check_if_in(parsed):
 
 
 
-
+#finish
 def date_filter(doclist,start='2013-04-30',end='2032-05-22'):
 	start = dt.strptime(start, "%Y-%m-%d")
 
@@ -51,7 +49,7 @@ def date_filter(doclist,start='2013-04-30',end='2032-05-22'):
 
 
 
-
+#finish
 def get_doc_list(doclistcont):
 	#doclistcont is content table of search result
 	#datetime_object = datetime.strptime('Jun 1 2005  1:33PM', '%b %d %Y %I:%M%p')
@@ -62,8 +60,8 @@ def get_doc_list(doclistcont):
 	ncsrs = [each for each in result if 'N-CSRS' ==each[0]]
 	return ncsr,ncsrs
 
-
-def get_doc(doclink):
+#finish
+def get_doc(doclink,param):
 
 	r = request_(doclink)
 
@@ -77,10 +75,10 @@ def get_doc(doclink):
 			pass
 	rep = re.compile(r'href="(.+?)"',re.S)
 	doc = re.findall(rep,a.decode())[0]
-	return homepage+doc
+	return [param[0],param[1],homepage+doc]
 
 def get_data(doclink,doctype):
-	doclink = homepage 
+	
 	r = request_(doclink)
 	data={}
 	if doctype == 'N-CSR':
@@ -89,15 +87,18 @@ def get_data(doclink,doctype):
 	if doctype == 'N-CSRS':
 		data['Date'] = raw_parser(r.text,'s-date')
 		data['Type'] = 'N-CSRS'
+
+	soup = BeautifulSoup(r.text,'lxml')  
+	rawtablist = soup.find_all("table")
 	
-	rpp = re.compile(r'<table.*?</table>',re.S)
-	rre = re.findall(rpp,r.text)
 	tbls = set()
-	for each in rre:
-		if 'Net asset value, end of period' in each:
-			tbls.add(each)
-		if 'turnover' in each:
-			tbls.add(each)
+	for each in rawtablist:
+		dec = dec = re.sub(r'[^\x00-\x7F]','', each.decode())
+		if 'Net asset value, end of period' in dec:
+			tbls.add(dec)
+		if 'turnover' in dec:
+			tbls.add(dec)
+
 	tblist = [pd.read_html(each,encoding = 'ISO-8859-1')[0].replace(np.nan,' ') for each in tbls]
 	raw_data_str = []
 	for each in tblist:
@@ -107,7 +108,7 @@ def get_data(doclink,doctype):
 			if 'Net asset value, end of period'.upper() in raw_str.upper():
 				raw_data_str.append(raw_str)
 				data['NAV'] = raw_parser(raw_str,'$')
-			if 'Market value, end of period'.daupper() in raw_str.upper():
+			if 'Market value, end of period'.upper() in raw_str.upper():
 				data['Price'] = raw_parser(raw_str,'$')
 				raw_data_str.append(raw_str)
 			if 'Market price, end of period'.upper() in raw_str.upper():
@@ -116,14 +117,15 @@ def get_data(doclink,doctype):
 			if 'turnover'.upper() in raw_str.upper():
 				data['Turnover'] = raw_parser(raw_str,'%')
 				raw_data_str.append(raw_str)
+	print('*'*10, len(raw_data_str))
 
-	return data
+	return data 
 
 
 
 # - - - - - - - - - Tools - - - - - - - - -
 
-
+#finish
 def request_(link,param=None):
 	
 	proxy = None
@@ -145,20 +147,40 @@ def request_(link,param=None):
 	return r
 
 
-	
+#finish
 def raw_parser(string,sign):
-	if sign == '%':
-		rep = re.compile(r'([0-9. ]+%)',re.S)
-	if sign == '$':
-		rep = re.compile(r'(\$ [0-9.]+)',re.S)
-	if sign == 's-date':
-		rep = re.compile(r'six months ended ([A-Za-z]+ [0-9, ]+)',re.S)
-	if sign == 'a-date':
-		rep = re.compile(r'year ended ([A-Za-z]+ [0-9, ]+)',re.S)
+	try:
+		if sign == '%':
+			rep = re.compile(r'([0-9. ]+%)',re.S)
+		if sign == '$':
+			rep = re.compile(r'(\$ [0-9.]+)',re.S)
+		if sign == 's-date':
+			rep = re.compile(r'six months ended ([A-Za-z]+ [0-9, ]+)',re.S)
+		if sign == 'a-date':
+			rep = re.compile(r'year ended ([A-Za-z]+ [0-9, ]+)',re.S)
 
 
-	return re.findall(rep,string)[0]
 
+		return re.findall(rep,string)[0]
+	except:
+		print(string)
+
+def raw_parser(string,sign):
+	try:
+		if sign == '%':
+			rep = re.compile(r'([0-9. ]+%)',re.S)
+		if sign == '$':
+			rep = re.compile(r'(\$[0-9. ]+)',re.S)
+		if sign == 's-date':
+			rep = re.compile(r'six months ended ([A-Za-z]+ [0-9, ]+)',re.S)
+		if sign == 'a-date':
+			rep = re.compile(r'year ended ([A-Za-z]+ [0-9, ]+)',re.S)
+
+
+
+		return re.findall(rep,string)[0]
+	except:
+		print(string)
 
 def worker(q,missed):
 	
@@ -168,9 +190,11 @@ def worker(q,missed):
 	while True:
 		try:
 			companylist = q.get(timeout=2)
+
 			
 		except Empty:
 			break
+		print('* '*15,companylist,'* '*15)
 		ticker = companylist[0]
 		cik = companylist[2]
 		name = companylist[1]
@@ -180,39 +204,45 @@ def worker(q,missed):
 		#search_result = contentdivparser(r.text)
 		search_result = r.text
 		if not check_if_in(search_result):
-			missed.append(company)
 			continue
 		print('Getting doc links')
 		ncsr,ncsrs = get_doc_list(search_result)
+		if not ncsr or not ncsrs:
+			missed['nothing'].append(companylist)
+			continue
+
+
 		ncsr = date_filter(ncsr)
 		ncsrs = date_filter(ncsrs)
-		print(ncsr)
+		if not ncsr or not ncsrs:
+			missed['nothingnew'].append(companylist)
+			continue
+		ncsrlink = [get_doc(homepage+each[1],[each[0],each[2]]) for each in ncsr]
+		ncsrslink = [get_doc(homepage+each[1],[each[0],each[2]]) for each in ncsrs]
+		for each in ncsrlink:
+			print(get_data(each[2],each[0]))
 
 
 
+missed = {'nothing':[],'nothingnew':[]}
 
-
-
+#worker(co,missed)
 
 #keywords: Net asset value, end of period  ,Market value(price), end of period 
 
 
+#['BLU' 'Blue Chip Value Fund' '810439'] 
 
 
 
+#sorp = re.compile(r'>([a-zA-Z0-9.%$ ]+)<',re.S)
 
 
 
+sorp = re.compile(r'>([a-zA-Z0-9.%$, ]+)<',re.S)
 
 
-
-
-
-
-
-
-
-
+rep = re.compile(r'Net[ ]+asset[ ]+value[, a-z]+end[ a-z]+of[ a-z]+?[a-z]+',re.S)
 
 
 
