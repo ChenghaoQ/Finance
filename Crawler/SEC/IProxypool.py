@@ -1,4 +1,5 @@
 import re,time,threading,urllib.request
+from selenium import webdriver
 
 pool = []
 KDLpage = 0
@@ -19,6 +20,7 @@ class ProxySeeker(threading.Thread):
 
 
 def seeker(parafunc):
+
         def in_seeker(thread_id,thread_type):#decorate need closure to wrap
                 global pool
                 header = {'User-Agent':'Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6'}
