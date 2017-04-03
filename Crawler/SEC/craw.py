@@ -234,6 +234,30 @@ def worker(q,missed):
 				
 
 
+def cik_worker(q,missed):
+	find = {}
+	nofind =[]
+	n=1
+	for each in miss:
+		result = None
+		for ea in ciklookup:
+			try:
+				rep = re.compile(r'%s'%each[1],re.I|re.S)
+				result = re.findall(rep,ea[0])
+				if result and each[1] not in find.keys():
+				    find[each[1]] = [[each[0],result[0],ea[1]],]
+				elif result and each[1] in find.keys():
+				    find[each[1]].append([each[0],result[0],ea[1]])
+			except TypeError:
+					continue
+		if not result:
+			nofind.append(each)
+		print("No.%d finished,%d left"%(n,len(miss)-n))
+		n+=1
+	
+
+
+
 missed = {'nothing':[],'nothingnew':[],'notfind':[],'result':[],'toomuch':[],'None':[]}
 
 #worker(co,missed)
