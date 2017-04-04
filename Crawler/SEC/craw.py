@@ -126,8 +126,6 @@ def get_data(doclink,doctype):
 					return 'too much'
 				
 			
-	if None in data.values():
-		return 'None'
 				
 
 	return data 
@@ -179,7 +177,7 @@ def raw_parser(string,sign):
 def worker(q,missed):
 	
 	homepage = 'http://www.sec.gov'
-	searchpage =homepage+'/cgi-gar'	
+	searchpage =homepage+'/cgi-bin/browse-edgar'
 
 	while True:
 		try:
@@ -197,6 +195,7 @@ def worker(q,missed):
 		r =request_(searchpage,params)
 		#search_result = contentdivparser(r.text)
 		search_result = r.text
+		
 		if not check_if_in(search_result):
 			print('cannot find result')
 			missed['notfind'].append(companylist)
@@ -208,7 +207,6 @@ def worker(q,missed):
 			missed['nothing'].append(companylist)
 			continue
 
-
 		ncsr = date_filter(ncsr)
 		ncsrs = date_filter(ncsrs)
 		if not ncsr or not ncsrs:
@@ -217,19 +215,18 @@ def worker(q,missed):
 			continue
 		ncsrlink = [get_doc(homepage+each[1],[each[0],each[2]]) for each in ncsr]
 		ncsrslink = [get_doc(homepage+each[1],[each[0],each[2]]) for each in ncsrs]
-		for each in ncsrlink:
+		for each in ncsrlink+ncsrslink:
 			a = get_data(each[2],each[0])
 			if a == 'too much':
 				missed['toomuch'].append(companylist)
 				continue
-			elif a == 'None':
-				missed['None'].append(companylist)
-				continue
-
 			repodate ={'ReportDate':each[1]}
 			a.update(repodate)
 			a.update(baseinfo)
 			print(a)
+			if None in a.values():
+				missed['None'].append(a)
+				continue
 			missed['result'].append(a)
 				
 
