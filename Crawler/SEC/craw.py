@@ -10,6 +10,7 @@ import time
 from multiprocessing import Process,Queue
 from datetime import datetime as dt
 import numpy as np
+import pickle
 
 
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
@@ -80,7 +81,7 @@ def get_doc(doclink,param):
 
 
 def get_data(doclink,doctype):
-	data = dict(Date=None,Type=None,NAV=None,Price = None,Turnover= None)
+	data = dict(Date=None,Type=None,NAV=None,Price = None,Turnover= None,Expense = None)
 	reps = [['NAV',r'Net[ ]+asset[ ]+value[ a-z]*,[ a-z]*end[ a-z]+of[ a-z]+?[a-z]+','$'],
 		['Price',r'Market[ ]+(?:price|value)[ a-z]*,[ a-z]*end[ ]+of[ ]+period','$'],
 		['Turnover',r'portfolio turnover','%']]
@@ -101,7 +102,7 @@ def get_data(doclink,doctype):
 	alltr = soup.find_all("tr")
 	
 	tbls = set()
-	
+	turnovers = []
 	for each in alltr:
 		dec = re.sub(r'[^\x00-\x7F]','', each.decode())
 		for ea in reps:
@@ -113,20 +114,41 @@ def get_data(doclink,doctype):
 				
 				sorp = re.compile(r'>([a-zA-Z0-9.%$, ]+)<',re.S)
 				rawcont = re.findall(sorp,dec)
-				
 				raw = ' '.join([eac for eac in rawcont if not eac.isspace()])
-				
 				rawdata = raw_parser(raw,ea[2])
-				
 				if not data[ea[0]] and rawdata:
 					data[ea[0]]=rawdata
 				elif not rawdata:
 					continue
 				elif data[ea[0]] and data[ea[0]]!=rawdata:
 					return 'too much'
-				
-			
-				
+				if ea[0] == 'Turnover':
+					turnovers.append(each)
+	if len(turnovers) == 1:
+		for each in turnovers:
+			partable = each.parent
+			partr = partable.find_all("tr")
+
+
+
+			expensetrs = [re.sub(r'[^\x00-\x7F]','', extr.decode()) for extr in partr if re.findall(re.compile(r'expense',re.I|re.S),extr.decode())]
+			expdata = []
+			for exp in expensetrs:
+						
+				expraw = [eac for eac in re.findall(sorp,exp) if not eac.isspace()]
+				if expraw:
+					expname = expraw[0]
+					expjoin = ' '.join(expraw)
+					#print('\n',expraw,expjoin,'\n')
+					exppercent = raw_parser(' '.join(expraw),ea[2])
+							
+					expdata.append([expname,exppercent])
+			if len(expdata) == 1:
+				data['Expense'] = expdata[0][1]
+			elif len(expdata) >1:
+				for ed in expdata:
+					print(ed)
+					data[ed[0]]=ed[1]
 
 	return data 
 
